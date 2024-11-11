@@ -1,0 +1,97 @@
+baseURL = 'https://chtho1y.github.io/'
+title = '望乔随笔'
+theme = "PaperMod"
+
+# 语言设置
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    languageCode = "zh-CN"
+    contentDir = "content/zh"
+    weight = 1
+    title = "望乔随笔"
+    [languages.zh.params]
+        homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
+    期待与志同道合的你碰撞思维火花，共创未来可能。
+    联系方式：
+    🌐 微信：Chtholy  
+    💬 QQ：939526265  
+    📧 邮箱：love.code@163.com
+        """ }
+        broadcast = "这是一片探索思维与创业的原野，这里有我的深度原创洞见，也有我精挑细选的优质内容分享。无论是关于战略、创新，还是实际落地，全是满满的干货，助你启发灵感，驱动行动。"
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    contentDir = "content/en"
+    weight = 2
+    title = "Chtho1y's Blog"
+    [languages.en.params]
+        homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """
+    Eager to connect with like-minded innovators and co-create future possibilities.
+    Contact me: 
+    📧 Mail: love.code@163.com        
+        """ }
+        broadcast = "A curated field of thought and entrepreneurship—a blend of my original insights and meticulously selected premium content. From strategy and innovation to actionable execution, every piece is packed with value to spark inspiration and drive results."
+
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowLanguageSelector = true
+  ShowToc = true
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Chtho1y"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://x.com/agi_engage"
+
+[menu]
+  [[menu.main]]
+    identifier = "Anthropic"
+    name = "Anthropic"
+    url = "https://claude.ai/"
+    weight = 10
+  [[menu.main]]
+    identifier = "OpenAI"
+    name = "OpenAI"
+    url = "https://chat.openai.com/"
+    weight = 20
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = true
