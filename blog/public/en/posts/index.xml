@@ -2,37 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Chtho1y&#39;s Blog</title>
-    <link>http://localhost:1313/en/posts/</link>
+    <link>https://www.aiqwq.com/en/posts/</link>
     <description>Recent content in Posts on Chtho1y&#39;s Blog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 11 Nov 2024 18:21:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>StartUp Guide</title>
-      <link>http://localhost:1313/en/posts/startup-guide/</link>
-      <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
-      <guid>http://localhost:1313/en/posts/startup-guide/</guid>
-      <description>&lt;h1 id=&#34;startup-guide&#34;&gt;StartUp Guide&lt;/h1&gt;
-&lt;h3 id=&#34;1-basics-of-global-expansion&#34;&gt;1. Basics of Global Expansion&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;$193 to register a US company + EIN + Stripe + Mercury Bank&lt;/strong&gt;&lt;/p&gt;
-&lt;img width=&#34;919&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/911d5ed7-acca-4607-8d6e-0b021f9ffa52&#34;&gt;
-&lt;h4 id=&#34;step-1-registering-a-us-company&#34;&gt;Step 1: Registering a US Company&lt;/h4&gt;
-&lt;p&gt;I chose to register in Wyoming because Wyoming does not charge corporate or personal income tax, and it allows registration by non-US residents.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Visit &lt;a href=&#34;https://www.wyomingagents.com/&#34;&gt;Wyoming Agents&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;img width=&#34;705&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/5242b5c6-a90d-4e8e-8926-919046358598&#34;&gt;
-&lt;p&gt;Fill out the required basic information.&lt;/p&gt;
-&lt;img width=&#34;759&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/5c1ff0b3-6ecc-4a32-809a-31d7c94f285e&#34;&gt;
-&lt;img width=&#34;696&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/f6f55555-cdb8-4047-9461-64069eec55f7&#34;&gt;
-&lt;p&gt;For company type, select LLC for individuals or small organizations. If your company intends to raise funding, choose CORP. This guide assumes most readers are independent developers, so LLC is the recommended option. Provide your actual address without embellishment.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://www.aiqwq.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tools for Global Expansion</title>
-      <link>http://localhost:1313/en/posts/tools-for-global-expansion/</link>
+      <link>https://www.aiqwq.com/en/posts/tools-for-global-expansion/</link>
       <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
-      <guid>http://localhost:1313/en/posts/tools-for-global-expansion/</guid>
+      <guid>https://www.aiqwq.com/en/posts/tools-for-global-expansion/</guid>
       <description>&lt;h1 id=&#34;tools-for-global-expansion&#34;&gt;Tools for Global Expansion&lt;/h1&gt;
 &lt;h2 id=&#34;web-development-templates&#34;&gt;Web Development Templates&lt;/h2&gt;
 &lt;table&gt;
@@ -709,6 +689,26 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>StartUp Guide</title>
+      <link>https://www.aiqwq.com/en/posts/startup-guide/</link>
+      <pubDate>Fri, 01 Nov 2024 12:21:32 +0800</pubDate>
+      <guid>https://www.aiqwq.com/en/posts/startup-guide/</guid>
+      <description>&lt;h1 id=&#34;startup-guide&#34;&gt;StartUp Guide&lt;/h1&gt;
+&lt;h3 id=&#34;1-basics-of-global-expansion&#34;&gt;1. Basics of Global Expansion&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;$193 to register a US company + EIN + Stripe + Mercury Bank&lt;/strong&gt;&lt;/p&gt;
+&lt;img width=&#34;919&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/911d5ed7-acca-4607-8d6e-0b021f9ffa52&#34;&gt;
+&lt;h4 id=&#34;step-1-registering-a-us-company&#34;&gt;Step 1: Registering a US Company&lt;/h4&gt;
+&lt;p&gt;I chose to register in Wyoming because Wyoming does not charge corporate or personal income tax, and it allows registration by non-US residents.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Visit &lt;a href=&#34;https://www.wyomingagents.com/&#34;&gt;Wyoming Agents&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img width=&#34;705&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/5242b5c6-a90d-4e8e-8926-919046358598&#34;&gt;
+&lt;p&gt;Fill out the required basic information.&lt;/p&gt;
+&lt;img width=&#34;759&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/5c1ff0b3-6ecc-4a32-809a-31d7c94f285e&#34;&gt;
+&lt;img width=&#34;696&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/f6f55555-cdb8-4047-9461-64069eec55f7&#34;&gt;
+&lt;p&gt;For company type, select LLC for individuals or small organizations. If your company intends to raise funding, choose CORP. This guide assumes most readers are independent developers, so LLC is the recommended option. Provide your actual address without embellishment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
