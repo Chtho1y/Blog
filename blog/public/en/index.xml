@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chtho1y&#39;s Blog</title>
-    <link>http://localhost:1313/en/</link>
+    <link>http://localhost:1313/zh/en/</link>
     <description>Recent content on Chtho1y&#39;s Blog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 11 Nov 2024 18:21:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>StartUp Guide</title>
-      <link>http://localhost:1313/en/posts/startup-guide/</link>
+      <link>http://localhost:1313/zh/en/posts/startup-guide/</link>
       <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
-      <guid>http://localhost:1313/en/posts/startup-guide/</guid>
+      <guid>http://localhost:1313/zh/en/posts/startup-guide/</guid>
       <description>&lt;h1 id=&#34;startup-guide&#34;&gt;StartUp Guide&lt;/h1&gt;
 &lt;h3 id=&#34;1-basics-of-global-expansion&#34;&gt;1. Basics of Global Expansion&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;$193 to register a US company + EIN + Stripe + Mercury Bank&lt;/strong&gt;&lt;/p&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Tools for Global Expansion</title>
-      <link>http://localhost:1313/en/posts/tools-for-global-expansion/</link>
+      <link>http://localhost:1313/zh/en/posts/tools-for-global-expansion/</link>
       <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
-      <guid>http://localhost:1313/en/posts/tools-for-global-expansion/</guid>
+      <guid>http://localhost:1313/zh/en/posts/tools-for-global-expansion/</guid>
       <description>&lt;h1 id=&#34;tools-for-global-expansion&#34;&gt;Tools for Global Expansion&lt;/h1&gt;
 &lt;h2 id=&#34;web-development-templates&#34;&gt;Web Development Templates&lt;/h2&gt;
 &lt;table&gt;
