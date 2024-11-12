@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # 当 main 分支有更改时触发
+      - main  # 触发条件为 main 分支的更改
 
 jobs:
   build:
@@ -22,12 +22,12 @@ jobs:
 
       # Step 3: 构建 Hugo 静态页面
       - name: Build Hugo site
-        run: hugo --source ./blog --destination ./public -D --cleanDestinationDir
+        run: hugo --source ./blog --destination ./blog/public -D --cleanDestinationDir
 
       # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./blog/public
           publish_branch: gh-pages
