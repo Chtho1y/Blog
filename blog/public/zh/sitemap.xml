@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aiqwq.com/zh/posts/</loc>
+    <loc>https://www.aiqwq.com/zh/zh/posts/</loc>
     <lastmod>2024-11-11T18:26:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/posts/"
+                href="https://www.aiqwq.com/zh/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/posts/"
+                href="https://www.aiqwq.com/zh/zh/posts/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/zh/</loc>
+    <loc>https://www.aiqwq.com/zh/zh/</loc>
     <lastmod>2024-11-11T18:26:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/"
+                href="https://www.aiqwq.com/zh/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/"
+                href="https://www.aiqwq.com/zh/zh/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/zh/categories/</loc>
+    <loc>https://www.aiqwq.com/zh/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/categories/"
+                href="https://www.aiqwq.com/zh/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/categories/"
+                href="https://www.aiqwq.com/zh/zh/categories/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/zh/tags/</loc>
+    <loc>https://www.aiqwq.com/zh/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/tags/"
+                href="https://www.aiqwq.com/zh/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/tags/"
+                href="https://www.aiqwq.com/zh/zh/tags/"
                 />
   </url>
 </urlset>
