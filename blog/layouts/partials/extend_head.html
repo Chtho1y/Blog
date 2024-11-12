@@ -7,6 +7,7 @@
         border-radius: 5px;
         font-style: italic;
         transition: background-color 0.3s, color 0.3s;
+        font-size: 18px;
     }
 
     body:not(.dark) .site-description {
@@ -17,6 +18,18 @@
     body.dark .site-description {
         background-color: #3b3b3b;
         color: #d9d9d9;
+    }
+
+    @media (max-width: 768px) {
+        .site-description {
+            font-size: 16px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .site-description {
+            font-size: 14px;
+        }
     }
 </style>
 <div class="site-description">
