@@ -13,16 +13,20 @@ jobs:
       # Step 1: 检出代码
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          submodules: true 
 
       # Step 2: 安装 Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.111.3'
 
       # Step 3: 构建 Hugo 静态页面
       - name: Build Hugo site
-        run: hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/" --source ./blog --destination ./blog/public
+        run: |
+        cd blog
+        hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
 
       # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
       - name: Deploy to GitHub Pages
