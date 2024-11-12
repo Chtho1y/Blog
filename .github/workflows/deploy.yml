@@ -24,9 +24,10 @@ jobs:
       - name: Build Hugo site
         run: hugo --source blog --destination public
 
-      # Step 4: 部署到 GitHub Pages
+      # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./blog/public
+          publish_branch: gh-pages  # 部署到 gh-pages 分支
