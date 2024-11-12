@@ -2,60 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://www.aiqwq.com/en/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/"
+                href="https://www.aiqwq.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://www.aiqwq.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://www.aiqwq.com/en/posts/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/posts/"
+                href="https://www.aiqwq.com/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://www.aiqwq.com/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/startup-guide/</loc>
-    <lastmod>2024-11-11T18:21:32+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/tools-for-global-expansion/</loc>
-    <lastmod>2024-11-11T18:21:32+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://www.aiqwq.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/categories/"
+                href="https://www.aiqwq.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://www.aiqwq.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://www.aiqwq.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/tags/"
+                href="https://www.aiqwq.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://www.aiqwq.com/en/tags/"
                 />
   </url>
 </urlset>
