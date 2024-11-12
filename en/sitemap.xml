@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aiqwq.com/en/</loc>
-    <lastmod>2024-11-11T18:21:32+08:00</lastmod>
+    <lastmod>2024-11-12T20:59:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -15,8 +15,11 @@
                 href="https://www.aiqwq.com/en/"
                 />
   </url><url>
+    <loc>https://www.aiqwq.com/en/posts/claudesystemprompt/</loc>
+    <lastmod>2024-11-12T20:59:35+08:00</lastmod>
+  </url><url>
     <loc>https://www.aiqwq.com/en/posts/</loc>
-    <lastmod>2024-11-11T18:21:32+08:00</lastmod>
+    <lastmod>2024-11-12T20:59:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -28,10 +31,10 @@
                 href="https://www.aiqwq.com/en/posts/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/tools-for-global-expansion/</loc>
+    <loc>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/startup-guide/</loc>
+    <loc>https://www.aiqwq.com/en/posts/startupguide/</loc>
     <lastmod>2024-11-01T12:21:32+08:00</lastmod>
   </url><url>
     <loc>https://www.aiqwq.com/en/categories/</loc>
