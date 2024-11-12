@@ -3,18 +3,16 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main  # 当 main 分支有更改时触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: 检出代码并更新子模块
+      # Step 1: 检出代码
       - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          submodules: true  # 更新子模块
 
       # Step 2: 安装 Hugo
       - name: Setup Hugo
@@ -24,7 +22,7 @@ jobs:
 
       # Step 3: 构建 Hugo 静态页面
       - name: Build Hugo site
-        run: hugo --source ./blog --destination ./public -D
+        run: hugo --source ./blog --destination ./public -D --cleanDestinationDir
 
       # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
       - name: Deploy to GitHub Pages
@@ -33,4 +31,3 @@ jobs:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          force_orphan: true
