@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aiqwq.com/zh/posts/</loc>
+    <loc>https://www.aiqwq.com/posts/</loc>
     <lastmod>2024-11-11T18:26:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,10 +12,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/posts/"
+                href="https://www.aiqwq.com/posts/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/zh/</loc>
+    <loc>https://www.aiqwq.com/</loc>
     <lastmod>2024-11-11T18:26:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -25,10 +25,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/"
+                href="https://www.aiqwq.com/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/zh/categories/</loc>
+    <loc>https://www.aiqwq.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -37,10 +37,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/categories/"
+                href="https://www.aiqwq.com/categories/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/zh/tags/</loc>
+    <loc>https://www.aiqwq.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -49,7 +49,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/tags/"
+                href="https://www.aiqwq.com/tags/"
                 />
   </url>
 </urlset>
