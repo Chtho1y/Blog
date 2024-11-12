@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = true
     💬 QQ：939526265  
     📧 邮箱：love.code@163.com
         """ }
-        broadcast = "这是一片探索思维与创业的原野，这里有我的深度原创洞见，也有我精挑细选的优质内容分享。无论是关于战略、创新，还是实际落地，全是满满的干货，助你启发灵感，驱动行动。"
+        broadcast = "这是一片探索洞见与创业机遇的原野，这里汇聚我的深度思考，也囊括我精心挑选的优质内容。无论是关于战略、创新，还是实际落地，全是满满的干货，助你点燃灵感，引领行动。"
 
   [languages.en]
     languageName = "English"
