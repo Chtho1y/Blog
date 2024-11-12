@@ -22,7 +22,7 @@ jobs:
 
       # Step 3: 构建 Hugo 静态页面
       - name: Build Hugo site
-        run: hugo --source ./blog --destination public
+        run: hugo --source ./blog --destination ./blog/public -D
 
       # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
       - name: Deploy to GitHub Pages
