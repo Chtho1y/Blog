@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on 望乔随笔</title>
-    <link>https://www.aiqwq.com/zh/zh/tags/</link>
-    <description>Recent content in Tags on 望乔随笔</description>
+    <title>望乔随笔</title>
+    <link>https://www.aiqwq.com/</link>
+    <description>Recent content on 望乔随笔</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>zh-CN</language>
-    <atom:link href="https://www.aiqwq.com/zh/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://www.aiqwq.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
