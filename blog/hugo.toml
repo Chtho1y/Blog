@@ -1,10 +1,10 @@
-baseURL = "https://www.aiqwq.com/zh"
+baseURL = "https://www.aiqwq.com/"
 title = '望乔随笔'
 theme = "PaperMod"
 
 # 语言设置
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 [languages]
   [languages.zh]
