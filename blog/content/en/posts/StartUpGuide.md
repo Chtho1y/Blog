@@ -5,9 +5,6 @@ title = 'StartUp Guide'
 +++
 
 
-# StartUp Guide
-
-
 ### 1. Basics of Global Expansion
 
 **$193 to register a US company + EIN + Stripe + Mercury Bank**
