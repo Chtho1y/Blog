@@ -13,6 +13,21 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/zh"
     weight = 1
     title = "望乔随笔"
+    [[languages.zh.menu.main]]
+      identifier = "Anthropic"
+      name = "Anthropic"
+      url = "https://claude.ai/"
+      weight = 10
+    [[languages.zh.menu.main]]
+      identifier = "OpenAI"
+      name = "OpenAI"
+      url = "https://chat.openai.com/"
+      weight = 20
+    [[languages.zh.menu.main]]
+      identifier = "support"
+      name = "赞助"
+      url = "/zh/support/"
+      weight = 30
     [languages.zh.params]
         homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
     期待与志同道合的你碰撞思维火花，共创未来可能。
@@ -29,6 +44,21 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/en"
     weight = 2
     title = "Chtho1y's Blog"
+    [[languages.en.menu.main]]
+      identifier = "Anthropic"
+      name = "Anthropic"
+      url = "https://claude.ai/"
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = "OpenAI"
+      name = "OpenAI"
+      url = "https://chat.openai.com/"
+      weight = 20
+    [[languages.en.menu.main]]
+      identifier = "support"
+      name = "Support"
+      url = "/en/support/"
+      weight = 30
     [languages.en.params]
         homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """
     Eager to connect with like-minded innovators and co-create future possibilities.
@@ -57,17 +87,6 @@ defaultContentLanguageInSubdir = true
     name = "twitter"
     url = "https://x.com/agi_engage"
 
-[menu]
-  [[menu.main]]
-    identifier = "Anthropic"
-    name = "Anthropic"
-    url = "https://claude.ai/"
-    weight = 10
-  [[menu.main]]
-    identifier = "OpenAI"
-    name = "OpenAI"
-    url = "https://chat.openai.com/"
-    weight = 20
 
 [markup]
   [markup.highlight]
