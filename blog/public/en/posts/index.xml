@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Chtho1y&#39;s Blog</title>
-    <link>https://www.aiqwq.com/en/posts/</link>
+    <link>http://localhost:1313/en/posts/</link>
     <description>Recent content in Posts on Chtho1y&#39;s Blog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 13 Nov 2024 13:48:34 +0800</lastBuildDate>
-    <atom:link href="https://www.aiqwq.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Notes on *Deng Xiaoping and the Transformation of China*</title>
-      <link>https://www.aiqwq.com/en/posts/dengxiaopingandthetransformationofchina/</link>
+      <link>http://localhost:1313/en/posts/dengxiaopingandthetransformationofchina/</link>
       <pubDate>Wed, 13 Nov 2024 13:48:34 +0800</pubDate>
-      <guid>https://www.aiqwq.com/en/posts/dengxiaopingandthetransformationofchina/</guid>
+      <guid>http://localhost:1313/en/posts/dengxiaopingandthetransformationofchina/</guid>
       <description>&lt;h2 id=&#34;crossing-the-river-by-feeling-the-stones&#34;&gt;Crossing the River by Feeling the Stones&lt;/h2&gt;
 &lt;p&gt;In 1978, there was no clear blueprint for achieving national strength and wealth. However, Deng Xiaoping had two critical realizations for moving forward:&lt;/p&gt;
 &lt;ol&gt;
@@ -29,9 +29,9 @@
     </item>
     <item>
       <title>Claude System Prompt</title>
-      <link>https://www.aiqwq.com/en/posts/claudesystemprompt/</link>
+      <link>http://localhost:1313/en/posts/claudesystemprompt/</link>
       <pubDate>Tue, 12 Nov 2024 20:59:35 +0800</pubDate>
-      <guid>https://www.aiqwq.com/en/posts/claudesystemprompt/</guid>
+      <guid>http://localhost:1313/en/posts/claudesystemprompt/</guid>
       <description>&lt;h2 id=&#34;claude-artifacts-system-prompt&#34;&gt;Claude Artifacts System Prompt&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-xml&#34; data-lang=&#34;xml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;&amp;lt;artifacts_info&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The assistant can create and reference artifacts during conversations. Artifacts are for substantial, self-contained content that users might modify or reuse, displayed in a separate UI window for clarity.
@@ -430,9 +430,9 @@
     </item>
     <item>
       <title>Tools for Global Expansion</title>
-      <link>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</link>
+      <link>http://localhost:1313/en/posts/toolsforglobalexpansion/</link>
       <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
-      <guid>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</guid>
+      <guid>http://localhost:1313/en/posts/toolsforglobalexpansion/</guid>
       <description>&lt;h2 id=&#34;web-development-templates&#34;&gt;Web Development Templates&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -1111,9 +1111,9 @@
     </item>
     <item>
       <title>StartUp Guide</title>
-      <link>https://www.aiqwq.com/en/posts/startupguide/</link>
+      <link>http://localhost:1313/en/posts/startupguide/</link>
       <pubDate>Fri, 01 Nov 2024 12:21:32 +0800</pubDate>
-      <guid>https://www.aiqwq.com/en/posts/startupguide/</guid>
+      <guid>http://localhost:1313/en/posts/startupguide/</guid>
       <description>&lt;h2 id=&#34;1-fundamentals-of-global-expansion&#34;&gt;1. Fundamentals of Global Expansion&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Register a US company, obtain an EIN, open a Stripe account, and set up a Mercury Bank account for $193&lt;/strong&gt;&lt;/p&gt;
 &lt;img width=&#34;919&#34; alt=&#34;image&#34; src=&#34;https://github.com/hua1995116/indiehackers-steps/assets/12070073/911d5ed7-acca-4607-8d6e-0b021f9ffa52&#34;&gt;
