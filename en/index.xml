@@ -6,8 +6,17 @@
     <description>Recent content on Chtho1y&#39;s Blog</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Nov 2024 20:59:35 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 13:48:34 +0800</lastBuildDate>
     <atom:link href="https://www.aiqwq.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Notes on *Deng Xiaoping and the Transformation of China*</title>
+      <link>https://www.aiqwq.com/en/posts/dengxiaopingandthetransformationofchina/</link>
+      <pubDate>Wed, 13 Nov 2024 13:48:34 +0800</pubDate>
+      <guid>https://www.aiqwq.com/en/posts/dengxiaopingandthetransformationofchina/</guid>
+      <description>Crossing the River by Feeling the Stones In 1978, there was no clear blueprint for achieving national strength and wealth. However, Deng Xiaoping had two critical realizations for moving forward:
+Japan, South Korea, and Taiwan were experiencing rapid development. Their paths could not be entirely copied. Key approaches:
+Gradually establishing various systems instead of immediately opening markets. Encouraging cadres to broaden their horizons and learn from successful experiences worldwide. Confidence &amp;ldquo;He possessed an inner confidence that enabled him to focus directly on the essence of issues.</description>
+    </item>
     <item>
       <title>Claude System Prompt</title>
       <link>https://www.aiqwq.com/en/posts/claudesystemprompt/</link>
@@ -20,17 +29,16 @@
       <link>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</link>
       <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
       <guid>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</guid>
-      <description>Tools for Global Expansion Web Development Templates Template Features smart-excel-ai (Free) Built with Next.js. Includes login, payment (lemon squeezy), and AI features. Opensaas (Free) Built with React + Node.js. Includes login, payment (Stripe), email, and AI features. Shipfast (Paid) Built with Next.js. Includes login, payment (Stripe), email, and AI features. SupaStarter (Paid) Offers both Next.js and Nuxt templates with comprehensive features. Full-stack plugin and landing page source code with tutorials (Paid) Includes code and tutorials: Plugin (Plasmo), landing page (Next.</description>
+      <description>Web Development Templates Template Features smart-excel-ai (Free) Built with Next.js. Includes login, payment (lemon squeezy), and AI features. Opensaas (Free) Built with React + Node.js. Includes login, payment (Stripe), email, and AI features. Shipfast (Paid) Built with Next.js. Includes login, payment (Stripe), email, and AI features. SupaStarter (Paid) Offers both Next.js and Nuxt templates with comprehensive features. Full-stack plugin and landing page source code with tutorials (Paid) Includes code and tutorials: Plugin (Plasmo), landing page (Next.</description>
     </item>
     <item>
       <title>StartUp Guide</title>
       <link>https://www.aiqwq.com/en/posts/startupguide/</link>
       <pubDate>Fri, 01 Nov 2024 12:21:32 +0800</pubDate>
       <guid>https://www.aiqwq.com/en/posts/startupguide/</guid>
-      <description>1. Basics of Global Expansion $193 to register a US company + EIN + Stripe + Mercury Bank
-Step 1: Registering a US Company I chose to register in Wyoming because Wyoming does not charge corporate or personal income tax, and it allows registration by non-US residents.
-Visit Wyoming Agents Fill out the required basic information.
-For company type, select LLC for individuals or small organizations. If your company intends to raise funding, choose CORP.</description>
+      <description>1. Fundamentals of Global Expansion Register a US company, obtain an EIN, open a Stripe account, and set up a Mercury Bank account for $193
+Step 1: Registering a US Company I chose Wyoming for registration because it offers no corporate or personal income tax and is open to all nationalities.
+Visit Wyoming Agents. Fill out the required basic information. For company type, select LLC for individuals or small organizations. If you need funding, choose CORP.</description>
     </item>
   </channel>
 </rss>
