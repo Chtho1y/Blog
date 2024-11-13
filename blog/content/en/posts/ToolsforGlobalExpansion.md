@@ -5,8 +5,6 @@ title = 'Tools for Global Expansion'
 +++
 
 
-# Tools for Global Expansion
-
 ## Web Development Templates
 
 | Template | Features |

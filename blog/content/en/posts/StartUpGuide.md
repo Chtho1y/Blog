@@ -5,136 +5,184 @@ title = 'StartUp Guide'
 +++
 
 
-### 1. Basics of Global Expansion
+## 1. Fundamentals of Global Expansion
 
-**$193 to register a US company + EIN + Stripe + Mercury Bank**
+**Register a US company, obtain an EIN, open a Stripe account, and set up a Mercury Bank account for $193**
 
 <img width="919" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/911d5ed7-acca-4607-8d6e-0b021f9ffa52">
 
-#### Step 1: Registering a US Company
+### Step 1: Registering a US Company
 
-I chose to register in Wyoming because Wyoming does not charge corporate or personal income tax, and it allows registration by non-US residents.
+I chose Wyoming for registration because it offers no corporate or personal income tax and is open to all nationalities.
 
-1. Visit [Wyoming Agents](https://www.wyomingagents.com/)
+1. Visit [Wyoming Agents](https://www.wyomingagents.com/).
 
 <img width="705" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/5242b5c6-a90d-4e8e-8926-919046358598">
 
-Fill out the required basic information.
+2. Fill out the required basic information.
 
 <img width="759" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/5c1ff0b3-6ecc-4a32-809a-31d7c94f285e">
 
 <img width="696" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/f6f55555-cdb8-4047-9461-64069eec55f7">
 
-For company type, select LLC for individuals or small organizations. If your company intends to raise funding, choose CORP. This guide assumes most readers are independent developers, so LLC is the recommended option. Provide your actual address without embellishment.
+3. For company type, select LLC for individuals or small organizations. If you need funding, choose CORP. Since this guide is for independent developers, LLC is recommended. Use your actual address without embellishments.
 
 <img width="714" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/bcf62ebb-55bb-4f5e-8a57-68ac0d711559">
 
-For the optional add-ons, stick to the default choices. Additional services can be purchased later after registration.
+4. Stick to the default options for additional services. You can purchase extras after registration if needed.
 
 <img width="690" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/449f187f-cd29-4aa5-83cd-44e23682ac2e">
 
-Wait about a week to complete the registration process. You will receive the company charter and other company documents.
+Wait about a week to complete the registration process. You’ll receive the company charter and other documentation.
 
-> Tip: After registration, you'll get a US mailing address for an additional fee. You can also opt for their mail scanning service.
+> **Tip:** Post-registration, you’ll get a US mailing address for an additional fee. You can also opt for their mail scanning service if needed.
 
-Cost: $150 | Time: 1 week
-
-#### Step 2: EIN
-
-After obtaining the company charter, apply for an EIN. You can do this yourself on the [official IRS website](https://www.irs.gov/zh-hant/businesses/small-businesses-self-employed/how-to-apply-for-an-ein), which supports Chinese.
-
-Alternatively, hire a freelancer on Fiverr. Provide your company charter, and they will handle the application for you.
-
-I paid $35 + $8.17 (Fiverr platform fee), and it took only 3 days to get the EIN + IRS confirmation letter. The freelancer advised waiting a week before registering on Stripe to ensure synchronization.
-
-Cost: $35 + $8.17 | Time: 3 days
-
-#### Step 3: Mercury Bank
-
-Visit [Mercury](https://mercury.com). With a US company and EIN, applying is straightforward. Submit the required documents and wait for the review process.
-
-Address proof is needed, such as a utility bill or bank statement with your name and address. If the utility bill is not in your name, additional documents like a rental agreement or property ownership certificate can be used.
-
-Cost: $0 | Time: 3 days (initial review) + 2 days (address review)
-
-#### Step 4: Stripe
-
-With all the above documents, apply for [Stripe](https://stripe.com/). The most challenging part is obtaining the EIN, which is now resolved.
-
-Cost: $0 | Time: 1 day
-
-Congratulations! You're ready to start your business!
-
-#### Step 5: Beneficial Ownership Information (BOI)
-
-Visit the official site: [FinCEN BOI FAQs](https://www.fincen.gov/boi-faqs#A_1)
-
-<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/6ca613bf-b56e-4563-81d7-be707543d521">
-
-WyomingAgents.com provides a service to handle BOI filings for $9.
-
-Case 1: Companies registered after 2024
-<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/c55a26c1-4005-4883-8681-a32ca9b655ba">
-
-Case 2: Companies registered before 2024
-Log in, click "Hire Us," scroll down, and purchase the service for $9.
-
-Cost: $9 | Time: Varies
-
-#### Step 6: Apply for a Wise Account
-
-Visit [Wise](https://wise.com/). Wise allows receiving payments from any region. A $31 account opening fee is required for business accounts.
-
-<img width="1169" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/a92aca64-1bd0-4c27-a371-e853b7156913">
-
-Prepare:
-1. US company charter + EIN
-2. Domestic address
-3. Passport
-4. Linked US bank account (e.g., Mercury)
-
-Cost: $31 | Time: Varies
-
-Official guide: [How to Open a Wise Account](https://wise.com/zh-cn/blog/open-wise-account)
+**Cost:** $150 | **Time:** 1 week
 
 ---
 
-### 2. Free Cloud Resources for Startups
+### Step 2: EIN
 
-**Why apply?**
-For startups without funding, initial development can be challenging. These credits significantly reduce early-stage expenses.
+After obtaining the company charter, you can apply for an EIN via the [IRS official website](https://www.irs.gov/zh-hant/businesses/small-businesses-self-employed/how-to-apply-for-an-ein), which supports Chinese.
 
-**How to apply?**  
-Details will be added later.
+Alternatively, hire someone on Fiverr. Provide them with your company charter, and they will handle the application.
 
-**Why do cloud providers offer such large credits?**  
-They aim to attract long-term customers. Once you're locked in, switching providers incurs high migration costs.
+I received my EIN + IRS confirmation letter in 3 days, though Fiverr noted that EIN synchronization might take up to a week before you can register with Stripe.
 
-#### GitHub Enterprise X (12 months, worth $5040)
-(Obtained) ✅
+**Cost:** $35 + $8.17 (Fiverr fee) | **Time:** 3 days
 
-#### Azure ($150k Credit)
-(Obtained) ✅
-Stages:
-1. $1k
-2. $5k
-3. $25k
-4. $150k
+---
 
-#### AWS ($15k Credit)
-(Obtained) ✅
-AWS credits are granted in stages:
-1. Initial $5k
-2. Additional $5k for every $5k spent
+### Step 3: Mercury Bank
 
-#### Google ($2k Credit)
-(Obtained) ✅
+Visit [Mercury](https://mercury.com). With a US company and EIN, applying is straightforward. Fill in your details accurately. Within 3 business days, they will request address verification, such as a utility bill or bank statement with your name and address.
 
-#### Nvidia
-(Obtained) ✅
+For simplicity, I used my home address and submitted a utility bill and household registry (since the utility account was under my father’s name). If your utility bill lacks your name, include a rental agreement or property ownership certificate.
 
-#### Alibaba Cloud
-(To be explored)
+**Cost:** $0 | **Time:** 3 days (initial review) + 2 days (address verification)
 
-#### Huawei Cloud
-(To be explored)
+---
+
+### Step 4: Stripe
+
+With all the above documentation, registering on [Stripe](https://stripe.com/) is straightforward. The primary hurdle for Stripe is obtaining the EIN.
+
+**Cost:** $0 | **Time:** 1 day
+
+You’re now ready to embark on your business journey!
+
+---
+
+### Step 5: Beneficial Ownership Information (BOI)
+
+Official website: [FinCEN BOI FAQs](https://www.fincen.gov/boi-faqs#A_1)
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/6ca613bf-b56e-4563-81d7-be707543d521">
+
+WyomingAgents.com offers BOI filing services for $9. Companies registered post-2024 will have this included by default.
+
+#### Case 1: Companies Registered After 2024
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/c55a26c1-4005-4883-8681-a32ca9b655ba">
+
+#### Case 2: Companies Registered Before 2024
+Log in, click "Hire Us," and scroll down to the bottom.
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/46a45d0f-1e4c-40e8-aebf-8f6069ad7a03">
+
+Purchase the service for $9 and complete the required details (passport required).
+
+**Cost:** $9 | **Time:** Varies
+
+---
+
+### Step 6: Apply for a Wise Account
+
+Visit [Wise](https://wise.com). Wise allows you to send and receive payments globally. A business account requires a $31 opening fee.
+
+<img width="1169" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/a92aca64-1bd0-4c27-a371-e853b7156913">
+
+Prepare:  
+1. US company + EIN  
+2. Domestic address  
+3. Passport  
+4. Linked US bank account (e.g., Mercury)  
+
+Learn more: [Wise Account Guide](https://wise.com/zh-cn/blog/open-wise-account)
+
+**Cost:** $31 | **Time:** Varies
+
+<img width="585" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/b5761ab2-6002-4e9d-9745-d46b4c774558">
+
+---
+
+### Step 7: Taxes
+
+I filed forms 1120 and 5472 via Fiverr. The seller provided a template for me to complete, handled the official forms, and faxed them to the IRS.
+
+**Tax Filing Cost:** $50
+
+<img width="441" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/253a9123-3afa-4274-ade1-a7b92036826a">
+
+---
+
+## 2. Free Cloud Resources
+
+### Why Apply?
+For early-stage startups without funding, these credits can significantly reduce initial costs. Cloud providers offer these credits to attract potential long-term paying customers, as migrating infrastructure is costly once a product scales.
+
+---
+
+### 1. GitHub Enterprise X (12 months, worth $5040)
+
+**Status:** Obtained ✅  
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/c79f2a2d-64b5-44a5-bf34-eee63cb29230">
+
+---
+
+### 2. Azure ($150k Credit)
+
+**Status:** Obtained ✅  
+Credits increase in stages:  
+- Stage 1: $1k  
+- Stage 2: $5k  
+- Stage 3: $25k  
+- Stage 4: $150k  
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ec8ad25f-605b-421c-916f-c1a0b7f2bfb5">
+
+---
+
+### 3. AWS ($15k Credit)
+
+**Status:** Obtained ✅  
+Credits are distributed in phases:  
+- First $5k without conditions.  
+- Spend $5k to receive an additional $5k.  
+
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ec8ad25f-605b-421c-916f-c1a0b7f2bfb5">
+
+---
+
+### 4. Google ($2k Credit)
+
+**Status:** Obtained ✅  
+<img width="523" alt="image" src="https://github.com/hua1995116/indiehackers-steps/assets/12070073/ffad057a-b6ef-41a5-ac0d-b127a053d775">
+
+---
+
+### 5. Nvidia
+
+**Status:** Obtained ✅  
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/f903efcf-255e-4671-9f72-de911bbd01a6">
+
+---
+
+### 6. Alibaba Cloud
+
+Pending...
+
+---
+
+### 7. Huawei Cloud
+
+Pending...
