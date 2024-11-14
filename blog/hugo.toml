@@ -30,12 +30,20 @@ defaultContentLanguageInSubdir = true
       weight = 30
     [languages.zh.params]
       homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
-<p>期待与志同道合的你碰撞思维火花，共创未来可能。</p>
-<p>联系方式：</p>
-<ul>
-<li><b>微信: </b>Chtho1y</li>
-<li><b>邮箱: </b><a href="mailto:love.code@163.com">love.code@163.com</a></li>
-</ul>
+<div style='display: flex; align-items: center; justify-content: space-between;'>
+  <div style='flex: 1; padding-right: 1.5rem;'>
+    <p>期待与志同道合的你碰撞思维火花，共创未来可能。</p>
+    <br>
+    <p>联系方式：</p>
+      <ul>
+        <li><b>微信: </b>Chtho1y</li>
+        <li><b>邮箱: </b><a href="mailto:love.code@163.com">love.code@163.com</a></li>
+      </ul>
+  </div>
+  <div style='flex: 0 0 150px; text-align: center;'>
+    <img src="https://pic.imgdb.cn/item/6735b94bd29ded1a8c7625a2.png" alt="Profile Image" style="border-radius: 50%; max-width: 100%;">
+  </div>
+</div>
 """ }
         broadcast = "捕捉变化中的机遇，凝聚洞见与价值。这里沉淀我的深度思考与实践中的高价值内容。"
 
@@ -61,11 +69,20 @@ defaultContentLanguageInSubdir = true
       url = "/en/support/"
       weight = 30
     [languages.en.params]
-      homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """<p>Eager to connect with like-minded innovators and co-create future possibilities.</p>
-<p>Contact me:</p>
-<ul>
-<li><b>Email: </b><a href="mailto:love.code@163.com">love.code@163.com</a></li>
-</ul>
+      homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """
+<div style='display: flex; align-items: center; justify-content: space-between;'>
+  <div style='flex: 1; padding-right: 1.5rem;'>
+    <p>Eager to connect with like-minded innovators and co-create future possibilities.</p>
+    <br>
+    <p>Contact me:</p>
+    <ul>
+      <li><b>Email: </b><a href="mailto:love.code@163.com">love.code@163.com</a></li>
+    </ul>
+  </div>
+  <div style='flex: 0 0 150px; text-align: center;'>
+    <img src="https://pic.imgdb.cn/item/6735b94bd29ded1a8c7625a2.png" alt="Profile Image" style="border-radius: 50%; max-width: 100%;">
+  </div>
+</div>
 """}
         broadcast = "Seizing opportunities in the midst of change, distilling insights into value. This is where my deep reflections and high-impact learnings from practice converge."
 
