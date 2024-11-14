@@ -6,8 +6,18 @@
     <description>Recent content on 望乔随笔</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 14 Nov 2024 15:09:20 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 19:19:26 +0800</lastBuildDate>
     <atom:link href="https://www.aiqwq.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>赋予LLM思考的权力</title>
+      <link>https://www.aiqwq.com/zh/posts/%E8%B5%8B%E4%BA%88llm%E6%80%9D%E8%80%83%E7%9A%84%E6%9D%83%E5%8A%9B/</link>
+      <pubDate>Thu, 14 Nov 2024 19:19:26 +0800</pubDate>
+      <guid>https://www.aiqwq.com/zh/posts/%E8%B5%8B%E4%BA%88llm%E6%80%9D%E8%80%83%E7%9A%84%E6%9D%83%E5%8A%9B/</guid>
+      <description>&lt;h2 id=&#34;灵感来源&#34;&gt;灵感来源&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;受到 &lt;a href=&#34;https://github.com/richards199999/Thinking-Claude/blob/main/model_instructions.md&#34;&gt;Thinking-Claude 提示词&lt;/a&gt; 的启发，我尝试以第一性原理为出发点，写下了一段通用的&lt;em&gt;语言模型思考协议&lt;/em&gt;Prompt。实践效果良好，期待它也能为你带来启发。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
     <item>
       <title>简法：专注、杠杆与韧性的艺术</title>
       <link>https://www.aiqwq.com/zh/posts/%E7%AE%80%E6%B3%95%E4%B8%93%E6%B3%A8%E6%9D%A0%E6%9D%86%E4%B8%8E%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF/</link>
