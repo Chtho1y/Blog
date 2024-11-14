@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = true
       homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """<p>Eager to connect with like-minded innovators and co-create future possibilities.</p>
 <p>Contact me:</p>
 <ul>
-<li><b>Email</b>: <a href="mailto:love.code@163.com">love.code@163.com</a></li>
+<li><b>Email: </b><a href="mailto:love.code@163.com">love.code@163.com</a></li>
 </ul>
 """}
         broadcast = "Seizing opportunities in the midst of change, distilling insights into value. This is where my deep reflections and high-impact learnings from practice converge."
