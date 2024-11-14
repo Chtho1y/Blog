@@ -97,6 +97,8 @@ defaultContentLanguageInSubdir = true
   ShowRssButtonInSectionTermList = true
   ShowLanguageSelector = true
   ShowToc = true
+  paginate = 5
+
 
   [[params.socialIcons]]
     name = "github"
