@@ -68,6 +68,18 @@
                 href="https://www.aiqwq.com/en/categories/"
                 />
   </url><url>
+    <loc>https://www.aiqwq.com/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://www.aiqwq.com/zh/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://www.aiqwq.com/en/search/"
+                />
+  </url><url>
     <loc>https://www.aiqwq.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"

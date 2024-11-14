@@ -85,5 +85,17 @@
                 hreflang="zh-CN"
                 href="https://www.aiqwq.com/zh/tags/"
                 />
+  </url><url>
+    <loc>https://www.aiqwq.com/zh/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://www.aiqwq.com/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://www.aiqwq.com/zh/search/"
+                />
   </url>
 </urlset>
