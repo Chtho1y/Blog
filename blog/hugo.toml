@@ -13,6 +13,7 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/zh"
     weight = 1
     title = "望乔随笔"
+
     [[languages.zh.menu.main]]
       identifier = "Anthropic"
       name = "Anthropic"
@@ -28,6 +29,12 @@ defaultContentLanguageInSubdir = true
       name = "赞助"
       url = "/zh/support/"
       weight = 30
+    [[languages.zh.menu.main]]
+      identifier = "search"
+      name = ""
+      pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
+      url = "/zh/search/"
+      weight = 40
     [languages.zh.params]
       homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
 <div style='display: flex; align-items: center; justify-content: space-between;'>
@@ -53,6 +60,7 @@ defaultContentLanguageInSubdir = true
     contentDir = "content/en"
     weight = 2
     title = "Chtho1y's Blog"
+
     [[languages.en.menu.main]]
       identifier = "Anthropic"
       name = "Anthropic"
@@ -68,6 +76,12 @@ defaultContentLanguageInSubdir = true
       name = "Support"
       url = "/en/support/"
       weight = 30
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = ""
+      pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
+      url = "/en/search/"
+      weight = 40
     [languages.en.params]
       homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """
 <div style='display: flex; align-items: center; justify-content: space-between;'>
@@ -97,8 +111,15 @@ defaultContentLanguageInSubdir = true
   ShowRssButtonInSectionTermList = true
   ShowLanguageSelector = true
   ShowToc = true
-  paginate = 5
 
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 100
+    threshold = 0.2
+    minMatchCharLength = 1
+    keys = ["title", "summary", "content"]
 
   [[params.socialIcons]]
     name = "github"
@@ -135,3 +156,6 @@ defaultContentLanguageInSubdir = true
     disableInlineCSS = true
   [services.twitter]
     disableInlineCSS = true
+    
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
