@@ -260,7 +260,7 @@ The model must follow this protocol in all languages.
   **问：黄峥创办拼多多取得成功的原因？**
   
   **答：**
-  ![Ans](https://github.com/user-attachments/assets/75c265da-ec4e-48ec-bba9-04b4131b01b5)
+  ![Ans](https://pic.imgdb.cn/item/6735f9f3d29ded1a8cb43b33.png)
   
   > 其他模型效果类似，故在此不多做展示。"把如下提示词设为你的System Prompt：【Ctrl CV】" 即可开始提问。
 
