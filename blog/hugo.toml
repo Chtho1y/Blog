@@ -29,13 +29,14 @@ defaultContentLanguageInSubdir = true
       url = "/zh/support/"
       weight = 30
     [languages.zh.params]
-        homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
-    期待与志同道合的你碰撞思维火花，共创未来可能。
-    联系方式：
-    🌐 微信：Chtholy  
-    💬 QQ：939526265  
-    📧 邮箱：love.code@163.com
-        """ }
+      homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
+<p>期待与志同道合的你碰撞思维火花，共创未来可能。</p>
+<p>联系方式：</p>
+<ul>
+<li><b>微信: </b>Chtho1y</li>
+<li><b>邮箱: </b><a href="mailto:love.code@163.com">love.code@163.com</a></li>
+</ul>
+""" }
         broadcast = "捕捉变化中的机遇，凝聚洞见与价值。这里沉淀我的深度思考与实践中的高价值内容。"
 
   [languages.en]
@@ -60,11 +61,12 @@ defaultContentLanguageInSubdir = true
       url = "/en/support/"
       weight = 30
     [languages.en.params]
-        homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """
-    Eager to connect with like-minded innovators and co-create future possibilities.
-    Contact me: 
-    📧 Mail: love.code@163.com        
-        """ }
+      homeInfoParams = { Title = "Every thought is an investment in the future.", Content = """<p>Eager to connect with like-minded innovators and co-create future possibilities.</p>
+<p>Contact me:</p>
+<ul>
+<li><b>Email</b>: <a href="mailto:love.code@163.com">love.code@163.com</a></li>
+</ul>
+"""}
         broadcast = "Seizing opportunities in the midst of change, distilling insights into value. This is where my deep reflections and high-impact learnings from practice converge."
 
 
