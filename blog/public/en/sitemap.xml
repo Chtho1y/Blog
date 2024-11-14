@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://www.aiqwq.com/en/</loc>
     <lastmod>2024-11-13T13:48:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/"
+                href="https://www.aiqwq.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://www.aiqwq.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://www.aiqwq.com/en/posts/</loc>
     <lastmod>2024-11-13T13:48:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/posts/"
+                href="https://www.aiqwq.com/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://www.aiqwq.com/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/dengxiaopingandthetransformationofchina/</loc>
+    <loc>https://www.aiqwq.com/en/posts/dengxiaopingandthetransformationofchina/</loc>
     <lastmod>2024-11-13T13:48:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/claudesystemprompt/</loc>
+    <loc>https://www.aiqwq.com/en/posts/claudesystemprompt/</loc>
     <lastmod>2024-11-12T20:59:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/toolsforglobalexpansion/</loc>
+    <loc>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/startupguide/</loc>
+    <loc>https://www.aiqwq.com/en/posts/startupguide/</loc>
     <lastmod>2024-11-01T12:21:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/support/</loc>
+    <loc>https://www.aiqwq.com/en/support/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/support/"
+                href="https://www.aiqwq.com/zh/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/support/"
+                href="https://www.aiqwq.com/en/support/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://www.aiqwq.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/categories/"
+                href="https://www.aiqwq.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://www.aiqwq.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://www.aiqwq.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/zh/tags/"
+                href="https://www.aiqwq.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://www.aiqwq.com/en/tags/"
                 />
   </url>
 </urlset>
