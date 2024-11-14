@@ -255,8 +255,12 @@ The model must follow this protocol in all languages.
 </thinking_protocol>
 ```
 
-如转载烦请注明出处：[Universal-Thinking-Protocol-for-LLMs](https://github.com/Chtho1y/Universal-Thinking-Protocol-for-LLMs), 
+
+## Tips
+如转载烦请注明出处：[Universal-Thinking-Protocol-for-LLMs](https://github.com/Chtho1y/Universal-Thinking-Protocol-for-LLMs)
+
 （注明本站链接亦可）
+
 该提示词已在MIT协议下开源。
 ```markdown
 MIT License
