@@ -260,7 +260,7 @@ The model must follow this protocol in all languages.
 
   **问：黑人约占美国总人口的17%但为什么犯罪率占总人口超过50%？**
 
-  **答：** ![image](https://github.com/user-attachments/assets/b626c1be-1a82-4d2e-ae0c-58d0a3869365)
+  **答：** ![deepseek](https://pic.imgdb.cn/item/6736d52bd29ded1a8c482a8f.jpg)
   
   > 其他模型效果类似，故在此不多做展示。"把如下提示词设为你的System Prompt：【Ctrl CV】" 即可开始提问。
 
