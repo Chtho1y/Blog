@@ -15,7 +15,7 @@
       <guid>https://www.aiqwq.com/zh/posts/vercel%E5%88%B0cloudflare%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E7%9A%84%E8%BF%81%E7%A7%BB%E5%AE%9E%E8%B7%B5/</guid>
       <description>&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
 &lt;p&gt;尽管 Vercel 的确在便利性和全栈支持上做得不错，但它的成本问题让人望而却步。
-经过深入研究，我决定将我的AI搜索项目项目迁移到 AWS 和 Cloudflare，最终成功节省了大部分开支。
+经过深入研究，我决定将我的 AI 搜索项目项目迁移到 AWS 和 Cloudflare，最终成功节省了大部分开支。
 这篇文章记录了完整的迁移过程，希望对有类似需求的开发者有所帮助。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;为什么会选择-vercel-起步&#34;&gt;为什么会选择 Vercel 起步？&lt;/h2&gt;
