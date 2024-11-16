@@ -340,7 +340,7 @@ Vercel 的痛点：高昂的成本 尽管 Vercel 提供了极大的便利，但�
 <hr>
 <h2 id="实践分享三种替代部署方案">实践分享：三种替代部署方案<a hidden class="anchor" aria-hidden="true" href="#实践分享三种替代部署方案">#</a></h2>
 <h3 id="1-在云服务器上用-pm2-部署-nextjs">1. 在云服务器上用 PM2 部署 Next.js<a hidden class="anchor" aria-hidden="true" href="#1-在云服务器上用-pm2-部署-nextjs">#</a></h3>
-<ol>
+<ul>
 <li>在 AWS EC2 上购买一台 Ubuntu 云服务器。</li>
 <li>安装 Node.js、PNPM 和 PM2：
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install -g pnpm pm2
@@ -348,9 +348,9 @@ Vercel 的痛点：高昂的成本 尽管 Vercel 提供了极大的便利，但�
 </span></span><span class="line"><span class="cl">pnpm build
 </span></span><span class="line"><span class="cl">pm2 start pnpm --name my-app -- start <span class="c1"># 启动服务</span>
 </span></span></code></pre></div></li>
-</ol>
+</ul>
 <h3 id="2-使用-docker-部署">2. 使用 Docker 部署<a hidden class="anchor" aria-hidden="true" href="#2-使用-docker-部署">#</a></h3>
-<ol>
+<ul>
 <li>修改项目配置，开启 standalone 模式：
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">nextConfig</span> <span class="o">=</span> <span class="p">{</span> <span class="nx">output</span><span class="o">:</span> <span class="s2">&#34;standalone&#34;</span> <span class="p">};</span>
 </span></span><span class="line"><span class="cl"><span class="kr">export</span> <span class="k">default</span> <span class="nx">nextConfig</span><span class="p">;</span>
@@ -363,16 +363,17 @@ Vercel 的痛点：高昂的成本 尽管 Vercel 提供了极大的便利，但�
 </span></span></span><span class="line"><span class="cl"><span class="err"></span><span class="k">CMD</span> <span class="p">[</span><span class="s2">&#34;node&#34;</span><span class="p">,</span> <span class="s2">&#34;server.js&#34;</span><span class="p">]</span><span class="err">
 </span></span></span></code></pre></div></li>
 <li>使用 Nginx 和 Certbot 配置公网访问与 HTTPS。</li>
-</ol>
+</ul>
 <h3 id="3-使用-cloudflare-pages-部署">3. 使用 Cloudflare Pages 部署<a hidden class="anchor" aria-hidden="true" href="#3-使用-cloudflare-pages-部署">#</a></h3>
-<ol>
+<ul>
 <li>安装依赖：
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">pnpm add -D @cloudflare/next-on-pages
-</span></span></code></pre></div>创建 wrangler.toml 配置文件，并更新 next.config.mjs 以适配 Edge Runtime。</li>
+</span></span></code></pre></div></li>
+<li>创建 wrangler.toml 配置文件，并更新 next.config.mjs 以适配 Edge Runtime。</li>
 <li>执行部署命令：
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">pnpm run deploy
 </span></span></code></pre></div></li>
-</ol>
+</ul>
 <hr>
 <h2 id="迁移后的成本与收益">迁移后的成本与收益<a hidden class="anchor" aria-hidden="true" href="#迁移后的成本与收益">#</a></h2>
 <p><strong>通过将项目迁移至 AWS 和 Cloudflare：</strong>
