@@ -65,8 +65,8 @@ Vercel 的这些特性让它成为许多开发者的首选，尤其是初学者�
 ## 实践分享：三种替代部署方案
 
 ### 1. 在云服务器上用 PM2 部署 Next.js
-1. 在 AWS EC2 上购买一台 Ubuntu 云服务器。
-2. 安装 Node.js、PNPM 和 PM2：
+-   在 AWS EC2 上购买一台 Ubuntu 云服务器。
+-   安装 Node.js、PNPM 和 PM2：
     ```bash
     npm install -g pnpm pm2
     pnpm install # 安装依赖
@@ -75,12 +75,12 @@ Vercel 的这些特性让它成为许多开发者的首选，尤其是初学者�
     ```
 
 ### 2. 使用 Docker 部署
-1. 修改项目配置，开启 standalone 模式：
+-   修改项目配置，开启 standalone 模式：
     ```javascript
     const nextConfig = { output: "standalone" };
     export default nextConfig;
     ```
-2. 创建 Dockerfile 并构建 Docker 镜像：
+-   创建 Dockerfile 并构建 Docker 镜像：
     ```dockerfile
     FROM node:18-alpine
     WORKDIR /app
@@ -88,15 +88,15 @@ Vercel 的这些特性让它成为许多开发者的首选，尤其是初学者�
     RUN pnpm install && pnpm build
     CMD ["node", "server.js"]
     ```
-3. 使用 Nginx 和 Certbot 配置公网访问与 HTTPS。
+-   使用 Nginx 和 Certbot 配置公网访问与 HTTPS。
 
 ### 3. 使用 Cloudflare Pages 部署
-1. 安装依赖：
+-   安装依赖：
     ```bash
     pnpm add -D @cloudflare/next-on-pages
     ```
-    创建 wrangler.toml 配置文件，并更新 next.config.mjs 以适配 Edge Runtime。
-2. 执行部署命令：
+-   创建 wrangler.toml 配置文件，并更新 next.config.mjs 以适配 Edge Runtime。
+-   执行部署命令：
     ```bash
     pnpm run deploy
     ```
