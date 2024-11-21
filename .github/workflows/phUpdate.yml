@@ -1,0 +1,43 @@
+name: Daily Blog Update
+
+on:
+  schedule:
+    - cron: '0 16 * * *' # 每天下午4点触发运行
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: 检出博客仓库代码
+    - name: Checkout Blog Repository
+      uses: actions/checkout@v3
+
+    # Step 2: 下载每日 Markdown 文件
+    - name: Download Daily Markdown
+      run: |
+        TODAY=$(date '+%Y-%m-%d')
+        MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
+        curl -o content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
+
+      # Step 3: 构建 Hugo 静态页面
+      - name: Build Hugo site
+        run: cd blog&&hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
+
+    # Step 4: 提交新的内容到仓库
+    - name: Commit Changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "Update blog with Product Hunt daily hot ${TODAY}"
+        git push
+
+    # Step 5: 触发部署操作
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          publish_dir: ./blog/public
+          publish_branch: gh-pages
