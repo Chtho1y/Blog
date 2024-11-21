@@ -40,7 +40,7 @@ jobs:
       run: |
         TODAY=$(date -d "yesterday" '+%Y-%m-%d') #测试/原代码 TODAY=$(date '+%Y-%m-%d')
         mkdir -p temp-content/blog/content/zh/posts
-        cp ./blog/content/zh/posts/producthunt-daily-${TODAY}.md temp-content/blog/content/zh/posts/
+        cp ./blog/content/zh/posts/producthunt-daily-${TODAY}.md temp-content/
 
     - name: Deploy to Main Branch
       uses: peaceiris/actions-gh-pages@v3
