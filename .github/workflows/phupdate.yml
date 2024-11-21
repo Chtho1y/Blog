@@ -13,6 +13,8 @@ jobs:
     # Step 1: 检出博客仓库代码
     - name: Checkout Blog Repository
       uses: actions/checkout@v3
+      with:
+        ref: main # 确保工作在 main 分支上
 
     # Step 2: 下载并修改 Markdown 文件
     - name: Download Daily Markdown
@@ -33,21 +35,30 @@ jobs:
         cat ./blog/content/zh/posts/producthunt-daily-${TODAY}.md >> temp.md
         mv temp.md ./blog/content/zh/posts/producthunt-daily-${TODAY}.md
 
-    # Step 2: 安装 Hugo
+    # Step 3: 将 Markdown 文件部署到 main 分支
+    - name: Deploy Markdown to Main Branch
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        publish_dir: ./blog/content/zh/posts
+        publish_branch: main
+        keep_files: true # 保留 main 分支已有文件
+
+    # Step 4: 安装 Hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.125.7'
 
-    # Step 3: 构建 Hugo 静态页面
+    # Step 5: 构建 Hugo 静态页面
     - name: Build Hugo site
-      run: cd blog&&hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
+      run: cd blog && hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
 
-    # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
+    # Step 6: 部署到 GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         publish_dir: ./blog/public
         publish_branch: gh-pages
-        keep_files: true
+        keep_files: true # 保留 gh-pages 分支已有文件
