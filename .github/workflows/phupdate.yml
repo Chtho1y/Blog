@@ -19,6 +19,7 @@ jobs:
       run: |
         TODAY=$(date '+%Y-%m-%d')
         MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
+        mkdir -p ./content/zh/posts/
         curl -o ./content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
 
     # Step 3: 安装 Hugo
