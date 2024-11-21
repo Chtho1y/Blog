@@ -21,8 +21,8 @@ jobs:
         NOW=$(date '+%Y-%m-%dT16:00:00+08:00') # 生成带时间的日期
         MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
         
-        mkdir -p ./content/zh/posts/
-        curl -o ./content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
+        mkdir -p ./blog/content/zh/posts/
+        curl -o ./blog/content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
         
         echo "+++" > temp.md
         echo "date = '${NOW}'" >> temp.md
@@ -30,8 +30,8 @@ jobs:
         echo "title = 'ProductHunt今日热门产品速览'" >> temp.md
         echo "+++" >> temp.md
         echo "" >> temp.md
-        cat ./content/zh/posts/producthunt-daily-${TODAY}.md >> temp.md
-        mv temp.md ./content/zh/posts/producthunt-daily-${TODAY}.md
+        cat ./blog/content/zh/posts/producthunt-daily-${TODAY}.md >> temp.md
+        mv temp.md ./blog/content/zh/posts/producthunt-daily-${TODAY}.md
 
     # Step 2: 安装 Hugo
     - name: Setup Hugo
