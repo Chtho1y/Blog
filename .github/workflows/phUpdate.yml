@@ -20,10 +20,16 @@ jobs:
         TODAY=$(date '+%Y-%m-%d')
         MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
         curl -o content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
+    
+    # Step 2: 安装 Hugo
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.125.7'
 
-      # Step 3: 构建 Hugo 静态页面
-      - name: Build Hugo site
-        run: cd blog&&hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
+    # Step 3: 构建 Hugo 静态页面
+    - name: Build Hugo site
+      run: cd blog&&hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
 
     # Step 4: 提交新的内容到仓库
     - name: Commit Changes
