@@ -19,7 +19,7 @@ jobs:
     # Step 2: 下载并修改 Markdown 文件
     - name: Download Daily Markdown
       run: |
-        TODAY=$(date -d "yesterday" '+%Y-%m-%d') # 测试 TODAY=$(date '+%Y-%m-%d')
+        TODAY=$(date '+%Y-%m-%d')
         NOW=$(date '+%Y-%m-%dT16:00:00+08:00')
         MARKDOWN_URL="https://raw.githubusercontent.com/ViggoZ/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
         
@@ -38,7 +38,7 @@ jobs:
     # Step 3: 将 Markdown 文件部署到 main 分支
     - name: Prepare Temporary Directory
       run: |
-        TODAY=$(date -d "yesterday" '+%Y-%m-%d') # 测试 TODAY=$(date '+%Y-%m-%d')
+        TODAY=$(date '+%Y-%m-%d')
         mkdir -p temp-content/blog/content/zh/posts
         cp ./blog/content/zh/posts/producthunt-daily-${TODAY}.md temp-content/
 
