@@ -3,7 +3,7 @@ name: Daily Blog Update
 on:
   schedule:
     - cron: '0 16 * * *' # 每天下午4点触发运行
-  workflow_dispatch: # 支持手动触发
+  workflow_dispatch: 
 
 jobs:
   update-blog:
