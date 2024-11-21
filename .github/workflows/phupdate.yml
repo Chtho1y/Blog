@@ -27,7 +27,7 @@ jobs:
         echo "+++" > temp.md
         echo "date = '${NOW}'" >> temp.md
         echo "draft = false" >> temp.md
-        echo "title = 'ProductHunt今日热门产品速览'" >> temp.md
+        echo "title = 'PH今日热榜'" >> temp.md
         echo "+++" >> temp.md
         echo "" >> temp.md
         cat ./blog/content/zh/posts/producthunt-daily-${TODAY}.md >> temp.md
