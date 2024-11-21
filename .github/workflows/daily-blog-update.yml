@@ -17,10 +17,10 @@ jobs:
     # Step 2: 下载每日 Markdown 文件
     - name: Download Daily Markdown
       run: |
-        TODAY=$(date '+%Y-%m-%d')
-        MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
-        curl -o content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
-    
+      TODAY=$(date '+%Y-%m-%d')
+      MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
+      curl -o ./content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
+
     # Step 2: 安装 Hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
