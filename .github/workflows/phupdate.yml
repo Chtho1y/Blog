@@ -18,8 +18,8 @@ jobs:
     - name: Download Daily Markdown
       run: |
         TODAY=$(date '+%Y-%m-%d')
-        NOW=$(date '+%Y-%m-%dT16:00:00+08:00') # 生成带时间的日期
-        MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
+        NOW=$(date '+%Y-%m-%dT16:00:00+08:00')
+        MARKDOWN_URL="https://raw.githubusercontent.com/ViggoZ/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
         
         mkdir -p ./blog/content/zh/posts/
         curl -o ./blog/content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
