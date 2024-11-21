@@ -27,22 +27,10 @@ jobs:
         run: cd blog&&hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
 
       # Step 4: 部署到 GitHub Pages 的 gh-pages 分支
-      # - name: Deploy to GitHub Pages
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      #     publish_dir: ./blog/public
-      #     publish_branch: gh-pages
-      #     keep_files: true
-
-      # Step 4: 手动合并构建后的内容到 gh-pages 分支
       - name: Deploy to GitHub Pages
-        run: |
-          git clone --branch gh-pages https://github.com/Chtho1y/Blog.git gh-pages
-          rsync -av --exclude='.git' ./blog/public/ ./gh-pages/
-          cd gh-pages
-          git config user.name "Chtho1y"
-          git config user.email "love.code@163.com"
-          git add .
-          git commit -m "update GitHub Pages"
-          git push origin gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          publish_dir: ./blog/public
+          publish_branch: gh-pages
+          keep_files: true
