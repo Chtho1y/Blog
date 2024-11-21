@@ -32,9 +32,9 @@ jobs:
       run: cd blog&&hugo --cleanDestinationDir --baseURL "https://www.aiqwq.com/"
 
     # Step 5: 触发部署操作
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          publish_dir: ./blog/public
-          publish_branch: gh-pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        publish_dir: ./blog/public
+        publish_branch: gh-pages
