@@ -38,7 +38,7 @@ jobs:
       # Step 4: 手动合并构建后的内容到 gh-pages 分支
       - name: Deploy to GitHub Pages
         run: |
-          git clone --branch gh-pages https://github.com/${{ github.repository }}.git gh-pages
+          git clone --branch gh-pages https://github.com/Chtho1y/Blog.git gh-pages
           rsync -av --exclude='.git' ./blog/public/ ./gh-pages/
           cd gh-pages
           git config user.name "GitHub Actions"
