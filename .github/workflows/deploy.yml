@@ -41,8 +41,8 @@ jobs:
           git clone --branch gh-pages https://github.com/Chtho1y/Blog.git gh-pages
           rsync -av --exclude='.git' ./blog/public/ ./gh-pages/
           cd gh-pages
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "Chtho1y"
+          git config user.email "love.code@163.com"
           git add .
-          git commit -m "Incremental update for GitHub Pages"
+          git commit -m "update GitHub Pages"
           git push origin gh-pages
