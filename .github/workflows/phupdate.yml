@@ -14,20 +14,16 @@ jobs:
     - name: Checkout Blog Repository
       uses: actions/checkout@v3
 
-    # Step 2: 下载每日 Markdown 文件
+    # Step 2: 下载并修改 Markdown 文件
     - name: Download Daily Markdown
       run: |
         TODAY=$(date '+%Y-%m-%d')
         NOW=$(date '+%Y-%m-%dT16:00:00+08:00') # 生成带时间的日期
         MARKDOWN_URL="https://raw.githubusercontent.com/Chtho1y/producthunt-daily-hot/refs/heads/main/data/producthunt-daily-${TODAY}.md"
-    
-      # 确保目录存在
+        
         mkdir -p ./content/zh/posts/
-
-      # 下载文件
         curl -o ./content/zh/posts/producthunt-daily-${TODAY}.md $MARKDOWN_URL
-
-      # 添加头部内容到 Markdown 文件
+        
         echo "+++" > temp.md
         echo "date = '${NOW}'" >> temp.md
         echo "draft = false" >> temp.md
