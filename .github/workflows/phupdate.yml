@@ -2,8 +2,8 @@ name: ProductHunt Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # 每天下午4点触发运行
-  workflow_dispatch:
+    - cron: '41 10 * * *'  # 每天UTC时间早上7:01（北京时间下午3:01自动运行）
+  workflow_dispatch: 
 
 jobs:
   update-blog:
