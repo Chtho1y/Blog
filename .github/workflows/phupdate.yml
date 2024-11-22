@@ -2,7 +2,7 @@ name: ProductHunt Update
 
 on:
   schedule:
-    - cron: '25 10 * * *' # 每天下午4点触发运行
+    - cron: '*/5 * * * *' # 每天下午4点触发运行
   workflow_dispatch:
 
 jobs:
