@@ -6,6 +6,10 @@ theme = "PaperMod"
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
+# 分页配置
+paginate = 5
+paginatePath = "page"
+
 [languages]
   [languages.zh]
     languageName = "中文"
