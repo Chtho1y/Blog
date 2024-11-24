@@ -39,6 +39,15 @@ paginatePath = "page"
       pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
       url = "/zh/search/"
       weight = 40
+    # 子域名内容
+    [[languages.zh.menu.main]]
+      identifier = "privacypolicy"
+      name = ""
+      url = "/zh/privacypolicy/"
+    [[languages.zh.menu.main]]
+      identifier = "useragreement"
+      name = ""
+      url = "/zh/useragreement/"
     [languages.zh.params]
       homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
 <div style='display: flex; align-items: center; justify-content: space-between;'>
