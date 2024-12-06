@@ -6,8 +6,19 @@
     <description>Recent content on 望乔随笔</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Dec 2024 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://www.aiqwq.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2024-12-06</title>
+      <link>https://www.aiqwq.com/zh/posts/producthunt-daily-2024-12-06/</link>
+      <pubDate>Fri, 06 Dec 2024 16:00:00 +0800</pubDate>
+      <guid>https://www.aiqwq.com/zh/posts/producthunt-daily-2024-12-06/</guid>
+      <description>1. Reflex Cloud 标语：用纯Python构建网页应用，并通过一条命令即可部署。 介绍：使用纯Python构建网页应用（无需JavaScript），并通过一条命令进行部署。Reflex Cloud提供了一个仪表盘，可以方便地管理我们的应用程序，支持自定义域名，灵活的内存和CPU选项，一键认证，网站分析，内部托管等功能，功能丰富。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Reflex Cloud, Python网页应用, 无需Javascript, 一键部署, 应用管理仪表板, 自定义域名, 灵活内存, CPU选项, 一键认证, 网站分析, 本地托管, 云 票数: 🔺563 是否精选：是 发布时间：2024年12月05日 PM04:01 (北京时间)
+2. Pointer 标语：Google Docs的AI编辑助手 介绍：Pointer是你的AI助手，直接在Google Docs中工作，提供智能的实时编辑。告别手动复制粘贴ChatGPT的内容和修复格式错误的麻烦。享受高效、精炼的建议，你可以轻松地进行确认。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Pointer, AI编辑助手, Google Docs, 实时编辑, 智能建议, 文本格式修复, 效率提升, 潇洒编辑, 复制粘贴, 文档优化 票数: 🔺411 是否精选：是 发布时间：2024年12月05日 PM04:01 (北京时间)
+3. Athina 标语：构建、测试和监控人工智能应用和智能体 介绍：Athina是一个全面的人工智能开发平台，帮助AI团队构建、测试和监控基于大语言模型（LLM）的应用。团队可以共同协作，进行提示、流程和数据集的设计，开展实验，比较和测量LLM的输出结果，并在生产环境中进行监控。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2024-12-05</title>
       <link>https://www.aiqwq.com/zh/posts/producthunt-daily-2024-12-05/</link>
