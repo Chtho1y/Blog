@@ -7,7 +7,7 @@ defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
 # 分页配置
-paginate = 5
+paginate = 10
 paginatePath = "page"
 
 [languages]
