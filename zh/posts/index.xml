@@ -6,8 +6,19 @@
     <description>Recent content in Posts on 望乔随笔</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Feb 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://www.aiqwq.com/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-02-06</title>
+      <link>https://www.aiqwq.com/zh/posts/producthunt-daily-2025-02-06/</link>
+      <pubDate>Thu, 06 Feb 2025 16:00:00 +0800</pubDate>
+      <guid>https://www.aiqwq.com/zh/posts/producthunt-daily-2025-02-06/</guid>
+      <description>1. Airtop Auth 标语：在需要登录的网站上自动执行网络任务 介绍：Airtop正在通过人工智能驱动的云浏览器革新网络自动化，这些浏览器能轻松处理身份验证问题。无论你是在构建人工智能代理、自动化工具，还是网页爬虫，Airtop都能让你在云端控制浏览器，而不用担心登录的麻烦。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Airtop Auth, 自动化, 网络任务, 身份验证, AI驱动, 云浏览器, AI代理, 自动化工具, 网络爬虫, 云端控制, 登录, 互联网自动化 票数: 🔺713 是否精选：是 发布时间：2025年02月05日 PM04:01 (北京时间)
+2. Digma Preemptive Observability 标语：在试生产阶段预防性能和扩展性问题 介绍：Digma是一款前瞻性可观测性产品，能够自动且持续地识别预生产环境中的性能和扩展性问题，并提供代码层面的根本原因分析以及问题的严重程度。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Digma, 预警可观测性, 性能问题, 扩展性问题, 预生产环境, 代码级根本原因, 问题严重性, 自动化, 持续监控 票数: 🔺646 是否精选：是 发布时间：2025年02月05日 PM04:01 (北京时间)
+3. a0.dev 标语：利用人工智能生成完整的手机应用程序 介绍：a0.dev（YC W25）通过利用人工智能，帮助开发者在几天内而不是几周内构建原生移动应用。只需输入你的应用创意，我们就能为你生成一个定制的 React Native 应用和组件！ 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-02-05</title>
       <link>https://www.aiqwq.com/zh/posts/producthunt-daily-2025-02-05/</link>
