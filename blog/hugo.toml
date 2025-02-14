@@ -1,5 +1,5 @@
 baseURL = "https://www.aiqwq.com/"
-title = '望乔随笔'
+title = 'INFINITEJOURNEY'
 theme = "PaperMod"
 
 # 语言设置
@@ -7,8 +7,9 @@ defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
 # 分页配置
-paginate = 30
-paginatePath = "page"
+[pagination]
+  pagerSize = 30
+  path = "page"
 
 [languages]
   [languages.zh]
@@ -16,38 +17,47 @@ paginatePath = "page"
     languageCode = "zh-CN"
     contentDir = "content/zh"
     weight = 1
-    title = "望乔随笔"
+    title = "INFINITEJOURNEY"
 
+
+    # 子域名
+    #[[languages.zh.menu.main]]
+    #  identifier = "privacypolicy"
+    #  name = ""
+    #  url = "/zh/privacypolicy/"
+    #[[languages.zh.menu.main]]
+    #  identifier = "useragreement"
+    #  name = ""
+    #  url = "/zh/useragreement/"
+
+    # 标题
+    #[[languages.zh.menu.main]]
+    #  identifier = "support"
+    #  name = "Support"
+    #  url = "/zh/support/"
+    #  weight = 10
     [[languages.zh.menu.main]]
       identifier = "Anthropic"
       name = "Anthropic"
       url = "https://claude.ai/"
-      weight = 10
+      weight = 20
     [[languages.zh.menu.main]]
       identifier = "OpenAI"
       name = "OpenAI"
       url = "https://chat.openai.com/"
-      weight = 20
-    [[languages.zh.menu.main]]
-      identifier = "support"
-      name = "赞助"
-      url = "/zh/support/"
       weight = 30
+    [[languages.zh.menu.main]]
+      identifier = "Memory"
+      name = "Memory"
+      url = "/zh/posts/"
+      weight = 40
     [[languages.zh.menu.main]]
       identifier = "search"
       name = ""
       pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
       url = "/zh/search/"
-      weight = 40
-    # 子域名内容
-    [[languages.zh.menu.main]]
-      identifier = "privacypolicy"
-      name = ""
-      url = "/zh/privacypolicy/"
-    [[languages.zh.menu.main]]
-      identifier = "useragreement"
-      name = ""
-      url = "/zh/useragreement/"
+      weight = 50
+
     [languages.zh.params]
       homeInfoParams = { Title = "每一份思考，都是对未来的投资。", Content = """
 <div style='display: flex; align-items: center; justify-content: space-between;'>
@@ -65,14 +75,14 @@ paginatePath = "page"
   </div>
 </div>
 """ }
-        broadcast = "捕捉变化中的机遇，凝聚洞见与价值。这里沉淀我的深度思考与实践中的高价值内容。"
+        broadcast = ""
 
   [languages.en]
     languageName = "English"
     languageCode = "en-US"
     contentDir = "content/en"
     weight = 2
-    title = "Chtho1y's Blog"
+    title = "INFINITEJOURNEY"
 
     [[languages.en.menu.main]]
       identifier = "Anthropic"
@@ -111,7 +121,7 @@ paginatePath = "page"
   </div>
 </div>
 """}
-        broadcast = "Seizing opportunities in the midst of change, distilling insights into value. This is where my deep reflections and high-impact learnings from practice converge."
+        broadcast = ""
 
 
 [params]
@@ -124,6 +134,7 @@ paginatePath = "page"
   ShowRssButtonInSectionTermList = true
   ShowLanguageSelector = true
   ShowToc = true
+
 
   [params.fuseOpts]
     isCaseSensitive = false

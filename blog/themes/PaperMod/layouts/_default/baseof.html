@@ -3,27 +3,28 @@
 {{- end -}}
 
 <!DOCTYPE html>
-<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default " auto" }}">
 
 <head>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     {{- partial "head.html" . }}
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9990954763235039" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9990954763235039"
+        crossorigin="anonymous"></script>
 </head>
 
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
-{{- print "list" -}}
-{{- end -}}
-{{- if eq site.Params.defaultTheme `dark` -}}
-{{- print " dark" }}
-{{- end -}}
-" id="top">
+{{- print " list" -}} {{- end -}} {{- if eq site.Params.defaultTheme `dark` -}} {{- print " dark" }} {{- end -}} " id="
+    top">
     {{- partialCached "header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
-    </main>
-    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+    {{ if .IsHome }}
+    <main class="main" style="max-width: 1080px; margin: 0 auto; padding: 0 1rem;">
+        {{ else }}
+        <main class="main">
+            {{ end }}
+            {{- block "main" . }}{{ end }}
+        </main>
+        {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
 
 </html>

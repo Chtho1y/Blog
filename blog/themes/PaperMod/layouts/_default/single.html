@@ -1,5 +1,12 @@
 {{- define "main" }}
 
+{{ if .IsHome }}
+<!-- ========== 当页面是首页时，只输出首页的内容 ========== -->
+<div class="homepage-content">
+  {{ .Content }}
+</div>
+{{ else }}
+<!-- ========== 当页面不是首页时，正常渲染单页布局 ========== -->
 <article class="post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
@@ -14,11 +21,13 @@
       </span>
       {{- end }}
     </h1>
+
     {{- if .Description }}
     <div class="post-description">
       {{ .Description }}
     </div>
     {{- end }}
+
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
@@ -28,8 +37,10 @@
     </div>
     {{- end }}
   </header>
+
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
+
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
@@ -38,7 +49,9 @@
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+    {{- else }}
+    {{ .Content }}
+    {{- end }}
   </div>
   {{- end }}
 
@@ -49,9 +62,11 @@
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
+
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
+
     {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
     {{- end }}
@@ -61,5 +76,6 @@
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
+{{ end }}
 
 {{- end }}{{/* end main */}}
