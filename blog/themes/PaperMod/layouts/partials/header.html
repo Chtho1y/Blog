@@ -35,8 +35,8 @@
 </script>
 {{- end }}
 
-<header class="header" style="padding: 1rem 2rem;">
-    <nav class="nav">
+<header class="header" style="margin: 0 auto; padding: 1rem 0rem;">
+    <nav class="nav" style="max-width: 1090px;">
         <div class="logo" style="font-size: 2rem; font-weight: bold; text-align: left;">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
