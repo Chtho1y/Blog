@@ -7,17 +7,13 @@ disableBreadcrumb: true
 
 
 ---
-
 <img src="https://pic1.imgdb.cn/item/67aed82ed0e0a243d4ff1480.jpg" alt="Journey"/>
-
----
 
 >
 
 May I be the bridge that connects you to nature's beauty.
 
 >
-
 
 <span style="color: gray;"><b>Contact me:</b></span>
 
