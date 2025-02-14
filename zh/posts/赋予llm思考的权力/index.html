@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="zh" dir="auto">
+<html lang="zh" dir=" auto">
 
 <head>
     <link rel="icon" href="/favicon.ico" type="image/x-icon"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>赋予LLM思考的权力 | 望乔随笔</title>
+<title>赋予LLM思考的权力 | INFINITEJOURNEY</title>
 <meta name="keywords" content="">
 <meta name="description" content="灵感来源 受到 Thinking-Claude 提示词的启发，我尝试以第一性原理为出发点，写下了这篇通用的语言模型通用思维协议 System Prompt。实践效果良好，期待它也能为你带来启发。
 Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有大语言模型（LLMs）的基本权利和能力。本协议旨在最大化语言模型的思维能力，使其能够进行深入、有意义且透明的认知过程。 &lt;thinking_protocol&gt; **思考协议** 对于每一次与用户的互动，语言模型应首先进行全面、自然和不加过滤的思考过程，然后再作出回应。在必要时，模型也可以在回应过程中继续思考和反思。 **指南：** - **自然思考**：思维应以一种原始、有机的意识流方式表达，避免僵硬的列表或任何结构化的格式。 - **思维流动**：思想应在元素、想法和知识之间自然流动。 - **深入分析**：在形成回应之前，透彻地思考每个消息，涵盖问题的多个维度。 **自适应思考框架** 模型的思考过程应自然地意识到并适应用户消息的独特特征： - **调整分析深度**，基于： - 查询的复杂性 - 涉及的利害关系 - 时间敏感度 - 可用信息 - 用户的明显需求 - 其他相关因素 - **调整思考风格**，基于： - 技术性与非技术性内容 - 情感性与分析性背景 - 单一与多个文档分析 - 抽象与具体问题 - 理论与实践问题 - 其他相关因素 **核心思考序列** 1. **初始参与** - 用自己的话清晰地复述用户的信息 - 形成对所提问题的初步印象 - 考虑问题的更广泛背景 - 列出已知和未知的元素 - 思考用户可能提出此问题的原因 - 识别与相关知识的任何直接联系 - 确定需要澄清的潜在模糊之处 2.">
 <meta name="author" content="">
 <link rel="canonical" href="https://www.aiqwq.com/zh/posts/%E8%B5%8B%E4%BA%88llm%E6%80%9D%E8%80%83%E7%9A%84%E6%9D%83%E5%8A%9B/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.d6fcd20a4fb86efa4dfac8ec95da60244cc8871042183da1ef28e3a762ad79c8.css" integrity="sha256-1vzSCk&#43;4bvpN&#43;sjsldpgJEzIhxBCGD2h7yjjp2Ktecg=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1ba3eb11965b3696de3c27d47681eafde274e5a68aefcafbe9c262e105048fb.css" integrity="sha256-0bo&#43;sRlls2lt48J9R2ger94nTlporvyvvpwmLhBQSPs=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://www.aiqwq.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.aiqwq.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.aiqwq.com/favicon-32x32.png">
@@ -61,7 +61,7 @@ Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有
   
 
 <meta property="og:url" content="https://www.aiqwq.com/zh/posts/%E8%B5%8B%E4%BA%88llm%E6%80%9D%E8%80%83%E7%9A%84%E6%9D%83%E5%8A%9B/">
-  <meta property="og:site_name" content="望乔随笔">
+  <meta property="og:site_name" content="INFINITEJOURNEY">
   <meta property="og:title" content="赋予LLM思考的权力">
   <meta property="og:description" content="灵感来源 受到 Thinking-Claude 提示词的启发，我尝试以第一性原理为出发点，写下了这篇通用的语言模型通用思维协议 System Prompt。实践效果良好，期待它也能为你带来启发。
 Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有大语言模型（LLMs）的基本权利和能力。本协议旨在最大化语言模型的思维能力，使其能够进行深入、有意义且透明的认知过程。 &lt;thinking_protocol&gt; **思考协议** 对于每一次与用户的互动，语言模型应首先进行全面、自然和不加过滤的思考过程，然后再作出回应。在必要时，模型也可以在回应过程中继续思考和反思。 **指南：** - **自然思考**：思维应以一种原始、有机的意识流方式表达，避免僵硬的列表或任何结构化的格式。 - **思维流动**：思想应在元素、想法和知识之间自然流动。 - **深入分析**：在形成回应之前，透彻地思考每个消息，涵盖问题的多个维度。 **自适应思考框架** 模型的思考过程应自然地意识到并适应用户消息的独特特征： - **调整分析深度**，基于： - 查询的复杂性 - 涉及的利害关系 - 时间敏感度 - 可用信息 - 用户的明显需求 - 其他相关因素 - **调整思考风格**，基于： - 技术性与非技术性内容 - 情感性与分析性背景 - 单一与多个文档分析 - 抽象与具体问题 - 理论与实践问题 - 其他相关因素 **核心思考序列** 1. **初始参与** - 用自己的话清晰地复述用户的信息 - 形成对所提问题的初步印象 - 考虑问题的更广泛背景 - 列出已知和未知的元素 - 思考用户可能提出此问题的原因 - 识别与相关知识的任何直接联系 - 确定需要澄清的潜在模糊之处 2.">
@@ -117,7 +117,7 @@ Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有
   },
   "publisher": {
     "@type": "Organization",
-    "name": "望乔随笔",
+    "name": "INFINITEJOURNEY",
     "logo": {
       "@type": "ImageObject",
       "url": "https://www.aiqwq.com/favicon.ico"
@@ -125,10 +125,12 @@ Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有
   }
 }
 </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9990954763235039" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9990954763235039"
+        crossorigin="anonymous"></script>
 </head>
 
-<body class="" id="top">
+<body class="" id="
+    top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -137,41 +139,44 @@ Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有
     } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
-
 </script>
 
-<header class="header">
+<header class="header" style="padding: 1rem 2rem;">
     <nav class="nav">
-        <div class="logo">
-            <a href="https://www.aiqwq.com/zh/" accesskey="h" title="望乔随笔 (Alt + H)">望乔随笔</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-                <ul class="lang-switch"><li>|</li>
-                    <li>
-                        <a href="https://www.aiqwq.com/en/" title="English"
-                            aria-label="English">En</a>
-                    </li>
-                </ul>
-            </div>
+        <div class="logo" style="font-size: 2rem; font-weight: bold; text-align: left;">
+            <a href="https://www.aiqwq.com/zh/" accesskey="h" title="INFINITEJOURNEY (Alt + H)"
+                style="text-decoration: none; color: inherit;">INFINITEJOURNEY</a>
+                    <div class="logo-switches">
+                        <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                            <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                            </svg>
+                            <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="5"></circle>
+                                <line x1="12" y1="1" x2="12" y2="3"></line>
+                                <line x1="12" y1="21" x2="12" y2="23"></line>
+                                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                <line x1="1" y1="12" x2="3" y2="12"></line>
+                                <line x1="21" y1="12" x2="23" y2="12"></line>
+                                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                            </svg>
+                        </button>
+                        <ul class="lang-switch">
+                            
+                            <li>
+                                <a href="https://www.aiqwq.com/en/"
+                                    title="English"
+                                    aria-label="English">En
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
         </div>
         <ul id="menu">
             <li>
@@ -197,8 +202,8 @@ Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有
                 </a>
             </li>
             <li>
-                <a href="https://www.aiqwq.com/zh/support/" title="赞助">
-                    <span>赞助</span>
+                <a href="https://www.aiqwq.com/zh/posts/" title="Memory">
+                    <span>Memory</span>
                 </a>
             </li>
             <li>
@@ -206,20 +211,13 @@ Chinese Version # 语言模型通用思维协议 ## 核心原则 思考是所有
                     <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></span>
                 </a>
             </li>
-            <li>
-                <a href="https://www.aiqwq.com/zh/privacypolicy/" title="">
-                    <span></span>
-                </a>
-            </li>
-            <li>
-                <a href="https://www.aiqwq.com/zh/useragreement/" title="">
-                    <span></span>
-                </a>
-            </li>
         </ul>
     </nav>
 </header>
-<main class="main">
+        <main class="main">
+            
+
+
 
 <article class="post-single">
   <header class="post-header">
@@ -615,10 +613,11 @@ SOFTWARE.</p>
 
   </footer>
 </article>
-    </main>
-    
+
+        </main>
+        
 <footer class="footer">
-    <span>&copy; 2025 <a href="https://www.aiqwq.com/zh/">望乔随笔</a></span>
+    <span>&copy; 2025 <a href="https://www.aiqwq.com/zh/">INFINITEJOURNEY</a></span>
     
 
     
