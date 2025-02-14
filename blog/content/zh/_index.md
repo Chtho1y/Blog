@@ -64,4 +64,4 @@ May I be the bridge to your Infinite Journey.
 
 <span style="color: gray;">Email - </span>love.code@163.com
 
-<span style="color: gray;">Wechat - </span>Chtho1y e\acc
+<span style="color: gray;">Wechat - </span>Chtho1y
