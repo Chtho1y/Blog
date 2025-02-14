@@ -59,9 +59,12 @@ May I be the bridge to your Infinite Journey.
 
 <b>Contact me:</b>
 
-<span style="font-size: 1.2em;"><b>WangQiao Xu</b></span>
-<span style="color: gray; font-size: 0.8em;">&nbsp;&nbsp;Game Developer</span>
+<span style="font-size: 1.2em;"><b>WangQiao Xu</b></span><span style="color: gray; font-size: 0.8em;">&nbsp;&nbsp;Game Developer</span>
 
 <span style="color: gray;">Email - </span>love.code@163.com
 
 <span style="color: gray;">Wechat - </span>Chtho1y
+
+>
+
+<span style="font-size: 0.8em; color: gray;">Looking for Posts?  A single tap on 'Posts' reveals worlds.</span>
