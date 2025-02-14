@@ -57,7 +57,7 @@ May I be the bridge to your Infinite Journey.
 
 >
 
-<span style="color: gray;"><b>Contact me:</b></span>
+<b>Contact me:</b>
 
 <span style="font-size: 1.2em;"><b>WangQiao Xu</b></span>
 <span style="color: gray; font-size: 0.8em;">&nbsp;&nbsp;Game Developer</span>
