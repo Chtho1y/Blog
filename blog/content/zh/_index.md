@@ -6,21 +6,27 @@ type: "home"
 ---
 
 
----
 <img src="https://pic1.imgdb.cn/item/67aed82ed0e0a243d4ff1480.jpg" alt="Journey"/>
 
 >
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- 左侧：文字 -->
-  <div style="text-align: left;">
-    <span style="font-size: 1em; color: gray;">
-    May I be the bridge to your Infinite Journey.
-    </span>
-  </div>
-  <!-- 右侧：SVG 图标 -->
-  <div style="text-align: right;">
-    <svg version="1.1" x="0px" y="0px" viewBox="0 0 400 50" aria-hidden="true" style="width: 120px; height: auto;">
+  May I be the bridge to your Infinite Journey.
+
+>
+
+---
+
+<span style="color: gray;"><b>Contact me:</b></span>
+
+<span style="font-size: 1.2em;"><b>WangQiao Xu</b></span>
+<span style="color: gray; font-size: 0.8em;">&nbsp;&nbsp;Game Developer</span>
+
+<span style="color: gray;">Email - </span>love.code@163.com
+
+<span style="color: gray;">Wechat - </span>Chtho1y e\acc
+
+<div style="text-align: right;">
+    <svg version="1.1" x="0px" y="0px" viewBox="0 0 400 50" aria-hidden="true" style="width: 120px; height: auto;" fill="#808080"> 
       <title>SpaceX Logo</title>
       <g class="letter_s">
         <path class="fill-white" d="M37.5,30.5H10.9v-6.6h34.3c-0.9-2.8-3.8-5.4-8.9-5.4H11.4c-5.7,0-9,2.1-9,6.7v4.9c0,4,3.4,6.3,8.4,6.3h26.9v7H1.5
@@ -51,16 +57,4 @@ type: "home"
     </svg>
   </div>
 </div>
-
->
-
-<span style="color: gray;"><b>Contact me:</b></span>
-
-<span style="color: black; font-size: 1.2em;"><b>WangQiao Xu</b></span>
-<span style="color: gray; font-size: 0.8em;">&nbsp;&nbsp;Game Developer</span>
-
-<span style="color: gray;">Email - </span>love.code@163.com
-
-<span style="color: gray;">Wechat - </span><span style="color: black;">Chtho1y e\acc</span>
-
 
