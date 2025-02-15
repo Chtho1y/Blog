@@ -6,7 +6,7 @@ type: "home"
 ---
 
 
-<img src="https://pic1.imgdb.cn/item/67aed82ed0e0a243d4ff1480.jpg" alt="Journey"/>
+<img src="https://pic1.imgdb.cn/item/67aed82ed0e0a243d4ff1480.jpg" alt="Journey" width="1080"/>
 
 >
 

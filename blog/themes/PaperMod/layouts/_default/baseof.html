@@ -28,9 +28,9 @@
     id="top">
     {{- partialCached "header.html" . .Page -}}
     {{ if .IsHome }}
-    <main class="main" style="max-width: 1080px; margin: 0 auto; padding: 0 1rem;">
+    <main class="main" style="max-width: 1080px;">
         {{ else }}
-        <main class="main">
+        <main class="main" style="max-width: 1080px;">
             {{ end }}
             {{- block "main" . }}{{ end }}
         </main>
