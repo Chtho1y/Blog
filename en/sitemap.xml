@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aiqwq.com/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/passionfocusandthepowerofslowgrowth/</loc>
+    <loc>/en/posts/passionfocusandthepowerofslowgrowth/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/posts/"
+                href="/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/posts/"
+                href="/en/posts/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/masteringsimplification/</loc>
+    <loc>/en/posts/masteringsimplification/</loc>
     <lastmod>2024-11-14T15:05:11+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/dengxiaopingandthetransformationofchina/</loc>
+    <loc>/en/posts/dengxiaopingandthetransformationofchina/</loc>
     <lastmod>2024-11-13T13:48:34+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/claudesystemprompt/</loc>
+    <loc>/en/posts/claudesystemprompt/</loc>
     <lastmod>2024-11-12T20:59:35+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/toolsforglobalexpansion/</loc>
+    <loc>/en/posts/toolsforglobalexpansion/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/posts/startupguide/</loc>
+    <loc>/en/posts/startupguide/</loc>
     <lastmod>2024-11-01T12:21:32+08:00</lastmod>
   </url><url>
-    <loc>https://www.aiqwq.com/en/support/</loc>
+    <loc>/en/support/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/support/"
+                href="/zh/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/support/"
+                href="/en/support/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/categories/"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/en/search/</loc>
+    <loc>/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/search/"
+                href="/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/search/"
+                href="/en/search/"
                 />
   </url><url>
-    <loc>https://www.aiqwq.com/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://www.aiqwq.com/zh/tags/"
+                href="/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://www.aiqwq.com/en/tags/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>
