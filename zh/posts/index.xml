@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Mar 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-03-10</title>
+      <link>/zh/posts/producthunt-daily-2025-03-10/</link>
+      <pubDate>Mon, 10 Mar 2025 16:00:00 +0800</pubDate>
+      <guid>/zh/posts/producthunt-daily-2025-03-10/</guid>
+      <description>1. Lanceboard 标语：人工智能时代的自由职业平台。轻松完成你的待办事项。 介绍：忘掉传统平台那无休止的来回沟通吧——Lanceboard让你可以发布“任务单”，我们的人工智能系统会根据自由职业者的技能和专业知识，迅速为你匹配合适的人选。这一切快速、顺畅且高效。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Lanceboard, 自由职业平台, 人工智能时代, 任务管理, AI匹配, 自由职业者, 高效, 无缝体验, 技能匹配, 任务票据 票数: 🔺655 是否精选：是 发布时间：2025年03月09日 PM04:01 (北京时间)
+2. Unreal Speech 标语：快速且实惠的文本转语音API 介绍：降低文本转语音的成本，比11Labs便宜11倍。已准备好投入生产。支持流式音频和单词级时间戳。延迟仅300毫秒。一次请求最多可生成10小时的音频。有48种声音，支持8种语言。免费提供25万字符。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Unreal Speech, 文本转语音, 快速, 经济实惠, API, 降低成本, 生产就绪, 流式音频, 字词级时间戳, 300毫秒延迟, 票数: 🔺590 是否精选：是 发布时间：2025年03月09日 PM04:01 (北京时间)
+3. LaiXi 标语：一台电脑，数百部手机，批量简化！ 介绍：LaiXi 是专为大规模管理 Android 手机而设计的工具。通过 LaiXi，您可以从桌面控制超过 100 部手机，实时镜像屏幕，并通过脚本和鼠标/键盘输入来自动化任务。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-03-09</title>
       <link>/zh/posts/producthunt-daily-2025-03-09/</link>
