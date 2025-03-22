@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Mar 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-03-22</title>
+      <link>/zh/posts/producthunt-daily-2025-03-22/</link>
+      <pubDate>Sat, 22 Mar 2025 16:00:00 +0800</pubDate>
+      <guid>/zh/posts/producthunt-daily-2025-03-22/</guid>
+      <description>1. Supametas.AI 标语：让任何数据在几秒钟内准备好进行RAG分析。 介绍：我们将网站、文档、PDF、博客、播客等各种杂乱的内容转化为结构清晰的数据集。我们的智能处理技术帮助人工智能公司构建更好的产品，让他们在无需具备数据处理专业知识的情况下，获得干净且有条理的数据。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Supametas.AI, 数据处理, 数据集, 清洗数据, 结构化数据, AI产品, 网站内容, 文档处理, PDF转换, 博客整理, 播客数据, 数据整理工具, 数据准备, 票数: 🔺535 是否精选：是 发布时间：2025年03月21日 PM03:01 (北京时间)
+2. Second.Me by Me.bot 标语：第一个人工智能网络（开源） 介绍：训练并自托管自己的人工智能，同时确保隐私保护。这款人工智能将反映你的思想和偏好，甚至可以形成一个全新的人工智能网络。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Second.Me, Me.bot, 人工智能, 开源网络, 自我托管, 隐私保护, 训练AI, 思维反映, 偏好, AI网络 票数: 🔺471 是否精选：是 发布时间：2025年03月21日 PM03:01 (北京时间)
+3. OpenAI GPT-4o Audio Models 标语：构建强大的语音助手 介绍：全新的OpenAI音频模型面向开发者：GPT-4o驱动的语音转文本功能（比Whisper更精准）和可调节的文本转语音功能。你可以利用这些工具构建语音助手、生成文本转录等多种应用。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-03-21</title>
       <link>/zh/posts/producthunt-daily-2025-03-21/</link>
