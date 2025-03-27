@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Mar 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-03-27</title>
+      <link>/zh/posts/producthunt-daily-2025-03-27/</link>
+      <pubDate>Thu, 27 Mar 2025 16:00:00 +0800</pubDate>
+      <guid>/zh/posts/producthunt-daily-2025-03-27/</guid>
+      <description>1. Effie 标语：轻松写作，无尽灵感 介绍：Effie是你的写作伙伴，帮助你释放创造力。它拥有简单易用的界面、超过1000个激发灵感的提示和AI驱动的模板，让你轻松进入创作状态。同时，跨设备同步功能确保你的想法随时随地都能访问，即使在离线状态下也不例外。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Effie, 写作伴侣, 创意释放, 简单界面, 灵感提示, AI模板, 流畅写作, 设备间同步, 离线使用, 无尽灵感 票数: 🔺672 是否精选：是 发布时间：2025年03月26日 PM03:01 (北京时间)
+2. Pulse for Elasticsearch and OpenSearch 标语：搜索集群监控与维护，重新定义 介绍：Pulse 让您轻松掌控 Elasticsearch 和 OpenSearch 集群的成本和性能。您可以获得全面的集群健康评估、可操作的维护建议、自动化的根本原因分析等功能。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Elasticsearch, OpenSearch, 搜索集群监控, 维护, 成本控制, 性能管理, 集群健康评估, 维护洞察, 自动化根本原因分析, 数据分析工具 票数: 🔺670 是否精选：是 发布时间：2025年03月26日 PM03:01 (北京时间)
+3. Solver 标语：把编码任务交给人工智能，让你专注于更重要的问题。 介绍：Solver 是一个自主编码助手，能够独立完成软件开发任务。你只需给它安排工作，然后离开，待你回来时，它已经将代码写好了，准备好进行审核。它直接在你的 git 仓库中工作，处理从修复漏洞到添加新功能的各种任务。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-03-26</title>
       <link>/zh/posts/producthunt-daily-2025-03-26/</link>
