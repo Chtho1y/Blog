@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
+    <loc>//localhost:1313/en/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="/zh/"
+                href="//localhost:1313/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/"
+                href="//localhost:1313/en/"
                 />
   </url><url>
-    <loc>/en/posts/passionfocusandthepowerofslowgrowth/</loc>
+    <loc>//localhost:1313/en/posts/passionfocusandthepowerofslowgrowth/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/</loc>
+    <loc>//localhost:1313/en/posts/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="/zh/posts/"
+                href="//localhost:1313/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/posts/"
+                href="//localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>/en/posts/masteringsimplification/</loc>
+    <loc>//localhost:1313/en/posts/masteringsimplification/</loc>
     <lastmod>2024-11-14T15:05:11+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/dengxiaopingandthetransformationofchina/</loc>
+    <loc>//localhost:1313/en/posts/dengxiaopingandthetransformationofchina/</loc>
     <lastmod>2024-11-13T13:48:34+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/claudesystemprompt/</loc>
+    <loc>//localhost:1313/en/posts/claudesystemprompt/</loc>
     <lastmod>2024-11-12T20:59:35+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/toolsforglobalexpansion/</loc>
+    <loc>//localhost:1313/en/posts/toolsforglobalexpansion/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/startupguide/</loc>
+    <loc>//localhost:1313/en/posts/startupguide/</loc>
     <lastmod>2024-11-01T12:21:32+08:00</lastmod>
   </url><url>
-    <loc>/en/support/</loc>
+    <loc>//localhost:1313/en/support/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="/zh/support/"
+                href="//localhost:1313/zh/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/support/"
+                href="//localhost:1313/en/support/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>//localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="/zh/categories/"
+                href="//localhost:1313/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>/en/search/</loc>
+    <loc>//localhost:1313/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="/zh/search/"
+                href="//localhost:1313/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/search/"
+                href="//localhost:1313/en/search/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>//localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="/zh/tags/"
+                href="//localhost:1313/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/"
+                href="//localhost:1313/en/tags/"
                 />
   </url>
 </urlset>
