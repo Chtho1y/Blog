@@ -53,7 +53,7 @@ defaultContentLanguageInSubdir = false
     [[languages.zh.menu.main]]
       identifier = "support"
       name = "Support"
-      url = "/zh/support/"
+      url = "/support/"
       weight = 50
     [[languages.zh.menu.main]]
       identifier = "search"
