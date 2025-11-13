@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chtho1y.github.io/Blog/en/</loc>
+    <loc>https://chtho1y.github.io/en/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://chtho1y.github.io/Blog/zh/"
+                href="https://chtho1y.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://chtho1y.github.io/Blog/en/"
+                href="https://chtho1y.github.io/en/"
                 />
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/passionfocusandthepowerofslowgrowth/</loc>
+    <loc>https://chtho1y.github.io/en/posts/passionfocusandthepowerofslowgrowth/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/</loc>
+    <loc>https://chtho1y.github.io/en/posts/</loc>
     <lastmod>2024-11-22T10:00:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://chtho1y.github.io/Blog/zh/posts/"
+                href="https://chtho1y.github.io/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://chtho1y.github.io/Blog/en/posts/"
+                href="https://chtho1y.github.io/en/posts/"
                 />
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/masteringsimplification/</loc>
+    <loc>https://chtho1y.github.io/en/posts/masteringsimplification/</loc>
     <lastmod>2024-11-14T15:05:11+08:00</lastmod>
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/dengxiaopingandthetransformationofchina/</loc>
+    <loc>https://chtho1y.github.io/en/posts/dengxiaopingandthetransformationofchina/</loc>
     <lastmod>2024-11-13T13:48:34+08:00</lastmod>
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/claudesystemprompt/</loc>
+    <loc>https://chtho1y.github.io/en/posts/claudesystemprompt/</loc>
     <lastmod>2024-11-12T20:59:35+08:00</lastmod>
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/toolsforglobalexpansion/</loc>
+    <loc>https://chtho1y.github.io/en/posts/toolsforglobalexpansion/</loc>
     <lastmod>2024-11-11T18:21:32+08:00</lastmod>
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/posts/startupguide/</loc>
+    <loc>https://chtho1y.github.io/en/posts/startupguide/</loc>
     <lastmod>2024-11-01T12:21:32+08:00</lastmod>
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/support/</loc>
+    <loc>https://chtho1y.github.io/en/support/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://chtho1y.github.io/Blog/zh/support/"
+                href="https://chtho1y.github.io/zh/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://chtho1y.github.io/Blog/en/support/"
+                href="https://chtho1y.github.io/en/support/"
                 />
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/categories/</loc>
+    <loc>https://chtho1y.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://chtho1y.github.io/Blog/zh/categories/"
+                href="https://chtho1y.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://chtho1y.github.io/Blog/en/categories/"
+                href="https://chtho1y.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/search/</loc>
+    <loc>https://chtho1y.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://chtho1y.github.io/Blog/zh/search/"
+                href="https://chtho1y.github.io/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://chtho1y.github.io/Blog/en/search/"
+                href="https://chtho1y.github.io/en/search/"
                 />
   </url><url>
-    <loc>https://chtho1y.github.io/Blog/en/tags/</loc>
+    <loc>https://chtho1y.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://chtho1y.github.io/Blog/zh/tags/"
+                href="https://chtho1y.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://chtho1y.github.io/Blog/en/tags/"
+                href="https://chtho1y.github.io/en/tags/"
                 />
   </url>
 </urlset>

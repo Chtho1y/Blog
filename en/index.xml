@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>INFINITEJOURNEY</title>
-    <link>https://chtho1y.github.io/Blog/en/</link>
+    <link>https://chtho1y.github.io/en/</link>
     <description>Recent content on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 22 Nov 2024 10:00:22 +0800</lastBuildDate>
-    <atom:link href="https://chtho1y.github.io/Blog/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chtho1y.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Passion, Focus, and the Power of Slow Growth</title>
-      <link>https://chtho1y.github.io/Blog/en/posts/passionfocusandthepowerofslowgrowth/</link>
+      <link>https://chtho1y.github.io/en/posts/passionfocusandthepowerofslowgrowth/</link>
       <pubDate>Fri, 22 Nov 2024 10:00:22 +0800</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/posts/passionfocusandthepowerofslowgrowth/</guid>
+      <guid>https://chtho1y.github.io/en/posts/passionfocusandthepowerofslowgrowth/</guid>
       <description>Focus on the Core and Eliminate Distractions As an entrepreneur, your scarcest resources are time and attention. In an era of information overload, where trends and technologies evolve rapidly, chasing every &amp;ldquo;opportunity&amp;rdquo; will only dilute your focus and lead you astray. Real success often comes from doubling down on the core, saying no to everything else.
 When Steve Jobs returned to Apple, he made sweeping cuts to the product line and redirected the company’s resources toward a few core projects.</description>
     </item>
     <item>
       <title>Mastering Simplification: The Art of Focus, Leverage, and Resilience</title>
-      <link>https://chtho1y.github.io/Blog/en/posts/masteringsimplification/</link>
+      <link>https://chtho1y.github.io/en/posts/masteringsimplification/</link>
       <pubDate>Thu, 14 Nov 2024 15:05:11 +0800</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/posts/masteringsimplification/</guid>
+      <guid>https://chtho1y.github.io/en/posts/masteringsimplification/</guid>
       <description>What is Simplification? Simplification is a core practice in the era of Moore&amp;rsquo;s Law. By focusing on simplification, it enhances efficiency, prioritizes critical issues, and uncovers higher-value solutions in complex and dynamic environments.
 Classic Simplification Focus on the Primary Contradiction Core Idea: Focus on solving &amp;ldquo;the most important task&amp;rdquo; and avoid distractions. Common Problems with Multiple Objectives: Chasing easy tasks while ignoring truly valuable creations. Fragmented efforts turn simple problems into complex ones.</description>
     </item>
     <item>
       <title>Reading Notes on *Deng Xiaoping and the Transformation of China*</title>
-      <link>https://chtho1y.github.io/Blog/en/posts/dengxiaopingandthetransformationofchina/</link>
+      <link>https://chtho1y.github.io/en/posts/dengxiaopingandthetransformationofchina/</link>
       <pubDate>Wed, 13 Nov 2024 13:48:34 +0800</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/posts/dengxiaopingandthetransformationofchina/</guid>
+      <guid>https://chtho1y.github.io/en/posts/dengxiaopingandthetransformationofchina/</guid>
       <description>Crossing the River by Feeling the Stones In 1978, there was no clear blueprint for achieving national strength and wealth. However, Deng Xiaoping had two critical realizations for moving forward:
 Japan, South Korea, and Taiwan were experiencing rapid development. Their paths could not be entirely copied. Key approaches:
 Gradually establishing various systems instead of immediately opening markets. Encouraging cadres to broaden their horizons and learn from successful experiences worldwide. Confidence &amp;ldquo;He possessed an inner confidence that enabled him to focus directly on the essence of issues.</description>
     </item>
     <item>
       <title>Claude System Prompt</title>
-      <link>https://chtho1y.github.io/Blog/en/posts/claudesystemprompt/</link>
+      <link>https://chtho1y.github.io/en/posts/claudesystemprompt/</link>
       <pubDate>Tue, 12 Nov 2024 20:59:35 +0800</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/posts/claudesystemprompt/</guid>
+      <guid>https://chtho1y.github.io/en/posts/claudesystemprompt/</guid>
       <description>Claude Artifacts System Prompt &amp;lt;artifacts_info&amp;gt; The assistant can create and reference artifacts during conversations. Artifacts are for substantial, self-contained content that users might modify or reuse, displayed in a separate UI window for clarity. # Good artifacts are... - Substantial content (&amp;gt;15 lines) - Content that the user is likely to modify, iterate on, or take ownership of - Self-contained, complex content that can be understood on its own, without context from the conversation - Content intended for eventual use outside the conversation (e.</description>
     </item>
     <item>
       <title>Tools for Global Expansion</title>
-      <link>https://chtho1y.github.io/Blog/en/posts/toolsforglobalexpansion/</link>
+      <link>https://chtho1y.github.io/en/posts/toolsforglobalexpansion/</link>
       <pubDate>Mon, 11 Nov 2024 18:21:32 +0800</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/posts/toolsforglobalexpansion/</guid>
+      <guid>https://chtho1y.github.io/en/posts/toolsforglobalexpansion/</guid>
       <description>Web Development Templates Template Features smart-excel-ai (Free) Built with Next.js. Includes login, payment (lemon squeezy), and AI features. Opensaas (Free) Built with React + Node.js. Includes login, payment (Stripe), email, and AI features. Shipfast (Paid) Built with Next.js. Includes login, payment (Stripe), email, and AI features. SupaStarter (Paid) Offers both Next.js and Nuxt templates with comprehensive features. Full-stack plugin and landing page source code with tutorials (Paid) Includes code and tutorials: Plugin (Plasmo), landing page (Next.</description>
     </item>
     <item>
       <title>StartUp Guide</title>
-      <link>https://chtho1y.github.io/Blog/en/posts/startupguide/</link>
+      <link>https://chtho1y.github.io/en/posts/startupguide/</link>
       <pubDate>Fri, 01 Nov 2024 12:21:32 +0800</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/posts/startupguide/</guid>
+      <guid>https://chtho1y.github.io/en/posts/startupguide/</guid>
       <description>1. Fundamentals of Global Expansion Register a US company, obtain an EIN, open a Stripe account, and set up a Mercury Bank account for $193
 Step 1: Registering a US Company I chose Wyoming for registration because it offers no corporate or personal income tax and is open to all nationalities.
 Visit Wyoming Agents. Fill out the required basic information. For company type, select LLC for individuals or small organizations. If you need funding, choose CORP.</description>
     </item>
     <item>
       <title>Support</title>
-      <link>https://chtho1y.github.io/Blog/en/support/</link>
+      <link>https://chtho1y.github.io/en/support/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://chtho1y.github.io/Blog/en/support/</guid>
+      <guid>https://chtho1y.github.io/en/support/</guid>
       <description>Thank you for exploring and supporting my blog!
 This blog reflects my thoughts and experiences from reading and entrepreneurial practice. I hope these insights have provided value to you. Your support is the greatest recognition of this work and will enable me to continue sharing meaningful content.
 ❤ How to Support
