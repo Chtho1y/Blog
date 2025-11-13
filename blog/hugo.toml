@@ -23,17 +23,17 @@ defaultContentLanguageInSubdir = false
     [[languages.zh.menu.main]]
       identifier = "privacypolicy"
       name = ""
-      url = "/zh/privacypolicy/"
+      url = "/privacypolicy/zh/"
     [[languages.zh.menu.main]]
       identifier = "useragreement"
       name = ""
-      url = "/zh/useragreement/"
+      url = "/useragreement/zh/"
 
     # 标题
     [[languages.zh.menu.main]]
       identifier = "Posts"
       name = "Posts"
-      url = "/zh/posts/"
+      url = "/posts/zh/"
       weight = 10
     [[languages.zh.menu.main]]
       identifier = "DeepSeek"
@@ -53,13 +53,13 @@ defaultContentLanguageInSubdir = false
     [[languages.zh.menu.main]]
       identifier = "support"
       name = "Support"
-      url = "/zh/support/"
+      url = "/support/zh/"
       weight = 50
     [[languages.zh.menu.main]]
       identifier = "search"
       name = ""
       pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
-      url = "/zh/search/"
+      url = "/search/zh/"
       weight = 60
 
 
@@ -108,13 +108,13 @@ defaultContentLanguageInSubdir = false
     [[languages.en.menu.main]]
       identifier = "support"
       name = "Support"
-      url = "/en/support/"
+      url = "/support/en/"
       weight = 40
     [[languages.en.menu.main]]
       identifier = "search"
       name = ""
       pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
-      url = "/en/search/"
+      url = "/search/en/"
       weight = 50
 
     [languages.en.params]
