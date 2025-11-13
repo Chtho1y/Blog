@@ -3,7 +3,7 @@ title = 'INFINITEJOURNEY'
 theme = "PaperMod"
 
 # 语言设置
-defaultContentLanguage = "zh"
+# defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 
 # 分页配置
@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
     title = "INFINITEJOURNEY"
 
     # 子域名
-    #[[languages.zh.menu.main]]
-    #  identifier = "privacypolicy"
-    #  name = ""
-    #  url = "/zh/privacypolicy/"
-    #[[languages.zh.menu.main]]
-    #  identifier = "useragreement"
-    #  name = ""
-    #  url = "/zh/useragreement/"
+    [[languages.zh.menu.main]]
+      identifier = "privacypolicy"
+      name = ""
+      url = "/zh/privacypolicy/"
+    [[languages.zh.menu.main]]
+      identifier = "useragreement"
+      name = ""
+      url = "/zh/useragreement/"
 
     # 标题
     [[languages.zh.menu.main]]
