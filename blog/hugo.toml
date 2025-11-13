@@ -4,7 +4,7 @@ theme = "PaperMod"
 
 # 语言设置
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 # 分页配置
 [pagination]
@@ -23,17 +23,17 @@ defaultContentLanguageInSubdir = true
     #[[languages.zh.menu.main]]
     #  identifier = "privacypolicy"
     #  name = ""
-    #  url = "/privacypolicy/"
+    #  url = "/zh/privacypolicy/"
     #[[languages.zh.menu.main]]
     #  identifier = "useragreement"
     #  name = ""
-    #  url = "/useragreement/"
+    #  url = "/zh/useragreement/"
 
     # 标题
     [[languages.zh.menu.main]]
       identifier = "Posts"
       name = "Posts"
-      url = "/posts/"
+      url = "/zh/posts/"
       weight = 10
     [[languages.zh.menu.main]]
       identifier = "DeepSeek"
@@ -53,13 +53,13 @@ defaultContentLanguageInSubdir = true
     [[languages.zh.menu.main]]
       identifier = "support"
       name = "Support"
-      url = "/support/"
+      url = "/zh/support/"
       weight = 50
     [[languages.zh.menu.main]]
       identifier = "search"
       name = ""
       pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -0.2em;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>'
-      url = "/search/"
+      url = "/zh/search/"
       weight = 60
 
 
