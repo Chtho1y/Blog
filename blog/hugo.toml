@@ -1,9 +1,9 @@
-# baseURL = "https://chtho1y.github.io/Blog/"
+baseURL = "https://chtho1y.github.io/Blog/"
 title = 'INFINITEJOURNEY'
 theme = "PaperMod"
 
 # 语言设置
-# defaultContentLanguage = "zh"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 
 # 分页配置
