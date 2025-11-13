@@ -3,8 +3,8 @@ title = 'INFINITEJOURNEY'
 theme = "PaperMod"
 
 # 语言设置
-# defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
 
 # 分页配置
 [pagination]
