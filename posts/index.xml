@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Nov 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-11-26</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-26/</link>
+      <pubDate>Wed, 26 Nov 2025 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-26/</guid>
+      <description>1. nao 标语：AI 数据集成开发环境，助你实现数据工作效率提高十倍。 介绍：Nao 是一款基于人工智能的数据集成开发环境，专为分析师、工程师和科学家设计，支持编写 SQL、Python 或 dbt 工作流。它可以预览更改，提前发现问题，让你更自信地进行部署。Nao 直接连接到你的数据仓库，并理解你的数据结构，帮助你更快速地构建，减少错误，并保持数据的可靠性。你可以构建数据管道、启动质量检查、进行分析，还可以跨团队协作，而无需频繁切换上下文。可以把它看作是你的 AI 伙伴，专门为现代数据工作而打造。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AI数据IDE, 数据分析, 数据工程, 数据科学, SQL, Python, dbt工作流, 数据管道, 质量检查, 数据分析, 团队协作, 数据信任, 提高效率, 问题 票数: 🔺446 是否精选：是 发布时间：2025年11月25日 PM04:01 (北京时间)
+2. Hatable 标语：你确定它是值得爱的嘛👀？ 介绍：领英是假的。你的朋友们太善良，不会告诉你你的着陆页根本不靠谱。所以我们打造了Hatable。一个只执行一个指令的人工智能代理：选择暴力。☠️ 它会浏览你的网站，分析你的文案，然后给你一个狠辣的吐槽，甚至可能让你重新考虑方向。这不是一次转化率优化的审查，而是一次现实检查。把链接发过来，准备好被摧毁吧。别说我们没警告你。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Hatable, AI代理, 网站评估, 文案解析, 烧脑测试, 现实检查, 登陆页面, 用户体验, 创意反馈, 转型建议, 挑战性工具, 在线服务, 反向 票数: 🔺412 是否精选：是 发布时间：2025年11月25日 PM04:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-11-25</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-25/</link>
