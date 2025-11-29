@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Nov 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-11-29</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-29/</link>
+      <pubDate>Sat, 29 Nov 2025 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-29/</guid>
+      <description>1. Qoder JetBrains Plugin 标语：理解你后端的真正复杂性，而不仅仅是语法。 介绍：JetBrains 的 AI 插件能够从架构层面理解后端项目。它可以直接访问 Spring Bean 图、数据库架构和框架语义，而不仅仅是表面的代码。这款插件为复杂系统（文件超过 10 万个）提供上下文感知的建议，帮助开发者更高效地工作。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Qoder, JetBrains插件, 人工智能插件, 后端项目, 架构理解, Spring Bean图, 数据库架构, 框架语义, 上下文感知建议, 复杂系统, 代码智能 票数: 🔺345 是否精选：是 发布时间：2025年11月28日 PM04:01 (北京时间)
+2. Agenta 标语：开源的提示管理与评估工具，专为人工智能团队设计 介绍：Agenta 是一个开源的 LLMOps 平台，旨在帮助开发者构建可靠的人工智能应用。它可以管理提示、进行评估和调试跟踪。我们帮助开发者和领域专家更好地合作，从而更快、更有信心地推出 LLM 应用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Agenta, 开源, 提示管理, 评估, AI团队, LLMOps平台, AI应用, 管理提示, 运行评估, 调试痕迹, 开发者, 领域专家, 合作 票数: 🔺324 是否精选：是 发布时间：2025年11月28日 PM04:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-11-28</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-28/</link>
