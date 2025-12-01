@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Nov 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-01</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-01/</link>
+      <pubDate>Mon, 01 Dec 2025 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-01/</guid>
+      <description>1. Ripplica 标语：通过一段简单的视频，自动化任何网页任务。 介绍：只需录制一次工作流程，Ripplica的AI助手就能在你的浏览器应用中自动重复这一过程——无需编码，无需API，也不需要额外的提示。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Ripplica, 自动化, 网页任务, 简单视频, 工作流录制, AI代理, 浏览器应用, 无需编码, 无需API, 无需提示 票数: 🔺435 是否精选：是 发布时间：2025年11月30日 PM04:01 (北京时间)
+2. TinyCommand 标语：别再用胶带把工具凑合在一起了。让一切都通过一个命令来运行。 介绍：TinyCommand将您的表单、工作流程、数据、电子邮件和人工智能代理整合在一起，让一切无缝连接并自动运行。在这个无需编码的平台上，您可以更聪明地构建、更快速地自动化，轻松管理一切。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：TinyCommand, 一站式工具, 自动化, 无需编码平台, 工作流程管理, 数据整合, 表单管理, 邮件处理, AI代理, 智能构建, 效率提升, 连接一切 票数: 🔺329 是否精选：是 发布时间：2025年11月30日 PM04:01 (北京时间)
+3. plok.sh 标语：将Github内容快速转化为博客，永久免费。 介绍：将任何 GitHub 仓库转变为一个快速、美观的博客。无需内容管理系统（CMS）、仪表盘、账户或构建过程，只需你的仓库。如果你的仓库中有一个 /blog 文件夹，并且里面包含 markdown 文件，plok.sh 会将它们渲染成干净、主题化的博客文章。它支持：* 20 多种主题 * Shiki 代码高亮 * 可选的 blog.</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-11-30</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-11-30/</link>
