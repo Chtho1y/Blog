@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Dec 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-16</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-16/</link>
+      <pubDate>Tue, 16 Dec 2025 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-16/</guid>
+      <description>1. Unloop 标语：针对多动症和神经多样性思维的视觉模式映射 介绍：Unloop 是一款可视化模式映射工具，帮助你识别那些让你感到困扰的触发因素、思维、情绪和行为。通过绘制这些模式，你可以找到自己陷入循环的原因。让人工智能帮助你发现那些你可能忽视的细节。然后，设计一些小实验来打破这个循环。这里没有药方，也没有一刀切的建议，只有你自己的模式被清晰地展现出来。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Unloop, 视觉模式映射, ADHD, 神经多样性, 触发因素, 思维, 情感, 行为, 可视化工具, 中断循环, AI, 设计实验, 个人化, 票数: 🔺414 是否精选：是 发布时间：2025年12月15日 PM04:01 (北京时间)
+2. ManyPI 标语：将网站转化为API 介绍：将任何网站转换为一个干净、类型安全的API。使用自然语言或JSON-schema提示来提取数据，并获取可用于RAG（检索增强生成）流程、销售、内容聚合或研究的可用JSON输出。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：ManyPI, 网站转API, 清洁API, 类型安全, 数据提取, 自然语言, JSON-schema, JSON输出, RAG管道, 销售, 内容聚合, 研究 票数: 🔺328 是否精选：是 发布时间：2025年12月15日 PM04:01 (北京时间)
+3. Syllaby V3.0 标语：Syllaby：一站式创建、编辑和发布工具 介绍：Syllaby 是你的一站式 AI 视频创作工作室，可以轻松制作病毒式传播的视频。只需输入创意，就能迅速将其转化为无脸或影视风格的内容，涵盖热门话题、现成的拍摄脚本和高质量的视觉效果。从策划到发布，Syllaby 简化了每一个步骤，让你的内容保持一致、专业，且独具个人特色。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-15</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-15/</link>
