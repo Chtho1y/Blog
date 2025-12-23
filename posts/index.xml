@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 22 Dec 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-23</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-23/</link>
+      <pubDate>Tue, 23 Dec 2025 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-23/</guid>
+      <description>1. ConnectMachine 标语：一个私人AI助手，帮助您管理网络和人际关系。 介绍：ConnectMachine 是一款以隐私为首要考虑的人工智能助手，旨在提升你的连接体验。你可以制作个性化的数字名片，选择性地分享信息，并通过直观的语音或文本查询来探索你的网络。它用智能的联系人管理取代了传统的社交广播，能够自动对联系人进行分类，同时还配备了AI助手，帮助你更好地查询网络中的信息。这个精致而智能的联系人管理工具，专为那些追求意图明确而非喧嚣、追求优雅而非奢华的人士设计。它支持iOS和Android平台。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：ConnectMachine, 私人AI助手, 网络管理, 连接管理, 数字名片, 隐私优先, 智能联系人, 自动分类, 语音查询, 文本查询, 社交网络, 定制化 票数: 🔺547 是否精选：是 发布时间：2025年12月22日 PM04:01 (北京时间)
+2. Surgeflow 标语：用一个命令自动化你的浏览器操作 介绍：看看这个计划。批准它。然后观察它的执行。SurgeFlow 将浏览器中的混乱转化为透明的自动化，支持多个标签页的操作。无论是研究、购物还是求职申请——只需一条命令即可完成。它在你的浏览器中运行，无需下载或安装新的软件。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Surgeflow, 自动化, 浏览器任务, 单一命令, 透明自动化, 多标签, 研究, 购物, 求职申请, 无需下载, 无需安装 票数: 🔺537 是否精选：是 发布时间：2025年12月22日 PM04:01 (北京时间)
+3. Claude in Chrome 标语：让Claude观察、点击、输入和在你的浏览器中浏览。 介绍：现在，Claude可以在你的浏览器中进行导航、点击按钮和填写表单。它与Claude Code和Claude Desktop兼容，目前已向所有付费用户开放测试版。经过几个月的实际测试，我们现在将这一功能扩展到所有付费计划。此外，我们还推出了用户最期待的功能：Claude Code的集成。你可以在终端中构建，然后在浏览器中验证，Claude会直接读取控制台错误和DOM状态，帮助你进行调试。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-22</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-22/</link>
