@@ -6,8 +6,20 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 25 Dec 2025 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-26</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-26/</link>
+      <pubDate>Fri, 26 Dec 2025 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-26/</guid>
+      <description>1. DiffSense 标语：适用于苹果硅的本地AI Git提交生成器 介绍：DiffSense 在 Apple Silicon 上使用原生的 AFM 3B 模型，能够免费生成 git 提交信息。它本地运行，几乎没有延迟，确保你的代码保持私密。该工具还支持自定义信息风格和强大的别名宏功能。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：DiffSense, 本地AI, git提交生成器, Apple Silicon, AFM 3B模型, 零延迟, 代码隐私, 可定制消息风格, 强大别名宏 票数: 🔺352 是否精选：是 发布时间：2025年12月25日 PM04:01 (北京时间)
+2. ScreenREC 标语：免费在线屏幕录制工具 | 无需下载 介绍：🎬 ScreenREC：最简单的屏幕录制工具
+在浏览器中录制屏幕、摄像头和音频——无需下载，无需注册。
+为什么团队喜欢 ScreenREC： ✨ 零安装，随时可以使用 🔒 注重隐私，录制内容保留在本地 🎥 完整的高清质量 ⚡ 一键启动 🎨 深色模式界面 💾 导出为 MP4/WebM 格式 🌐 100% 开源
+非常适合制作教程、演示、错误报告、演讲以及异步团队沟通。没有多余功能，没有追踪，只有简单有效的录制体验。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2025-12-25</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2025-12-25/</link>
