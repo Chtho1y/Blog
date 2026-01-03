@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-03</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-03/</link>
+      <pubDate>Sat, 03 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-03/</guid>
+      <description>1. Community Figma MCP server 标语：让人工智能助手来帮你进行Figma设计吧！ 介绍：非官方的Figma模型上下文协议（MCP）服务器是你和Figma设计文档之间的重要桥梁。现在，AI代理可以创建、编辑和整理你的Figma设计。你可以将它与ChatGPT、Claude Desktop、Cursor或任何其他支持MCP的客户端一起使用。这个项目是免费的，且开源，你不需要额外的东西，只需将Figma与大型语言模型（LLM）结合使用即可。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Figma, MCP服务器, AI代理, 设计工具, 开源项目, 文档编辑, 人工智能, ChatGPT, Claude Desktop, Cursor, LLM, 设计协作, Figma设计, 模型上下文协议 票数: 🔺311 是否精选：是 发布时间：2026年01月02日 PM04:01 (北京时间)
+2. Clear for Slack 标语：清晰的信息能更快得到回应。 介绍：Clear 是一款 Slack 应用，旨在帮助你撰写更加清晰、直接的工作消息。它注重隐私，不会存储任何消息，并且内置指导功能，能够帮助你逐步提升沟通能力。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Clear for Slack, 清晰信息, 工作场所沟通, Slack应用, 隐私优先, 无消息存储, 内置教练, 提升沟通, 直接信息, 消息管理 票数: 🔺295 是否精选：是 发布时间：2026年01月02日 PM04:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-02</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-02/</link>
