@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-04</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-04/</link>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-04/</guid>
+      <description>1. Flux 标语：在iMessage中创建你自己的智能助手 介绍：人工智能并不是缺乏智能，而是缺乏合适的界面。Flux是首个专门用于构建个性化对话代理的平台，这些代理可以在iMessage和WhatsApp等消息应用中使用。通过在用户已经习惯交流的地方与他们互动，Flux让这些代理的感觉更像是人，而不是冷冰冰的软件——更像是值得信赖的朋友、导师或助手。人工智能的未来不是另一个应用程序，而是能够在情感层面与人类互动的智能代理。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Flux, 聊天代理, iMessage, WhatsApp, 个性化对话代理, 人工智能, 界面问题, 社交平台, 人机交互, 情感交互, 可信赖的朋友, 票数: 🔺344 是否精选：是 发布时间：2026年01月03日 PM04:01 (北京时间)
+2. DaysAround 标语：记录你去过的每一个国家，保持私密。 介绍：重新回忆你最喜欢的旅行记忆。记录下生命带你去过的美丽足迹。获取重要的数据——每个国家的停留天数，用于税务居留、签证提醒、申根限期等信息。这一切都可以通过你手机上的照片完成，且所有数据都在本地扫描，绝不上传任何内容。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：旅行记录, 国家追踪, 私密旅行日志, 旅行回忆, 数据管理, 税务居住地, 签证警告, 申根限制, iPhone照片, 本地扫描, 旅行数据, 票数: 🔺283 是否精选：是 发布时间：2026年01月03日 PM04:01 (北京时间)
+3. Ultracite v7 标语：带有明确规范的零配置代码检查器和格式化工具。 介绍：Ultracite旨在帮助你和你的AI模型编写一致且类型安全的代码，无需繁琐的配置。像Vercel、Clerk和ElevenLabs这样的顶尖公司都在信赖它。几秒钟内就能开始使用。只需运行命令：npx ultracite@latest init。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-03</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-03/</link>
