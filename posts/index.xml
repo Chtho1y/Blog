@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-13</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-13/</link>
+      <pubDate>Tue, 13 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-13/</guid>
+      <description>1. Atlas.new 标语：地图和空间数据的人工智能助手 介绍：使用人工智能创建地图、进行分析和构建空间应用，无需专业的地理信息系统（GIS）专家。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Atlas.new, 人工智能代理, 地图, 空间数据, 制作地图, 数据分析, 空间应用, 无需GIS专家 票数: 🔺432 是否精选：是 发布时间：2026年01月12日 PM04:01 (北京时间)
+2. PicKey AI 标语：用你喜欢的有趣回忆来保护你的主密码吧！ 介绍：PicKey的人工智能会利用你喜欢的图片和一个3D角色，生成一个非常强大的主密码。你再也不需要输入或记住任何文本密码了。作为一种视觉密码管理工具，PicKey将绝对的安全性与轻松的使用体验完美结合。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：PicKey AI, 主密码, 安全, 记忆, 图片, 3D角色, 强密码, 视觉密码管理器, 无需输入, 易于使用, 绝对安全 票数: 🔺322 是否精选：是 发布时间：2026年01月12日 PM04:01 (北京时间)
+3. Trophy 1.0 标语：开发者的API用于游戏化：连续活动、经验值、徽章、等级 介绍：通过灵活的API快速实现游戏化功能，包括成就、连续打卡、积分和排行榜。无需编写代码即可配置各种功能，自动化个性化的电子邮件和推送通知，并通过仪表盘监控对用户留存和参与度的影响。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-12</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-12/</link>
