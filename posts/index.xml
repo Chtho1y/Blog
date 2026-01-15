@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-15</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-15/</link>
+      <pubDate>Thu, 15 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-15/</guid>
+      <description>1. remio 2.0 标语：将您的工作记录下来，创建一个可搜索的知识库。 介绍：Remio 2.0的设计旨在让你摆脱手动输入数据的烦恼。通过同步你的全部信息，它可以构建一个“零努力”的第二大脑，能够像你一样理解你的工作。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：remio 2.0, 知识库, 数据同步, 人工智能, 第二大脑, 自动化, 工作管理, 无需手动, 工作理解, 提高效率 票数: 🔺452 是否精选：是 发布时间：2026年01月14日 PM04:01 (北京时间)
+2. Vellum 标语：使用简单英语构建AI助手，帮你处理那些无聊的任务。 介绍：通过用简单的英语描述你的任务，构建人工智能代理。Vellum 会将这些描述转化为一个可以定期运行、通过 API 触发或通过用户界面使用的工作代理。无需编写代码，也无需复杂的设置；一切都是你能理解和掌控的自动化过程。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Vellum, AI代理, 自动化工具, 无需编码, 英文描述, 任务管理, API触发, 用户界面, 日程安排, 简单易用, 任务自动化, 控制与理解 票数: 🔺392 是否精选：是 发布时间：2026年01月14日 PM04:01 (北京时间)
+3. Simpl. 标语：一个友好的Postgres浏览器，用于处理真实数据 介绍：每个Postgres项目最终都需要一种方式来浏览生产数据。你可能会忍受那些外观糟糕、价格昂贵、功能复杂的企业级工具，或者又得自己搭建一个需要维护的定制管理面板。而Simpl则不一样。只需粘贴你的连接字符串，就能瞬间获得一个美观易用的浏览界面。你可以智能地过滤数据，轻松跟踪外键，自定义显示内容，还能方便地与团队分享。这款工具由一位独立开发者打造，专为独立开发者和小团队设计。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-14</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-14/</link>
