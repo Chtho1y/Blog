@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-17</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-17/</link>
+      <pubDate>Sat, 17 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-17/</guid>
+      <description>1. 1Code 标语：开源的类似光标的用户界面，用于Claude编码 介绍：什么是1Code？它是一款可以让你在Mac和网页上并行运行Claude Code代理的应用。你可以在Mac上本地运行，使用或不使用工作树。而在网页上，你可以在远程沙箱中运行，实时预览你的应用，包括移动端，这样你就可以随时随地查看代理的状态。并行运行多个Claude Code大大加快了我们开发功能的速度。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：1Code, 开源, 光标式用户界面, Claude Code, 应用程序, 并行运行, Mac, Web, 本地运行, 远程沙盒, 实时预览, 移动设备, 票数: 🔺439 是否精选：是 发布时间：2026年01月16日 PM04:01 (北京时间)
+2. Boom video for Mac 标语：现场直播，录制屏幕，让你在镜头前看起来更专业。 介绍：Boom是一个专为教练、创作者和创始人设计的视频应用，适合在镜头前进行演示。你可以在Zoom、Meet或Teams上进行直播，配备专业的布局和电影级的切换效果。录制教程、演示和课程，只需在说完时停止，录制就完成了。还可以实时切换场景，支持Stream Deck。它是一个简单的OBS和Loom替代品，内置虚拟摄像头和网络摄像头增强功能。无需编辑、无需时间轴，也不需要后期制作。仅限Mac使用，由一个小型独立团队开发。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Boom视频, Mac视频应用, 实时演示, 屏幕录制, 摄像头专业, Zoom, Meet, Teams, 专业布局, 电影过渡, 录制教程, 演示, 课程录 票数: 🔺334 是否精选：是 发布时间：2026年01月16日 PM04:01 (北京时间)
+3. TranslateGemma 标语：谷歌翻译开放了其模型，支持55种语言。 介绍：Gemma是一套基于谷歌Gemma 3的新型开放式人工智能翻译模型。它支持55种语言的高质量交流，既准确又高效。Gemma专为移动设备、本地设备和云环境设计，能够在不影响性能的情况下运行。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-16</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-16/</link>
