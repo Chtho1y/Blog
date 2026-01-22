@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-22</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-22/</link>
+      <pubDate>Thu, 22 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-22/</guid>
+      <description>1. Blink Agent Builder 标语：你现在可以轻松开发智能应用程序了！ 介绍：Blink是首个专注于“氛围编码”的平台，能够构建AI智能体。你只需描述一下想要的功能，Blink就能创建一个能够思考、使用工具并完成任务的智能体。它内置了网页搜索、代码执行、向量数据库、沙盒环境以及超过180种AI模型。我们用它在几分钟内重现了Cursor、Perplexity和Shortcut。现在轮到你了！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Blink Agent Builder, AI代理, 编程平台, 智能应用, 代码代理, 任务完成, 内置网页搜索, 代码执行, 向量数据库, 沙盒, AI模型, Vibe编码, 快速 票数: 🔺464 是否精选：是 发布时间：2026年01月21日 PM04:01 (北京时间)
+2. Fimo 标语：您的网站在哪里运行、协作并与人工智能共同发展。 介绍：以前，建立一个网站通常需要几个月的时间。从今天开始，你只需10秒钟就能创建一个网站！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Fimo, 网站建设, 人工智能, 快速创建网站, 10秒建站, 网站协作, 网站演变, 现代网站, 网站开发, 在线工具 票数: 🔺382 是否精选：是 发布时间：2026年01月21日 PM04:01 (北京时间)
+3. Mastra 标语：使用现代 TypeScript 技术栈构建 AI 代理 介绍：来自Gatsby团队的Mastra，是一个用于构建人工智能应用和代理的框架。它支持工作流、记忆、流媒体、评估、追踪等功能，并提供一个名为Studio的互动界面，方便开发和测试。现在就开始构建吧：npm create mastra@latest 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-21</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-21/</link>
