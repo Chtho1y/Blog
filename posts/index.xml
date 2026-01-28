@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-28</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-28/</link>
+      <pubDate>Wed, 28 Jan 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-28/</guid>
+      <description>1. Kilo Code Reviewer 标语：一打开拉取请求（PR），自动化的AI代码审查立刻开始。 介绍：自动化代码审查工具可以分析拉取请求，建议改进方案，发现漏洞，并确保代码质量达到标准。在500多个模型中（如Claude、GPT、Gemini及多个免费选项）中选择，能够在合并之前即时获得反馈。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Kilo Code Reviewer, 自动化代码审查, AI代码审查, 拉取请求, 提高代码质量, 捕捉漏洞, 代码改进建议, 500+模型, Claude, GPT, Gemini, 免费选项 票数: 🔺595 是否精选：是 发布时间：2026年01月27日 PM04:01 (北京时间)
+2. Moltbot 标语：真正能干事的人工智能 介绍：Clawbot将你的电脑变成一个随时随地都能访问的个人助手，只需通过任何聊天应用即可使用。你可以通过WhatsApp或Telegram控制浏览器、执行命令、管理文件，还能自动化工作流程。它具备持久记忆、全面系统访问权限、本地隐私保护，支持50多种集成。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Moltbot, 人工智能, 个人助手, 聊天应用, 浏览器控制, Shell命令, 文件管理, 自动化工作流, WhatsApp, Telegram, 持久记忆, 系统访问, 本地 票数: 🔺516 是否精选：是 发布时间：2026年01月27日 PM04:01 (北京时间)
+3. LobeHub 标语：与你共同成长的代理队友 介绍：如今的智能助手往往是一次性、任务驱动的工具——它们往往是孤立的，运行缓慢，成本高昂，且难以构建，无法充分发挥人工智能模型的潜力。而LobeHub则改变了这一现状。我们打造的是可以与您共同成长的长期智能助手团队。任何人都可以轻松创建和协作，组建智能助手团队来完成复杂的全流程工作。凭借对多种模型的支持，LobeHub不仅速度更快，成本更低，而且超越了单一助手系统的局限。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-01-27</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-01-27/</link>
