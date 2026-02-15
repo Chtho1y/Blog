@@ -6,8 +6,20 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-15</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-15/</link>
+      <pubDate>Sun, 15 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-15/</guid>
+      <description>1. Seedance 2.0 标语：先进的人工智能视频创作，能够精准掌控叙事内容。 介绍：字节跳动推出的Seedance 2.0是一款先进的AI视频生成模型，专为电影级多镜头叙事而设计。它能够根据简单的提示生成连贯的人物形象、流畅的场景切换和动态的镜头运动。这个工具面向创作者、市场营销人员和电影制作人，提供了更大的控制权，让你在动作、场景构图和叙事节奏上都能掌握得更加自如——让AI视频的制作过程更像是在执导一部真实的电影。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Seedance 2.0, 高级AI视频创作, 精确叙事控制, 字节跳动, AI视频生成模型, 电影级多镜头叙事, 一致的角色, 平滑的转 票数: 🔺336 是否精选：是 发布时间：2026年02月14日 PM04:01 (北京时间)
+2. Cline CLI 2.0 标语：终端中的并行代理与无头 CI/CD
+在现代软件开发中，CI/CD（持续集成/持续部署）变得越来越重要。无头 CI/CD 指的是在没有图形用户界面的情况下，利用命令行工具来自动化构建、测试和部署过程。而“并行代理”则意味着可以同时运行多个任务，从而加快整个流程的效率。
+简单来说，使用终端中的并行代理，开发者可以在命令行中快速启动多个构建和测试任务，而不必等待前一个任务完成。这种方式不仅节省时间，还能提高开发效率，让开发团队更快地发布高质量的软件。 介绍：Cline CLI 已经获得超过 500 万开发者的信任，它将自主编码功能直接带到了你的命令行。这个工具完全开源，经过全新设计。它支持并行代理、无头模式以便于持续集成和持续交付（CI/CD），并且能够与任何编辑器（如 Zed 和 Neovim）兼容使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Cline CLI 2.0, 并行代理, 无头CI/CD, 命令行工具, 开源软件, 自动化编码, 5百万开发者, 编辑器支持, Zed, Neovim, 软件 票数: 🔺250 是否精选：是 发布时间：2026年02月14日 PM04:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-14</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-14/</link>
