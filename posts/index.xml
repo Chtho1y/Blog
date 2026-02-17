@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-17</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-17/</link>
+      <pubDate>Tue, 17 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-17/</guid>
+      <description>1. Base44 Backend Platform 标语：人工智能时代的后台系统 介绍：完整的后端服务，让你轻松构建带有AI代理的应用。经过数百万个生产应用的考验，现在作为独立服务上线，特别为Claude Code和Cursor进行了优化。你只需一条命令就能部署全栈应用，省去后端设置和配置的麻烦。AI代理使用简单的技能，而不是复杂的API。只需运行命令：$ npx base44@latest create。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Base44 后端平台, AI 时代后端, 构建应用的完整后端, AI 代理, 生产应用, 独立服务, Claude Code, Cursor, 一键部署全栈应用, 无需后 票数: 🔺407 是否精选：是 发布时间：2026年02月16日 PM04:01 (北京时间)
+2. Toolspend 标语：跟踪人工智能在各工具上的支出、使用情况和成本。 介绍：别再因为忘记的SaaS订阅和“幽灵”许可证而浪费金钱了！Toolspend是您技术栈的终极指挥中心，旨在让您全面掌握支出情况，而无需繁琐的手动管理。与其他工具仅仅列出您的应用程序不同，Toolspend深入分析您的实际使用情况和消费模式。我们会识别出未充分利用的座位，发现团队间重复的工具，并在每次续订前提醒您。Toolspend帮助您自动化采购过程，让您可以专注于产品的构建！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Toolspend, AI支出管理, SaaS订阅, 工具使用追踪, 成本分析, 自动化采购, 费用可视化, 许可证管理, 应用程序监控, 使用模式分析, 重复 票数: 🔺396 是否精选：是 发布时间：2026年02月16日 PM04:01 (北京时间)
+3. NVIDIA PersonaPlex 标语：自然对话型人工智能：适应任何角色和声音 介绍：我们推出了PersonaPlex，这是一款全双工对话式人工智能模型，能够实现自然交流，并支持可定制的声音和角色。PersonaPlex能够应对打断和旁白，同时保持所选的人物形象，在对话动态和任务执行方面优于现有系统。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-16</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-16/</link>
