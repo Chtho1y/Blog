@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-23</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-23/</link>
+      <pubDate>Mon, 23 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-23/</guid>
+      <description>1. Claude in PowerPoint 标语：使用Claude来创建、编辑和完善PowerPoint演示文稿。 介绍：Claude在PowerPoint中与你并肩工作——帮助你制作幻灯片、进行精确修改，并实时迭代你的演示文稿。Claude能够理解你的布局、字体和幻灯片母版，确保每一次更改都符合品牌形象和模板要求。现在，Claude在PowerPoint中已在专业版计划中推出，并且支持实时数据连接，可以将你日常工具中的上下文信息直接引入幻灯片中。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude, PowerPoint, 演示文稿, 编辑, 构建, 实时迭代, 幻灯片, 布局, 字体, 模板, Pro计划, 直播数据连接, 上线支持, 票数: 🔺498 是否精选：是 发布时间：2026年02月22日 PM04:01 (北京时间)
+2. Straion 标语：管理AI编码助手的规则 介绍：针对像Claude Code、Github Copilot和Cursor这样的编码助手，制定了统一的规则。你的AI编码助手会根据每个任务自动选择合适的规则。以10倍的速度交付企业级代码。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Straion, AI编码代理, 规则管理, Claude Code, Github Copilot, Cursor, 自动化编码, 企业级代码, 10倍速度, 中心化规则 票数: 🔺347 是否精选：是 发布时间：2026年02月22日 PM04:01 (北京时间)
+3. Tidy 标语：一个可以学习你使用的任何应用程序的个人助手。 介绍：Tidy 是一个个人助手，它可以使用你所有的应用程序，因此能做到你所能做的一切。通过 iMessage 和一个持久的文件系统，Tidy 会让你随时了解最新动态。它就像 OpenClaw，但完全托管在云端，你可以教它安全地使用任何网站，而无需编写任何代码。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-22</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-22/</link>
