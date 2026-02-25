@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-25</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-25/</link>
+      <pubDate>Wed, 25 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-25/</guid>
+      <description>1. Stitch by Google 标语：将餐巾纸上的草图瞬间转化为可投入生产的用户界面。 介绍：对于那些无法浪费一周时间在原型设计上的创始人和产品经理们，谷歌推出了Hatter，一个新工具，可以帮助你描述用户界面，轻松生成可编辑的设计和真实代码，而且完全免费。Hatter旨在处理多步骤的设计任务，同时还支持生成应用商店的资产和原生MCP导出功能。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Stitch by Google, 设计工具, 用户界面, 原型制作, 快速设计, 可编辑设计, 真实代码, 创始人, 产品经理, Hatter, 多步骤设计, 应用商店资产, 原 票数: 🔺483 是否精选：是 发布时间：2026年02月24日 PM04:01 (北京时间)
+2. Modelence App Builder 标语：构建真正的应用，而不是原型。 介绍：构建可以投入生产的应用程序，内含一切上线所需的功能——包括身份验证、数据库和监控，全部开箱即用。基于一个为人工智能时代设计的开源框架。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：应用构建器, Modelence, 实际应用, 原型, 生产就绪, 身份验证, 数据库, 监控, 开源框架, AI时代 票数: 🔺443 是否精选：是 发布时间：2026年02月24日 PM04:01 (北京时间)
+3. Anima 标语：用户体验设计代理 | 设计转化为代码 介绍：从粗略的想法到 Figma 文件，Anima 的人工智能能生成与您的设计系统完美匹配的前端代码。告别那些千篇一律的代码生成工具，打造真正的、响应式的用户界面，让它更符合品牌形象，随时准备上线。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-24</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-24/</link>
