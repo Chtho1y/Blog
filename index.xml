@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-26</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-26/</link>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-26/</guid>
+      <description>1. KiloClaw 标语：托管版 OpenClaw，不需要 Mac mini。 介绍：OpenClaw是全球最受欢迎的开源AI代理。如果你自己运行它，那确实有点难。KiloClaw是一个完全托管的OpenClaw版本。我们负责基础设施、安全性、更新和监控，让你可以专注于你的代理实际执行的任务，而不是维护它的运行。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：KiloClaw, OpenClaw, 开源AI代理, 托管服务, 无需Mac mini, 基础设施管理, 安全性, 更新维护, 监控服务, 专注于代理功能 票数: 🔺617 是否精选：是 发布时间：2026年02月25日 PM04:01 (北京时间)
+2. Notion Custom Agents 标语：在Notion中你能做到的任何事情，你的助手也都能为你完成。 介绍：Notion自定义代理是你永远的AI助手。它们独立运作，随时为团队服务，且易于构建。你只需分配任务、设置触发条件或安排时间，它们就能自动处理——分配问题、更新文档、回答问题、撰写报告，并提醒合适的人。它们从不拖延，直接行动！⚡️ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Notion自定义代理, AI团队助手, 自动化任务, 团队协作, 任务分配, 触发器设置, 文档更新, 问答助手, 报告草拟, 提醒功能, 票数: 🔺340 是否精选：是 发布时间：2026年02月25日 PM04:01 (北京时间)
+3. Opal 2.0 by Google Labs 标语：现在有了智能助手、记忆功能、智能路由和互动聊天。 介绍：Opal 是一款无代码的可视化 AI 工作流构建工具，刚刚进行了重大升级——新增的代理步骤可以分析你的目标，确定最佳方案，并自动调用合适的工具，比如用 Veo 处理视频，或者通过网页搜索进行研究，从而完成任务。此外，它还增加了新的功能，让它更强大，包括记忆功能、动态路由和互动聊天。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-25</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-25/</link>
