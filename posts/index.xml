@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-27</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-27/</link>
+      <pubDate>Fri, 27 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-27/</guid>
+      <description>1. Koidex 标语：了解一个软件包、扩展或AI模型是否真正安全。 介绍：Koidex可以快速帮你解决一个问题：“这个安装安全吗？”你可以在VS Code、JetBrains、npm和Hugging Face中搜索扩展、代码包和AI模型。此外，你还可以安装Koidex的IDE扩展，在Cursor和Windsurf中进行实时背景扫描。完全免费，无需设置。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Koidex, 包裹安全, 扩展安全, AI模型安全, VS Code, JetBrains, npm, Hugging Face, 实时扫描, Cursor, Windsurf, 免费, 无需设置 票数: 🔺384 是否精选：是 发布时间：2026年02月26日 PM04:01 (北京时间)
+2. ChatPal 标语：多练习口语，变得流利起来！ 介绍：ChatPal是一款以对话为主的语言学习应用，旨在帮助人们练习口语，提升流利度。你可以尝试真实场景的对话，获得个性化的反馈，与AI ChatPal进行交流，增强自己的自信心。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：语言学习, 口语练习, 流利交流, 会话应用, 人工智能, 个性化反馈, 自信提升, 真实场景, 语言流利, ChatPal 票数: 🔺381 是否精选：是 发布时间：2026年02月26日 PM04:01 (北京时间)
+3. Rover by rtrvr.ai 标语：只需一个脚本标签，就能将您的网站变成一个AI代理。 介绍：认识一下Rover，你网站的新助手。Rover就像一个虚拟助手，活跃在你的网站上，为用户提供各种服务。它可以帮助用户注册、执行工作流程、填写表单，还能通过对话将访客转化为客户。当用户说“帮我结账”时，Rover会自动填写信息，点击按钮，完成购买。可以把它想象成AI代理的Stripe：只需嵌入一段脚本，你的网站就能拥有智能助手。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-26</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-26/</link>
