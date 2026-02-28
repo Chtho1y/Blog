@@ -6,8 +6,20 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-28</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-28/</link>
+      <pubDate>Sat, 28 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-28/</guid>
+      <description>1. Superset 标语：在你的计算机上运行一整套Claude代码、Codex等程序。 介绍：Superset 是一个强大的集成开发环境（IDE），能够让你通过运行各种代码代理来提升开发效率，最高可提高十倍！它的特点包括：
+可以同时运行多个代理，避免频繁切换上下文带来的负担。 每个任务都在独立的沙箱中进行，确保代理之间互不干扰。 可以在一个地方监控所有代理，并在需要注意时及时收到通知。 内置的差异查看器和编辑器使你能够快速审查更改。 减少等待时间，提升交付速度！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Superset, 编程工具, IDE, 代码代理, 开发工作流, 多任务运行, 任务隔离, 沙箱环境, 监控代理, 实时通知, 变更审核, 内置差异查看 票数: 🔺470 是否精选：是 发布时间：2026年02月27日 PM04:01 (北京时间)
+2. Claude Code Remote Control 标语：通过远程控制，可以在任何设备上继续本地会话。 介绍：通过远程控制，您可以在手机、平板电脑或任何浏览器上继续本地Claude Code会话。这项功能适用于claude.ai/code和Claude移动应用程序。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude Code, 遥控器, 本地会话, 手机, 平板电脑, 浏览器, 远程控制, claude.ai/code, Claude移动应用 票数: 🔺419 是否精选：是 发布时间：2026年02月27日 PM04:01 (北京时间)
+3. Nano Banana 2 标语：谷歌最新的人工智能图像生成模型 介绍：谷歌最新的图像生成模型Nano Banana 2具备了先进的世界知识、生产级的规格、主题一致性等多项功能，且速度极快。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-27</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-27/</link>
