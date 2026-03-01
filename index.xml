@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Feb 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-01</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-01/</link>
+      <pubDate>Sun, 01 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-01/</guid>
+      <description>1. Claude in Excel 标语：与电子表格对话。修正、构建和测试情境。 介绍：别再在复杂的嵌套公式中苦苦寻找了，来了解你的模型。Claude在Excel中可以读取整个工作簿，包括所有标签、依赖关系等等，并能实时为你解释、编辑和调试。它提供单元格级别的引用，确保公式的完整性，没有任何干扰。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude in Excel, 电子表格, 实时交互, 公式调试, 模型理解, 工作簿, 公式完整性, 场景测试, 编辑功能, 依赖关系, 单元格引用, 票数: 🔺379 是否精选：是 发布时间：2026年02月28日 PM04:01 (北京时间)
+2. Pixel 标语：在不需要同时管理七个平台的情况下，提升广告效果。 介绍：通过一个指令，您可以在LinkedIn、Meta、Google、Microsoft、Reddit和X平台上创建、发布和优化广告。Pixel能够生成创意，整合受众，并实时调整预算和出价，确保您的花费始终跟随有效的广告策略。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Pixel, 广告优化, 多平台广告, LinkedIn, Meta, Google, Microsoft, Reddit, 实时预算调整, 广告创意生成, 受众统一, 性能广告, 广告投放, 广告管理工具 票数: 🔺308 是否精选：是 发布时间：2026年02月28日 PM04:01 (北京时间)
+3. Google AI Edge Gallery 标语：在iPhone上引入设备内功能调用 介绍：Google AI Edge Gallery刚刚在iOS上推出，这是iPhone首次实现真正的本地功能调用。它依靠一个紧凑的270M FunctionGemma模型，Mobile Actions能将自然的语音指令转化为实际的手机操作，比如创建日历事件、打开地图或即时切换手电筒——这一切完全可以离线完成。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-02-28</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-02-28/</link>
