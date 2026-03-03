@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-03</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-03/</link>
+      <pubDate>Tue, 03 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-03/</guid>
+      <description>1. GojiberryAI 标语：人工智能代理将高意向客户转化为预约演示 介绍：别再盲目发送冷邮件了。Gojiberry能够识别潜在客户的意图信号，找到有意向的客户，并从头到尾个性化LinkedIn的联系方式，让你清晰追踪哪些信号能够转化为真实的对话。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：GojiberryAI, 人工智能, 潜在客户, 预约演示, 意图信号, 温暖前景, LinkedIn 外展, 个性化营销, 转化跟踪, 实际对话 票数: 🔺388 是否精选：是 发布时间：2026年03月02日 PM04:01 (北京时间)
+2. Crawler.sh 标语：免费的本地AEO（应用程序优化）和SEO（搜索引擎优化）爬虫工具，以及一个Markdown内容提取器。 介绍：一个快速、本地优先的网站爬虫和AEO（应用程序优化）与SEO（搜索引擎优化）分析工具。您可以通过终端或本地桌面应用在几秒钟内爬取整个网站，自动进行SEO检查，提取内容为干净的Markdown格式，并导出为JSON、CSV或网站地图XML文件。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：网络爬虫, 本地优先, AEO分析工具, SEO分析工具, 快速爬取, 自动化SEO检查, Markdown内容提取, JSON导出, CSV导出, Sitemap XML导出, 终 票数: 🔺331 是否精选：是 发布时间：2026年03月02日 PM04:01 (北京时间)
+3. Kimi Claw 标语：OpenClaw 现在已经在 Kimi 上全天候运行了。 介绍：通过Kimi几秒钟内部署OpenClaw。构建一个全天候的AI助手，拥有长期记忆和个性，能够主动执行预定任务。现在就体验Kimi Claw的强大功能吧！ 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-02</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-02/</link>
