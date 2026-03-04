@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-04</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-04/</link>
+      <pubDate>Wed, 04 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-04/</guid>
+      <description>1. Krisp Accent Conversion 标语：实时理解带口音的讲话 介绍：听众的口音转换技术能够实时消除口音障碍。它将带有口音的英语转换为中性的美式英语，听众无需改变说话方式，就能瞬间理解对方的意思。该技术完全在设备本地运行，几乎没有延迟，并且能够在Zoom、Teams和Meet等平台上使用。它专为全球团队设计，让“你能再说一遍吗？”这种问题悄悄地减少了沟通效率。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Krisp口音转换, 实时理解口音, 口音转换, 中性美式英语, 听众端, 降低口音障碍, 零延迟, Zoom, Teams, Meet, 全球团队 票数: 🔺349 是否精选：是 发布时间：2026年03月03日 PM04:01 (北京时间)
+2. Qwen3.5 Small 标语：0.8B-9B的本地多模态模型，具备更强的智能，同时减少计算需求。 介绍：Qwen刚刚推出了Qwen3.5小型模型系列，包括0.8B、2B、4B和9B。这个系列的模型原生支持多模态功能，架构得到了改进，并且采用了增强的强化学习。0.8B和2B模型体积小、速度快，适合在边缘设备上使用；4B模型则是一个强大的轻量级代理基础，而9B模型已经开始追赶那些更大型的模型。此外，基础版本也已发布。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Qwen3.5 Small, 多模态模型, 0.8B, 2B, 4B, 9B, 智能化, 较少计算, 边缘设备, 轻量级代理 票数: 🔺333 是否精选：是 发布时间：2026年03月03日 PM04:01 (北京时间)
+3. Deep Personality 标语：基于科学的个性洞察，帮助你和你的伴侣更好地理解彼此 介绍：比起经过十次治疗师的咨询，你会更深入地了解自己。我们提供了28项基于研究的评估，涵盖个性特征、依恋风格、心理健康筛查、神经多样性、价值观等，整个过程不超过一个小时。完成后，你可以查看自己的评分，并阅读一份详细的人工智能生成分析，内容包括你的行为模式、盲点和优势。你还可以使用对比功能，深入分析与朋友、同事、家人或恋爱伴侣的关系。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-03</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-03/</link>
