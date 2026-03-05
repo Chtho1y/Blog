@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-05</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-05/</link>
+      <pubDate>Thu, 05 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-05/</guid>
+      <description>1. Anything API 标语：任何网站。我们提供API服务。 介绍：许多网站没有公开的API，但“Anything API”能解决这个问题。它可以将任何浏览器操作转化为一个可投入生产的API。只需描述你的需求，我们的代理就会构建一个自定义函数，直接调用该网站。然后，你就可以获得一个可部署的自定义API端点，可以无服务器运行、设置定时任务，或通过API调用。告诉Notte你需要什么，我们就会提供相应的函数端点。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Anything API, 网站API, 自定义API, 无需公开API, 浏览器工作, 生产就绪API, 任务描述, 自定义功能, 直接调用, 自部署, 服务器无关, 定时调度, 票数: 🔺485 是否精选：是 发布时间：2026年03月04日 PM04:01 (北京时间)
+2. Enia Code 标语：主动AI，能够优化代码并学习你的标准。 介绍：大多数AI编程工具都需要你发出请求，而Enia Code则不同。Enia是一个主动的AI编程助手，它在你编写代码时，会自动检测出bug、性能问题、架构不一致之处以及重构的机会——无须你特别提示，也不需要重新解释上下文，更不会打断你的工作流程。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Enia Code, 主动AI, 代码优化, 学习标准, AI编码工具, 检测错误, 性能问题, 架构不一致, 重构机会, 编写代码, 无需提示, 无需上下 票数: 🔺330 是否精选：是 发布时间：2026年03月04日 PM04:01 (北京时间)
+3. Kodo 标语：通过与人工智能聊天，创建完全可编辑的设计。 介绍：Kodo是一款人工智能设计工具，只需简单的提示，就能生成完全可编辑的海报、幻灯片、菜单和社交图形。与其他只能输出平面图像的AI设计工具不同，Kodo创建的是结构化的、分层的设计，您可以即时编辑——包括文本、颜色、布局、间距等等。您可以在几分钟内生成、修改并导出设计，完全不需要模板，也没有固定的布局限制。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-04</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-04/</link>
