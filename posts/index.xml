@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-08</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-08/</link>
+      <pubDate>Sun, 08 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-08/</guid>
+      <description>1. TestSprite 2.1 标语：针对AI原生团队的自主测试。 介绍：认识一下代理工作流程中缺失的一层。TestSprite MCP 可以直接连接到你的开发环境（IDE），自动生成完整的测试套件，无需任何提示或手动操作。2.1 版本的新功能包括：一个速度快4到5倍的测试引擎，在几分钟内完成测试；一个可视化的测试编辑器，你可以点击任何步骤查看实时快照并立即修复；以及与 GitHub 的集成，每当有拉取请求（PR）时，自动运行完整的测试套件，并在任何测试失败时阻止合并。你的 AI 负责编码，而我们确保一切正常。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：TestSprite 2.1, AI 原生团队, 自动化测试, 测试套件, IDE 集成, 测试引擎, 可视化测试编辑器, 实时快照, GitHub 集成, 票数: 🔺401 是否精选：是 发布时间：2026年03月07日 PM04:01 (北京时间)
+2. Copperlane 标语：将贷款处理时间从小时转换为秒。 介绍：Copperlane 是一个以人工智能为基础的贷款发放系统。我们的AI助手 Penny 可以优化利率定价、指导借款人并验证文件，从而将贷款处理时间从几个小时缩短到几秒钟。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Copperlane, AI贷款发放系统, 借款优化, 贷款处理, 文档验证, 快速贷款, 贷款利率定价, Penny助手, 自动化贷款, 借款人指导 票数: 🔺276 是否精选：是 发布时间：2026年03月07日 PM04:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-07</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-07/</link>
