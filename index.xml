@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-11</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-11/</link>
+      <pubDate>Wed, 11 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-11/</guid>
+      <description>1. Visual Translate by Vozo 标语：在你的视频中翻译文本，而无需重新制作视觉内容。 介绍：视频翻译终于实现了全面覆盖！Visual Translate 在配音、口型同步和字幕的基础上，增加了最后一层功能——翻译视频中的文本。它能够识别并翻译屏幕上的文字，包括幻灯片、图表、提示框和标签，同时保持原有的布局、风格和动画效果。你可以将幻灯片视频和说明视频转变为多语言版本，轻松触达全球观众，而无需从头开始重新制作视觉内容。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：视觉翻译, 视频翻译, 文本翻译, 语音配音, 字幕, 多语言视频, 屏幕文本翻译, 幻灯片视频, 讲解视频, 全球受众, 布 票数: 🔺612 是否精选：是 发布时间：2026年03月10日 PM03:01 (北京时间)
+2. Chronicle 2.0 标语：没有AI废话的人工智能演示 介绍：Chronicle是你的AI设计助手，专门用于制作演示文稿。它能够在几分钟内将笔记、提示或现有的幻灯片转换成美观且符合品牌形象的幻灯片。只需回答几个问题，它就能生成一个令人印象深刻的初稿，并通过对话帮助你进一步完善幻灯片。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Chronicle 2.0, AI演示, 人工智能设计, 演示文稿制作, 幻灯片设计, 自动生成幻灯片, 演示文稿助手, 快速幻灯片, 品牌 票数: 🔺612 是否精选：是 发布时间：2026年03月10日 PM03:01 (北京时间)
+3. Claude Code Review 标语：多智能体评审：及早发现 AI 生成代码中的错误 介绍：Claude Code 现在为每个拉取请求派遣一支代理团队，专门捕捉漏网之鱼的bug。这个功能目前在团队和企业版中以研究预览的形式提供。它是一个由人工智能驱动的多代理代码审查工具，能够像专家团队一样分析每个拉取请求。它可以检测bug、安全问题和AI生成代码中的隐藏逻辑缺陷，验证发现以减少误报，并在代码进入生产环境之前提供高质量的反馈。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-10</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-10/</link>
