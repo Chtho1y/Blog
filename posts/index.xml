@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-13</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-13/</link>
+      <pubDate>Fri, 13 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-13/</guid>
+      <description>1. Naoma AI Demo Agent 标语：面向企业的SaaS视频AI演示代理，即时演示工具 介绍：将“预约演示”改为“立即获取AI演示”。Naoma是首个为B2B SaaS提供视频AI演示的代理，它可以24小时在线，以任何语言提供实时、个性化的演示。Naoma会展示真实的产品流程，回答问题，筛选潜在客户，并将他们引导至CRM、销售日历或结账页面。您可以选择不同的头像风格：人类形象、品牌吉祥物或更正式的外观，以吸引潜在客户。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Naoma AI演示代理, 视频AI演示, B2B SaaS, 实时个性化演示, 在线演示, 多语言支持, 产品流程演示, 客户资格评估, CRM集成, 票数: 🔺579 是否精选：是 发布时间：2026年03月12日 PM03:01 (北京时间)
+2. Needle 2.0 标语：自动化工作流程，轻松获得被动收入 介绍：只需告诉我们的构建代理需要自动化的内容，就能实时观看构建、测试和发货的过程，完全无需动手。现在是2026年，让一切自然自动化。此外，我们还推出了作为AI构建者的新赚钱方式。只需提交你的工作流程，就可以开始赚取收入。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：针头2.0, 自动化工作流, 被动收入, 构建代理, 实时构建, 测试工作流, 无需动手, AI构建者, 提交工作流, 赚钱方式, 票数: 🔺493 是否精选：是 发布时间：2026年03月12日 PM03:01 (北京时间)
+3. HTML Pub 标语：通过MCP/API将AI生成的HTML转换为可访问的实时网址。 介绍：通过MCP，您可以即时发布AI生成的HTML。无论是Claude、ChatGPT还是其他AI工具，都能够在聊天界面内构建并部署一个实时网址。无论是网站、着陆页、带结账功能的商店、博客、作品集还是原型，您都可以在几秒钟内上线。支持自定义域名，表单和集成。拥有可视化编辑器和AI编辑功能。还提供分析、转化率和热力图。无需代码库、部署管道或托管配置。您的创意可以直接变成上线网站，全靠您最喜欢的AI工具。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-12</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-12/</link>
