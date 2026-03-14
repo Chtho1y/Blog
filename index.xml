@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-14</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-14/</link>
+      <pubDate>Sat, 14 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-14/</guid>
+      <description>1. Perplexity Computer Skills 标语：通过可重复的指令来扩展计算机的功能。 介绍：每个开发者在他们的Claude Code或Codex设置中都有SKILL.md文件。Perplexity计算机技能允许你直接导入这些文件，无需重写或翻译。你的工作流程会根据上下文自动激活。技能保持不变，执行模型为19种。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：计算机技能, Perplexity, 自动化工作流程, SKILL.md文件, Claude Code, Codex, 导入技能, 重复指令, 计算机能力扩展, 上下文激活, 多模型执行 票数: 🔺426 是否精选：是 发布时间：2026年03月13日 PM03:01 (北京时间)
+2. Ask Maps by Google 标语：问问地图，享受沉浸式导航驾驶体验。 介绍：谷歌地图迎来了重磅升级，搭载了Gemini智能技术。现在，你可以通过“问地图”功能，提出复杂的现实问题，获取个性化的答案。而“沉浸式导航”则带来了生动的3D路线显示，包括车道、地标和更智能的指引，让你的驾驶体验更直观。这个新功能目前已在美国和印度上线。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：谷歌地球, Ask Maps, 地图应用, 互动导航, 3D路线, 智能导航, 个性化答案, 实时信息, 美国, 印度, Gemini升级, 驾驶体验, 地点 票数: 🔺377 是否精选：是 发布时间：2026年03月13日 PM03:01 (北京时间)
+3. GStack 标语：使用Garry Tan的Claude代码设置。 介绍：gstack让Claude Code从一个通用助手变成了一个你可以随时召唤的专业团队。它提供了六种独特的工作流程技能，包括计划审查、代码审查、一键发布、浏览器自动化和工程回顾——这些都可以通过简单的命令来实现。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-13</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-13/</link>
