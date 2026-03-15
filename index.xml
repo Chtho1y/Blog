@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-15</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-15/</link>
+      <pubDate>Sun, 15 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-15/</guid>
+      <description>1. Agent 37 标语：你可以以每月 $3.99 的价格拥有自己的 OpenClaw 实例。 介绍：为什么要花20美元/月来购买基础托管服务呢？Agent37只需3.99美元/月，就能为您提供一个完全托管、独立的OpenClaw容器（1个虚拟CPU + 4GB内存），并且您可以完全使用终端命令。我们利用了我们的DevOps技术，将服务器的节省直接传递给您。30秒内即可上线。轻松将您的代理与Gmail、Slack及850多个应用程序连接。您还能获得完整的终端访问权限，全天候运行后台任务、市场扫描器和工作流程，省钱又省心。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Agent 37, OpenClaw, 低价托管, 全托管容器, 1 vCPU, 4GB RAM, 终端访问, DevOps, 服务器节省, 30秒启动, Gmail, 票数: 🔺386 是否精选：是 发布时间：2026年03月14日 PM03:01 (北京时间)
+2. Struct 标语：一个能够分析工程警报原因的AI助手 介绍：Struct是一个人工智能助手，能够通过分析日志、指标、追踪和代码来找出工程警报的根本原因。它提供一个可组合、可定制的系统，能够在几分钟内部署，帮助你更快速地解决问题，同时与现有的DevOps工作流程无缝结合。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Struct, AI代理, 工程警报, 根因分析, 日志, 指标, 跟踪, 代码, 事件解决, 可组合, 可定制, 快速部署, DevOps工作流程 票数: 🔺319 是否精选：是 发布时间：2026年03月14日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-14</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-14/</link>
