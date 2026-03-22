@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-22</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-22/</link>
+      <pubDate>Sun, 22 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-22/</guid>
+      <description>1. Design Agent by Lokuma 标语：你们的AI代理（Openclaw、CC、Codex）的设计师 介绍：Lokuma设计助手是一个可以被你的智能代理调用的AI设计工具，它为像OpenClaw、Claude Code或Codex这样的代理提供了一层设计智能。AI可以生成几乎任何内容，但生成和设计是两回事。把原始输出转变为清晰、有结构、视觉上精致的设计，依然需要设计思维。Lokuma由设计工具开发者打造，能够帮助AI理解布局、字体和视觉平衡，从而将输出内容转化为感觉经过精心设计的落地页、网站和营销页面。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Lokuma设计代理, AI设计师, 设计智能层, OpenClaw, Claude Code, Codex, 设计思维, 布局, 排版, 视觉平衡, 输出转换, 登陆页面, 网站设计 票数: 🔺417 是否精选：是 发布时间：2026年03月21日 PM03:01 (北京时间)
+2. Claude Cowork Projects 标语：任务、上下文和文件整合在一个工作区内。 介绍：Claude Cowork的项目功能将你的任务、文件、指令和记忆集中在一个专注的桌面工作区。这个工具专为处理复杂工作流程的个人和团队设计，确保所有内容都本地存储、井然有序且可重复使用，让你在各项任务中能快速工作，同时保持信息的一致性。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude Cowork, 项目管理, 任务组织, 文件管理, 工作空间, 团队协作, 工作流程, 本地存储, 高效工作, 任务上下文, 记忆管理, 个人与团队 票数: 🔺379 是否精选：是 发布时间：2026年03月21日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-21</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-21/</link>
