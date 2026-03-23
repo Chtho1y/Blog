@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-23</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-23/</link>
+      <pubDate>Mon, 23 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-23/</guid>
+      <description>1. Bench for Claude Code 标语：存储、回顾和分享你的Claude Code会话。 介绍：Claude Code刚刚提交了一个PR（拉取请求）。但你真的知道它做了什么吗？通过使用Bench，你可以自动保存每一个会话，轻松找出发生了什么。你可以一眼发现问题，深入查看每个工具调用和文件更改，并通过一个链接与他人分享完整的上下文，完全不需要额外说明。当一切顺利时，可以把历史记录嵌入到你的PR中；当出现问题时，可以把链接发给同事寻求帮助。免费使用，没有限制。在Mac和Linux上只需一次输入即可设置。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude Code, Bench, 存储, 复习, 分享, PR, 会话, 自动存储, 问题检测, 工具调用, 文件更改, 上下文, 链接, 嵌入历史 票数: 🔺398 是否精选：是 发布时间：2026年03月22日 PM03:01 (北京时间)
+2. Claude Code Scheduled Tasks 标语：轻松安排本地和云端的定期任务 介绍：使用Claude Code在本地桌面或云端运行定期的编码任务。只需设置一次代码库、时间表和提示，任务就可以自动在指定的环境中运行（无论是本地还是云端）。这非常适合持续的工作流程、自动化和类似智能助手的开发。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：计划任务, Claude Code, 定时任务, 自动化, 本地执行, 云端执行, 编码任务, 工作流, 持续工作流, 任务调度, 自动执行, 代码管理, 代理开发, 票数: 🔺395 是否精选：是 发布时间：2026年03月22日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-22</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-22/</link>
