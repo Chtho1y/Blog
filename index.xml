@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-25</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-25/</link>
+      <pubDate>Wed, 25 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-25/</guid>
+      <description>1. Claude Computer Use 标语：允许Claude使用你的电脑来完成任务。 介绍：Anthropic的Claude现在可以像人一样操作你的电脑——点击、输入、浏览和独立运行应用程序。通过“计算机使用”和Dispatch功能，你可以从手机上分配任务，让Claude在你的Mac上执行这些任务。从处理电子邮件到撰写报告，它将人工智能的推理与现实世界的行动连接起来。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude电脑使用, 人工智能, 自动操作, 任务分配, 手机控制, 电子邮件, 报告生成, Mac应用, 人机交互, 自主执行, 浏览器, 打字, 点击, 任务 票数: 🔺593 是否精选：是 发布时间：2026年03月24日 PM03:01 (北京时间)
+2. Cekura 标语：观察和分析你的语音和聊天人工智能助手。 介绍：提供超过30个现成的指标，专门用于客户体验（CX）、准确性、对话和语音质量的分析。只需标注大约20个对话，就能生成完美的LLM评审，并在Cekura实验室中实现自动优化。实时分段仪表板，帮助识别对话式人工智能中的趋势。智能统计警报，确保只有在指标偏离历史基准时才会收到通知。自动系统提醒，以便及时发现潜在的生产故障。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Cekura, 语音分析, 聊天AI, 客户体验, 准确性, 对话质量, 预定义指标, 实时仪表盘, 统计警报, 自动化系统, 数据趋势, 票数: 🔺440 是否精选：是 发布时间：2026年03月24日 PM03:01 (北京时间)
+3. Kitty Points Leaderboard 标语：寻找有趣的社区成员，看看你在其中的表现如何。 介绍：Product Hunt因其活跃友好的社区而闻名。为了鼓励大家积极参与社区活动，我们设计了一个社区成员排行榜。排名靠前不仅能让你获得更多曝光，还能提升你内容的可信度。同时，我们也希望展示社区成员参与的多种方式，并围绕这些参与者讲述他们的故事。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-24</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-24/</link>
