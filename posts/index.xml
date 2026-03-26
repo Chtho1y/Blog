@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-26</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-26/</link>
+      <pubDate>Thu, 26 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-26/</guid>
+      <description>1. Agentplace AI Agents 标语：创建专门用于实际任务和工作流程的人工智能代理。 介绍：从现成的智能助手开始，适用于常见的工作流程，或者在几分钟内创建你自己的助手。Agentplace让你可以为特定任务构建专业的助手，比如潜在客户分配、研究、文档分析、日程安排和内部支持。你可以自己使用这些助手，分享给团队，或者将它们与已经在使用的工具连接起来。Agentplace负责基础设施，让你可以专注于工作流程的执行。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AI代理, 专业化代理, 工作流管理, 任务自动化, 潜在客户分配, 研究分析, 文档分析, 日程安排, 内部支持, 团队协作, 工具连接, 票数: 🔺567 是否精选：是 发布时间：2026年03月25日 PM03:01 (北京时间)
+2. Auto Mode by Claude Code 标语：让克劳德代表你做权限决策。 介绍：Claude Code的新自动模式可以为你自动批准文件写入和bash命令。系统会对每个动作进行分类：安全的操作会自动执行，而风险较高的操作则会被阻止并以不同方式处理。建议在隔离环境中使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：自动模式, Claude Code, 权限决策, 文件写入, bash命令, 安全检查, 自动运行, 风险阻止, 隔离环境 票数: 🔺467 是否精选：是 发布时间：2026年03月25日 PM03:01 (北京时间)
+3. Pendium 标语：帮助人工智能助手更频繁地向合适的人推荐你。 介绍：Pendium可以帮助您将产品和服务推广给人工智能代理。随着这些代理越来越多地影响买家的决策（甚至自己做出购买决定！），Pendium帮助企业追踪和管理人工智能代理如何研究您的行业、引用哪些信息，以及您在其中的表现。您可以将Pendium连接到现有的内容管理系统，以实时获取可见性数据和见解，或者使用我们的全方位平台来监测并提升您的人工智能可见度。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-25</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-25/</link>
