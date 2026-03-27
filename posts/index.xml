@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-27</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-27/</link>
+      <pubDate>Fri, 27 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-27/</guid>
+      <description>1. Littlebird 标语：已经了解你工作的人工智能助手 介绍：Littlebird 是一款智能助手，已经了解你的工作内容。它的每一个回答、草稿和计划都更贴近实际，因为它掌握了背后的上下文。它能看到你屏幕上的内容，并记录你的会议，建立起一个关于你的项目和优先事项的私人记忆。Littlebird 能够将你所有应用和对话之间的关系串联起来，提供基于你实际工作的答案。无需额外的集成。如果你在桌面上见过的，Littlebird 也都能看到。只需询问即可。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：小鸟助手, AI助手, 工作助手, 上下文理解, 会议记录, 私人记忆, 项目管理, 应用连接, 无需集成, 语音转录, 工作效率, 智能助手 票数: 🔺550 是否精选：是 发布时间：2026年03月26日 PM03:01 (北京时间)
+2. Claude Mobile: Work Tools 标语：随时随地访问Claude的工作工具 介绍：最近的Claude更新让你不再需要一直待在办公桌前了。通过这一更新，你现在可以在手机上浏览Figma设计、创建Canva幻灯片、查看Amplitude仪表板，方便多了！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude移动, 工作工具, 移动办公, Figma设计, Canva幻灯片, Amplitude仪表板, 手机应用, 办公效率, 远程工作, 更新功能 票数: 🔺423 是否精选：是 发布时间：2026年03月26日 PM03:01 (北京时间)
+3. Venn.ai 标语：将实际工作委托给人工智能代理，并设置安全防护措施。 介绍：将Claude、Cursor、OpenClaw、ChatGPT和VS Code代理连接到你的应用程序，然后为它们设定操作限制。可以草拟但不发送消息，可以更新但不删除内容。你可以完全控制它们的操作，清楚地看到它们的活动，而且不需要任何编码技能。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-26</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-26/</link>
