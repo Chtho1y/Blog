@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-28</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-28/</link>
+      <pubDate>Sat, 28 Mar 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-28/</guid>
+      <description>1. Agentation 标语：AI智能体的可视化反馈工具 介绍：Agentation将用户界面的注释转化为AI编程代理能够理解和执行的结构化信息。你只需点击任何元素，添加备注，然后将输出粘贴到Claude Code、Codex或任何AI工具中。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Agentation, AI代理, 视觉反馈工具, UI注释, 结构化上下文, AI编码代理, 笔记添加, Claude Code, Codex, AI工具 票数: 🔺397 是否精选：是 发布时间：2026年03月27日 PM03:01 (北京时间)
+2. Claude Code auto-fix 标语：在云端自动修复PR，让你轻松无忧 介绍：Claude Code自动修复工具可以在云端监控你的代码提交，自动解决持续集成（CI）失败和审查意见。它会推送修复方案，必要时会询问你，并确保你的代码提交保持“绿色”，这样你就可以暂时离开，待回来时，结果已经准备好合并了。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude Code, 自动修复, Pull Request, 云端, CI失败, 代码审核, 自动化, 修复推送, 绿色PR, 合并准备, 代码管理, 开发工具 票数: 🔺337 是否精选：是 发布时间：2026年03月27日 PM03:01 (北京时间)
+3. Gemini 3.1 Flash Live 标语：让音频人工智能变得更加自然和可靠 介绍：Gemini 3.</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-27</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-27/</link>
