@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-04-01</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-01/</link>
+      <pubDate>Wed, 01 Apr 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-01/</guid>
+      <description>1. Jupid 标语：用Claude Code报税 介绍：无论大型语言模型（LLMs）多么强大，它们在金融交易方面依然表现不佳。这是因为它们容易丢失上下文、分类不一致，并且在不同的会话之间没有记忆。Jupid解决了数据层的问题。只需连接你的银行账户，它就能一次性了解你的业务及所有供应商关系，并永久记住这些信息。交易会被准确映射到国税局的C类表格分类上（准确率约为96%）。你可能错过的扣除额平均每年可达到1249美元。只需5分钟即可完成C类表格的申报。它还可以与Claude Code配合使用。现在可以免费试用，并享受前三个月50%的折扣。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Jupid, 税务申报, Claude Code, 财务交易, 数据层, 银行连接, 商业学习, 供应商关系, IRS Schedule C, 准确率, 漏报扣除, 申报 票数: 🔺562 是否精选：是 发布时间：2026年03月31日 PM03:01 (北京时间)
+2. Computer Use in Claude Code 标语：让Claude通过命令行界面使用你的电脑。 介绍：在Claude Code CLI中启用计算机使用功能，这样Claude就可以在macOS上打开应用程序、点击、输入文字，并查看你的屏幕。你可以测试本地应用程序，调试视觉问题，以及在不离开终端的情况下自动化仅限图形用户界面的工具。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：计算机使用, Claude Code, CLI, 打开应用, 点击, 输入, 查看屏幕, macOS, 测试原生应用, 调试视觉问题, 自动化GUI工具, 终端 票数: 🔺385 是否精选：是 发布时间：2026年03月31日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-03-31</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-03-31/</link>
