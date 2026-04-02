@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Apr 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-04-02</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-02/</link>
+      <pubDate>Thu, 02 Apr 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-02/</guid>
+      <description>1. Noiz Easter Voice 标语：破解彩蛋以生成人工智能声音。 介绍：这个复活节，让你的声音变得与众不同。在Noiz平台上，打开一个“声音蛋”，解锁全新的AI声音，或者通过提示和图片创造自己的声音。从有趣的角色到独特的问候，几秒钟内就能生成富有表现力的声音。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Noiz复活节声音, AI语音生成, 复活蛋, 声音创作, 表达性声音, 角色声音, 唯一问候, 创造性提示, 图像生成, 语音 票数: 🔺406 是否精选：是 发布时间：2026年04月01日 PM03:01 (北京时间)
+2. Ollama v0.19 标语：使用MLX在Apple Silicon上实现大规模本地模型加速 介绍：Ollama v0.19在MLX的基础上重新构建了针对苹果硅的推理，显著提升了本地运行的速度，特别是在编码和代理工作流程中。它还增加了对NVFP4的支持，并引入了更智能的缓存重用、快照和驱逐功能，使会话更加流畅和响应迅速。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Ollama v0.19, 本地模型加速, Apple Silicon, MLX, 编码, 代理工作流, NVFP4支持, 智能缓存重用, 快照, 驱逐, 响应 票数: 🔺364 是否精选：是 发布时间：2026年04月01日 PM03:01 (北京时间)
+3. traceAI 标语：开源的LLM追踪工具，使用的是生成式人工智能的语言，而不是HTTP协议。 介绍：traceAI 是一款基于开放遥测（OTel）的生成式 AI（LLM）追踪工具，能够与您现有的可观测性系统无缝协作。它的特点包括：</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-04-01</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-01/</link>
