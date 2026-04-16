@@ -6,8 +6,21 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 15 Apr 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-04-16</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-16/</link>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-16/</guid>
+      <description>1. Fathom 3.0 标语：AI会议记录：现在无机器人参与，使用ChatGPT、Claude及更多工具。 介绍：你所熟悉的Fathom又升级了！这款最佳的AI笔记工具，现在支持无机器人捕捉、全账户的AI搜索与洞察、Claude和ChatGPT集成、实时摘要以及会议中的随手记。我们还在不断改进中。这是有史以来最灵活的会议AI！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Fathom 3.0, AI会议记录, 无机器人, ChatGPT, Claude, AI搜索, 会议洞察, 现场总结, 会议草稿, 桌面体验, 灵活会议AI 票数: 🔺535 是否精选：是 发布时间：2026年04月15日 PM03:01 (北京时间)
+2. Claude Code Routines 标语：让Claude Code任务自动化，轻松实现智能流程。 介绍：Claude代码例程在Anthropic管理的基础设施上运行AI编码自动化，可以根据预设的时间表、API调用或GitHub事件自动执行任务，比如审查拉取请求、整理待处理事项或验证部署，而无需保持你的笔记本电脑开机。你不需要手动管理定时作业或服务器。这项服务适用于使用Pro、Max、Team或Enterprise计划的工程团队。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Claude Code, 自动化编程, 人工智能, 代码审查, PR审查, 任务自动化, 计划触发, API调用, GitHub事件, 代码验证, 团队协作, Pro计划 票数: 🔺491 是否精选：是 发布时间：2026年04月15日 PM03:01 (北京时间)
+3. Intent 标语：让我们来聊聊一个功能的开发过程，以及人工智能代理是如何构建、验证并发布它的。
+首先，AI代理会根据用户的需求或者市场的趋势，设计出一个新功能。这可能是一个应用程序的新按钮，或是一个网站的新推荐系统。设计阶段通常会结合数据分析，以确保这个功能能够满足用户的期望。
+接下来，AI代理会进行编码，实际上构建这个功能。在这个过程中，它可能会使用各种编程语言和工具，确保功能的性能和稳定性。</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-04-15</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-04-15/</link>
