@@ -6,8 +6,20 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 01 May 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-05-02</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-05-02/</link>
+      <pubDate>Sat, 02 May 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-05-02/</guid>
+      <description>1. Postiz 标语：为代理商设计的社交媒体调度工具，如OpenClaw。 介绍：将Postiz连接到你的个人AI代理，比如OpenClaw、Claude、nanoclaw或PaperClip，你就可以一次性在30多个社交媒体平台上安排成千上万的帖子。你可以选择安装Postiz SKILL并使用Postiz命令行界面（CLI），或者使用Postiz MCP并将其连接到远程服务器；无论哪种连接方式都可以支持。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：社交媒体调度工具, Postiz, 个人AI代理, OpenClaw, Claude, nanoclaw, PaperClip, 社交媒体发布, 多平台支持, Postiz技能, Postiz命令行, Postiz MCP 票数: 🔺416 是否精选：是 发布时间：2026年05月01日 PM03:01 (北京时间)
+2. Zed 1.0 标语：高性能的开源多用户代码编辑器 介绍：快速 — 这个软件是用Rust从头编写的，能够高效地利用多个CPU核心和你的GPU。
+智能 — 可以并行运行多个代理，流畅地编辑文件、浏览代码和以原生速度运行工具。
+协作 — 可以与团队成员聊天、一起编写代码，还能共享屏幕和项目。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Zed 1.0, 高性能, 开源, 多人协作, 代码编辑器, 快速, Rust, 多核处理, GPU, 代理, 并行运行, 平滑编辑, 代码导航, 票数: 🔺283 是否精选：是 发布时间：2026年05月01日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-05-01</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-05-01/</link>
