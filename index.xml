@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-07</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-07/</link>
+      <pubDate>Tue, 07 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-07/</guid>
+      <description>1. AnySearch 标语：实时结构化搜索，受到代理和开发者的信赖。 介绍：一个为代理提供的信息搜索工具，而不是单纯的搜索框。人工智能代理的表现取决于它们接收到的信息质量。通过连接到AnySearch，你的代理可以获取经过筛选、去重和结构化的信息，这些信息来自多个可信来源的并行搜索，这样能够帮助它产生更可靠的结果。现在免费开始使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AnySearch, 实时搜索, 结构化搜索, 信任, 代理人, 开发者, AI代理, 信息过滤, 去重, 可信来源, 并行搜索, 可靠结果, 免费使用 票数: 🔺536 是否精选：是 发布时间：2026年07月06日 PM03:01 (北京时间)
+2. Typeahead 2.0 标语：为你在Mac上的每个应用提供私密的AI自动完成功能 介绍：Typeahead 2.0 是一款专为你的 Mac 设计的私密人工智能自动补全工具，支持每个应用的个性化写作风格，兼容各种语言，并能根据你的工作方式智能调整上下文。它的定制性和实用性日益增强，同时在内存占用上更轻盈，后台运行速度更快。你还可以获得私密的使用数据，了解节省了多少时间。一次性收费79美元，提供免费更新，无需订阅。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Typeahead 2.0, 私人AI自动完成功能, Mac应用, 写作风格, 多语言支持, 智能上下文, 可定制, 轻量化, 快速响应, 私密洞察 票数: 🔺437 是否精选：是 发布时间：2026年07月06日 PM03:01 (北京时间)
+3. Octolens 标语：代理时代的社交聆听 介绍：你的AI助手可以读取你的代码、文档和客户关系管理系统（CRM），但无法访问Reddit、Hacker News、播客或新闻。Octolens是一个可以捕捉互联网所有提及的API。通过API、网络钩子和MCP提供AI过滤后的JSON数据。你可以将这些数据导入Slack、你的CRM、数据仓库或你的AI助手中。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-06</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-06/</link>
