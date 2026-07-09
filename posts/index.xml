@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-09</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-09/</link>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-09/</guid>
+      <description>1. ExploreYC 标语：Y Combinator和a16z公司数据的开源API 介绍：这是一个开源的API，提供了关于Y Combinator和a16z的创业公司数据，涵盖了6600多家公司，包括融资情况、发展阶段、首次公开募股（IPO）/并购退出信息以及创始人信息。用户可以按风险投资公司（如yc、a16z或全部）、批次、行业、国家进行筛选，或者直接搜索。你可以获取一个免费的API密钥，查看文档（支持curl、Node、Python以及Swagger），并在30秒内开始构建。此外，还提供了完整的网页应用，包括地图、分析工具、融资数据、实时招聘信息以及AI工具。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：ExploreYC, 开源API, Y Combinator, a16z, 公司数据, 初创企业, 投资信息, 阶段, IPO, M&amp;amp;A退出, 创始人, 风投, 行业, 国家, 免费 票数: 🔺415 是否精选：是 发布时间：2026年07月08日 PM03:01 (北京时间)
+2. IvyForms 标语：一个适用于真实工作流程的WordPress表单构建器 介绍：IvyForms 是一个针对 WordPress 的表单构建工具，可以将用户提交的信息转化为有序的工作流程。它提供了一个简洁的拖放界面，便于创建联系表单、申请表、注册表、调查问卷、反馈表以及多步骤流程。使用后，你可以轻松管理提交记录，分析反馈，应用条件逻辑，并将数据与 wpDataTables、Amelia、Mailchimp 和 Webhooks 等工具连接，让每一个回复都能推动工作进展。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：IvyForms, WordPress表单生成器, 工作流程, 联系表单, 申请表, 注册表, 调查表, 反馈表, 多步骤流程, 拖放构建器, 管理条目, 分 票数: 🔺330 是否精选：是 发布时间：2026年07月08日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-08</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-08/</link>
