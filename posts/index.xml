@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-14</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-14/</link>
+      <pubDate>Tue, 14 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-14/</guid>
+      <description>1. AgentKey 标语：为您的代理提供一站式实时数据市场 介绍：AgentKey 是一个插件，可以通过一个命令将你的代理连接到实时的外部数据。只需将它安装到 Claude Code、Codex、OpenClaw 或任何基于 MCP 的代理中，就能立即获取搜索、网页、社交平台、金融、电商、商业和加密货币数据。无需复杂的集成或设置，自动故障转移功能确保工作流程持续进行。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AgentKey, 实时数据市场, 插件, 代理, Claude Code, Codex, OpenClaw, MCP, 数据访问, 搜索, 网页, 社交平台, 财务数据, 电子商务, 商业数据 票数: 🔺648 是否精选：是 发布时间：2026年07月13日 PM03:01 (北京时间)
+2. Osaurus 标语：在你的Mac上完全本地运行的开源代理。 介绍：本土化的 macOS AI 代理框架。支持任何模型，具备持久记忆，能够自主执行，并拥有加密身份。使用 Swift 编写，完全离线运行，且开源。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Osaurus, 开源代理, 本地运行, macOS, AI代理, 持久内存, 自主执行, 加密身份, Swift, 离线, 开源软件 票数: 🔺612 是否精选：是 发布时间：2026年07月13日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-13</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-13/</link>
