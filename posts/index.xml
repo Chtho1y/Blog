@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-18</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-18/</link>
+      <pubDate>Sat, 18 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-18/</guid>
+      <description>1. Unabyss for Claude 标语：在Claude中，实现了所有应用程序和大型语言模型（LLMs）之间的共享内存。 介绍：Claude并不知道GPT内部发生了什么。他们都不清楚你是谁，也不知道你的公司在做什么。不过现在他们可以了解了。Unabyss为Claude提供了来自你其他AI助手和日常应用的记忆：电子邮件、云盘、GitHub、Notion、会议记录工具等等，超过20种应用。它还能保存新的记忆，这样GPT和Cursor就能保持一致，拥有相同的上下文——比起逐个将每个工具连接到Claude，效率高多了。最终，这是真正的记忆，随时随地都能跟随你。私密且便携。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Unabyss, Claude, 共享记忆, 应用程序, LLMs, AI代理, 邮件, 云端硬盘, GitHub, Notion, 会议记录, 数据同步, 私密, 便携, 票数: 🔺577 是否精选：是 发布时间：2026年07月17日 PM03:01 (北京时间)
+2. Pebbles Ai 标语：现代B2B团队的人工智能销售平台 介绍：Pebbles AI是您成功将产品和服务推向市场所需的唯一一款市场推广协作平台。它是为B2B收入团队打造的市场推广操作系统，将战略、潜在客户生成、外联、销售和公司知识整合到一个由人工智能驱动的工作空间中。利用针对您业务进行训练的神经符号人工智能，Pebbles AI帮助团队策划活动、个性化外联、生成合格的潜在客户，并在不需要切换不同的市场推广工具的情况下高效执行。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Pebbles Ai, AI销售平台, B2B团队, 市场推广, GTM协调平台, 收入团队, 策略, 潜在客户生成, 外联, 销售, 知识共享, 人工 票数: 🔺416 是否精选：是 发布时间：2026年07月17日 PM03:01 (北京时间)
+3. Kimi K3 标语：全球首款开放式3T级模型 介绍：Kimi K3 是世界上首款开放的3T级模型，具备前沿的编码、知识工作和推理能力，支持原生多模态处理，并且拥有100万的上下文记忆。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-17</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-17/</link>
