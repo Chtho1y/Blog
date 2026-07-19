@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-19</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-19/</link>
+      <pubDate>Sun, 19 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-19/</guid>
+      <description>1. ZooData 标语：AI代理的数据层 介绍：ZooData 可以将任何网址转换为适合代理使用的 JSON 格式，这样 AI 代理就能处理结构化数据，而不是原始的 HTML 或冗长的 markdown。使用 ZooData，您可以减少约 75% 的 LLM 令牌消耗，只需为实际使用的字段付费，还可以省去额外的提取费用。除了数据提取，ZooData 还为代理提供经过预分析的电子商务情报，包括竞争对手、市场、流量和消费者洞察，支持实时获取 Amazon 和 TikTok 的数据。它还包括 API、CLI 和 MCP 服务器。您可以先体验 1,000 个免费积分，无需信用卡。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：ZooData, 数据层, AI代理, 结构化数据, JSON, URL转换, LLM代币, 提取字段, 电商智能, 竞争分析, 市场洞察, 流量分析, 消费者洞 票数: 🔺595 是否精选：是 发布时间：2026年07月18日 PM03:01 (北京时间)
+2. Clark 标语：一个拥有自己云计算能力的人工智能同事 介绍：Clark是一个人工智能助手，拥有自己的云计算环境，包括浏览器、终端、文件和代码。你只需给它一个真实的任务，关闭标签页，再回来时就能看到完成的工作：包括广泛的研究、网站、电子表格、演示文稿、审计或经过测试的代码。它可以将工作分配给多个专业人士，按照计划进行，并返回带有相关证据的成果。你可以在网页或移动设备上使用Clark，也可以在真实的代码库中与Clark Code协作，或者通过兼容OpenAI的API嵌入这个助手。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：人工智能, 助手, 云计算, 浏览器, 终端, 文件, 代码, 任务管理, 研究, 网站, 电子表格, 演示文稿, 审计, 代码测试, 票数: 🔺471 是否精选：是 发布时间：2026年07月18日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-18</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-18/</link>
