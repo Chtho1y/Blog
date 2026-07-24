@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-24</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-24/</link>
+      <pubDate>Fri, 24 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-24/</guid>
+      <description>1. PromptQL 标语：替代Slack的多人AI工具 介绍：别再把团队的知识分散在Slack和每个人的私人AI聊天中。PromptQL是为团队设计的多用户AI：可以想象成在共享线程中使用Claude或ChatGPT。你可以标记同事来审核、修正和完善答案，同时保留推理过程。它可以连接数据库、SaaS应用、编程代理和事件。PromptQL能够捕捉团队的知识，并建议共同更新，以便信息能够不断积累。不同的权限和范围确保合适的人可以访问相应的上下文。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：多用户AI, 团队协作, 替代Slack, 知识共享, Claude, ChatGPT, 共享线程, 团队知识, 标记同事, 答案审核, 数据库连接, SaaS 票数: 🔺445 是否精选：是 发布时间：2026年07月23日 PM03:01 (北京时间)
+2. Teable 3.0 标语：商务智能电子表格中的人工智能 介绍：将您的业务数据转化为人工智能工作流程和定制应用。连接任何系统，迁移任何数据，打造完全符合您业务需求的解决方案。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Teable 3.0, AI电子表格, 商业数据, AI工作流, 自定义应用, 数据迁移, 系统连接, 企业解决方案, 高度适配, 数据管理 票数: 🔺435 是否精选：是 发布时间：2026年07月23日 PM03:01 (北京时间)
+3. PodcastorAI 标语：你的AI双胞胎主持你的网络视频播客。 介绍：通过脚本、链接、PDF或创意，轻松制作专业级视频播客——配备AI主持人、自然语音和你的数字双胞胎。Podcastor负责制作，让你出现在屏幕上，将数小时的录音和编辑工作缩短到大约15分钟内完成一个成品视频播客。你可以创建独自主持或双主持的节目，轻松获得无需摄像机或制作团队的可发布视频。如果你已经有音频节目，只需上传它，就能将其转变为带有你声音和AI形象的视频播客。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-23</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-23/</link>
