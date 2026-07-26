@@ -6,8 +6,17 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-26</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-26/</link>
+      <pubDate>Sun, 26 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-26/</guid>
+      <description>1. Heard 标语：赋予Claude Code和Codex声音 介绍：Heard 是一款专为 macOS 设计的语音工具，旨在优化你的工作流程。它可以连接到 Claude Code、Codex 和 Cursor，将这些工具的输出转化为你可以听到的智能摘要。当你无法专注于屏幕时，它会为你提供全面的解说，或者在没有错误或需要决策的情况下保持静默。使用并行运行的代理，Heard 在项目层面进行总结，这样你就能听到工作的进展，而不是五个终端同时在说话。你可以将手机与其配对，随时随地使用。它是开源的，个人使用免费。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Heard, macOS, 语音层, 工作流, Claude Code, Codex, Cursor, 智能摘要, 全面评论, 项目级别, 开源, 免费, 个人使用, 语音助手, 票数: 🔺330 是否精选：是 发布时间：2026年07月25日 PM03:01 (北京时间)
+2. FluentDB 标语：适用于Mac的AI数据库客户端 介绍：FluentDB 是一款适用于 macOS 的人工智能数据库客户端。它支持 PostgreSQL、MySQL、SQLite 和 SQL Server，更多选项也将在不久后推出。FluentDB 旨在提供快速、简洁和安全的体验，可以与 Anthropic 和 OpenAI 进行连接，用户可以使用自己的 API 密钥或 Claude Code/Codex 订阅，同时也支持通过 Ollama 使用本地模型。您的数据在未经您同意的情况下不会离开您的机器：模型只能看到您的数据库结构，而看不到具体数据，并且每个 AI 生成的 SQL 查询默认都需要您的批准。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-25</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-25/</link>
