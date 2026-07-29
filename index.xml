@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-29</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-29/</link>
+      <pubDate>Wed, 29 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-29/</guid>
+      <description>1. Prefactor 标语：实时评估你的人工智能代理 介绍：大多数代理在评估阶段表现良好，但在实际生产中却出现问题。Prefactor是一个评估工具，旨在填补这个差距。我们实时评分每个代理的运行，及时发现质量下降和性能漂移，并向工程团队展示他们的代理在大规模环境中的表现。这个工具专为将代理交付给客户的团队而设计。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Prefactor, AI代理评估, 实时评估, 质量回归, 生产环境, 性能监测, 工程团队, 代理运行, 评估层, AI性能, 客户端代理, 质量 票数: 🔺583 是否精选：是 发布时间：2026年07月28日 PM03:01 (北京时间)
+2. Cekura 标语：语音助手的自我改进循环 介绍：Cekura 是一个专为生产环境中的语音和聊天 AI 代理而设计的测试、监控和自我改进平台。它能够模拟成千上万种场景，捕捉故障，诊断根本原因，改写提示和配置，然后通过全面回归测试来验证修复效果。与那些将故障反馈给团队的工具不同，Cekura 能够自动修复代理，并证明修复的有效性，避免过拟合的问题。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Cekura, 自我提升, 语音代理, 测试平台, 可观察性, 聊天AI, 故障捕捉, 根本原因诊断, 提示重写, 配置管理, 回 票数: 🔺407 是否精选：是 发布时间：2026年07月28日 PM03:01 (北京时间)
+3. Lottie Creator 2.0 标语：基于Lottie的网页版After Effects 介绍：没错，我们称之为：网页版 After Effects。你可以在浏览器中从零开始设计矢量动画，使用 Motion Copilot AI 提高工作效率，利用状态机实现交互功能，并导出适合生产的 Lottie 和 dotLottie 文件。无需桌面应用程序，也没有开发交接的麻烦。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-28</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-28/</link>
