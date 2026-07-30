@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-30</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-30/</link>
+      <pubDate>Thu, 30 Jul 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-30/</guid>
+      <description>1. Prelint 标语：防止AI生成代码的产品漂移 介绍：人工智能以10倍的速度为你编写代码，而Prelint则确保代码的正确性——它会对每个拉取请求进行审查，确保与您的架构决策、文档和过去的决策相一致，并在发布之前捕捉到产品偏差。在使用多个人工智能审阅工具的团队中，约有40%的在合并前修复的问题是由Prelint发现的。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Prelint, AI代码, 代码审查, 产品漂移, PR审核, ADR, 文档, 决策, AI审查, 代码质量, 代码优化, 团队协作, 问题解决, 票数: 🔺554 是否精选：是 发布时间：2026年07月29日 PM03:01 (北京时间)
+2. SoundGate Guitar 标语：实时反馈的人工智能音乐导师，帮助你提升演奏技巧。 介绍：SoundGate吉他是一款能够真正倾听你演奏的AI练习助手。它提供即时的视觉反馈，通过一个互动的品格板来实现零延迟的音符识别。内置的AI导师会分析你的演奏，给出个性化的反馈、定制的练习方案，以及解答你所有关于吉他的问题。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：SoundGate吉他, AI音乐导师, 实时反馈, 吉他练习伴侣, 互动指板, 零延迟音符检测, 内置AI导师, 个性化反馈, 定制练习方案, 吉 票数: 🔺419 是否精选：是 发布时间：2026年07月29日 PM03:01 (北京时间)
+3. Denovo 标语：将你的充满独特氛围的应用转化为付费用户 介绍：你已经为你的应用注入了活力，接下来该怎么办呢？🤔 虽然人工智能让构建变得简单，但吸引客户才是最难的部分。Denovo能帮助你从构思直接迈向盈利。💸 我们提供一个已经接入Stripe的高转化率网站，此外还有一个自动化的增长引擎，可以向1亿个潜在客户发送邮件，并为你的Meta广告活动做好准备。🚀 只需询问“生意怎么样？”就能获得收入情况和下一步的建议。这里已经有超过15,000家企业成功建立。你的企业也只需一步之遥。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-07-29</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-07-29/</link>
