@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-02</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-02/</link>
+      <pubDate>Sun, 02 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-02/</guid>
+      <description>1. NudgeForMe 标语：用于跟进未回复邮件机会的人工智能助手 介绍：NudgeForMe 是一个智能工具，它会扫描你发送的对话，找到那些没有回复的消息，并在你的邮箱里自动草拟自然的跟进邮件。它以草稿模式开始，这样你可以保持对内容的控制。你可以查看每个跟进机会，选择有用的，然后通过 Gmail、Outlook 或 IMAP/SMTP 发送。这款工具是由 Snoooz 团队开发的，他们处理了数百万封邮件，专注于解决一个棘手的问题：确保潜在客户、交易、合作关系和客户对话不会悄然冷却。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：NudgeForMe, AI跟进代理, 邮件跟进, 未回复邮件, 自然跟进, 邮件草稿, Gmail, Outlook, IMAP, SMTP, Snoooz团队, 商机管理, 客户沟 票数: 🔺310 是否精选：是 发布时间：2026年08月01日 PM03:01 (北京时间)
+2. DeepSeek-V4-Flash-0731 标语：闪电价格的前沿代理智能 介绍：DeepSeek-V4-Flash-0731是V4-Flash的官方版本，它在智能能力上有了巨大的飞跃。在关键性能指标上，它的表现超越了V4-Pro（预览版），还原生支持Responses API，并且完全兼容Codex命令行接口。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：DeepSeek-V4-Flash-0731, 前沿智能, 快速价格, 代理能力, 性能提升, 原生支持, Responses API, Codex CLI, 官方发布, V4-Flash 票数: 🔺298 是否精选：是 发布时间：2026年08月01日 PM03:01 (北京时间)
+3. Port22 标语：手机上的Claude代码、Codex等更多功能 介绍：我会启动一个长时间运行的代理，然后离开一会儿，回来时发现它在等我批准一个文件编辑，足足浪费了20分钟。Port22可以把你在Mac上运行的每一个编码代理都显示到你的手机上。你可以看到哪些在正常工作，哪些卡住了。当某个代理需要你的许可时，你的手机会震动，你只需点击它提供的选项，而不是猜测按键。这款应用能够直接连接到你已经运行的程序，不需要额外的包装、配置或新的终端。对一台Mac和两个会话是免费的，所有功能都可用。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-01</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-01/</link>
