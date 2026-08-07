@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 06 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-07</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-07/</link>
+      <pubDate>Fri, 07 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-07/</guid>
+      <description>1. Cloudflare OS 标语：为您的公司构建人工智能操作系统 介绍：为每个人提供一个智能助手和工作空间，这个空间围绕着你们公司的运作方式、知识和依赖的系统构建。Cloudflare OS 是一个开源的人工智能操作系统，企业可以根据自身的背景、工具和规则来定制。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Cloudflare OS, 人工智能操作系统, 开源操作系统, 企业定制, 工作空间, 智能代理, 企业管理, 系统集成, 工具整合, 公司知识管理 票数: 🔺438 是否精选：是 发布时间：2026年08月06日 PM03:01 (北京时间)
+2. AI Spend Console by Rippling 标语：跟踪你的人工智能支出，并将其与业务成果挂钩。 介绍：AI支出控制台为财务和工程领导者提供了一个集中跟踪人工智能支出的平台，涵盖了各种工具（如Claude和Cursor），并将这些支出与业务成果连接起来。用户可以按供应商、模型或员工详细划分成本，并将支出与GitHub的输出数据（例如拉取请求的数量和代码修订次数）关联。您可以免费开始使用，无需订阅Rippling。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AI支出控制台, Rippling, 跟踪AI支出, 连接业务成果, 财务领导, 工程领导, 工具支出, Claude, Cursor, 成本分析, 供应商, 模型, � 票数: 🔺317 是否精选：是 发布时间：2026年08月06日 PM03:01 (北京时间)
+3. Superlog Responder 标语：免费开源的人工智能漏洞修复助手 介绍：Responder 是一款人工智能故障修复助手，可以轻松接入您现有的 Sentry 或 Datadog Slack 频道。只需一键同步，无需安装新监控工具。每当收到警报时，它会全面调查，过滤掉无关信息，对于真正的问题，它会直接在聊天记录中回复，提供问题的根本原因、证据以及可合并的代码请求（PR）。提示、记忆、代码库访问权限和升级规则都可以完全自定义，这样您就能打造属于自己的调试助手，而不是使用我们的工具。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-06</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-06/</link>
