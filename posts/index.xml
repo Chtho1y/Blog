@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-09</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-09/</link>
+      <pubDate>Sun, 09 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-09/</guid>
+      <description>1. The GTM Co-Founder 标语：面向技术创始人的开源GTM技能 介绍：大多数人工智能开发工具的创始人都收到相似的销售和市场推广建议，而GTM联合创始人则有所不同。它提供了一套开源技能，首先通过一次面试了解你的真实产品和市场，然后一步步引导你制定优先级的市场推广路线图：目标用户、市场定位、前50名用户、产品发布、定价等等。这些内容基于Adam Frankl和Jakub Czakon的成功经验，以及我自己作为创始客户经理和市场推广顾问的经历。完全免费且开源。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：GTM联合创始人, 开源GTM技能, 技术创始人, AI开发工具, 销售和营销建议, 开源技能, GTM路线图, 产品定位, 首批用户, 产品发布, 定 票数: 🔺373 是否精选：是 发布时间：2026年08月08日 PM03:01 (北京时间)
+2. AstraPixels 标语：一个像素风格的太阳系，展示了各个行星目前的真实位置。 介绍：一幅动态的像素艺术风格的太阳系地图，展示了每个天体的真实当前位置，这些位置是根据已发布的轨道元素计算得出的，而不是简单地从列表中复制的。你可以从太阳缩放到库珀带，浏览171个已编目对象，获取相关信息，并查看接下来六个月天空的动态。每颗小行星也可以出售：只需5美元就能拥有它，永久拥有，并可以任意命名。需要注意的是，这里的名称仅在AstraPixels上显示，不属于国际天文学联合会（IAU）认证的名称。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AstraPixels, 像素艺术, 太阳系, 动画地图, 天体位置, 轨道元素, 太阳, 库伊伯带, 天体, 目录对象, 天文观测, 小行 票数: 🔺270 是否精选：是 发布时间：2026年08月08日 PM03:01 (北京时间)
+3. Hexis 标语：基于Git的技能、工具和AI代理的背景知识 介绍：Hexis是一个集成了公司AI技能、工具和知识的集中管理平台。它建立在Git的基础上，保留了版本控制和拉取请求（PRs）的核心功能，同时提供了简洁的用户界面，让每个人都能轻松使用技能、提出修改建议和提交新内容。管理员可以管理每个人、团队或代理人能够访问的上下文、工具和技能。通过MCP进行访问，Hexis可以在公司内的任何代理中使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-08</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-08/</link>
