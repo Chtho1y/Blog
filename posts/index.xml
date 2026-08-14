@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-14</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-14/</link>
+      <pubDate>Fri, 14 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-14/</guid>
+      <description>1. Kane CLI 标语：从终端进行自然语言浏览器和移动应用测试 介绍：一个面向开发者和人工智能编码代理的自主质量验证工具。用户可以用自然语言描述测试，Kane CLI 会在真实的 Chrome 浏览器中执行这些测试，并返回结果（通过或失败），并提供可分享的证明。无需编写选择器。它支持本地优先使用，初始使用免费。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Kane CLI, 自然语言浏览器, 移动应用测试, 终端测试, 质量验证, 开发者工具, AI编程助手, 测试描述, Chrome浏览器, 通过或失败, 可 票数: 🔺446 是否精选：是 发布时间：2026年08月13日 PM03:01 (北京时间)
+2. Ito 标语：运行您代码的AI代码审核 介绍：Ito是一个人工智能代码审核工具，它会在审核代码之前先运行你的应用程序。对于每个拉取请求，Ito会创建一个临时环境，验证受影响的流程，并提供运行时证据，这样团队就能发现静态分析和仅依靠模型审核所遗漏的错误。与其仅仅根据代码差异进行猜测，Ito能够清晰地展示到底是什么地方出了问题、发生在何处以及为什么这很重要，确保在拉取请求部署到生产环境之前就能解决潜在问题。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AI代码审查, 自动化工具, 代码运行, 应用验证, Pull Request, 临时环境, 流程验证, 运行时证据, 缺陷捕捉, 静态分析, 模型审 票数: 🔺418 是否精选：是 发布时间：2026年08月13日 PM03:01 (北京时间)
+3. Nuphos 标语：AI原生DevOps工作空间。 介绍：Nuphos为工程团队提供了一个共享环境，让AI代理能够学习你的基础设施，调查问题，并管理生产系统。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-13</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-13/</link>
