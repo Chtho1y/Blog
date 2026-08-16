@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-16</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-16/</link>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-16/</guid>
+      <description>1. Inferock Bench 标语：每次调用大型语言模型（LLM）API都会生成一份独立的收据。 介绍：Inferock-bench 是一个本地代理，位于你的应用程序与 OpenAI、Anthropic、Gemini 或 OpenRouter 之间。它会记录每次调用的令牌使用情况、失败次数和重试次数，并生成一份独立的收据，详细说明你的账单以及你实际多支付了多少。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Inferock Bench, 本地代理, API 调用, 收据生成, 令牌使用, 失败记录, 重试记录, 费用监控, OpenAI, Anthropic, Gemini, OpenRouter, 费用透明, 票数: 🔺284 是否精选：是 发布时间：2026年08月15日 PM03:01 (北京时间)
+2. GLM-5.3 标语：在相同基础上进行后训练的编码跃迁 介绍：GLM-5.3是Z.ai最新推出的模型，专门用于复杂的长期编码任务。通过大规模的后期训练，它在智能编码领域达到了开源的顶尖水平，并展现出在漏洞发现和网络防御方面的突显能力。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：GLM-5.3, 编码模型, Z.ai, 后期训练, 开源, SOTA, 代理编码, 演化能力, 漏洞发现, 网络防御, 复杂编码任务, 长期任务 票数: 🔺210 是否精选：是 发布时间：2026年08月15日 PM03:01 (北京时间)
+3. Big Mike 标语：你最喜欢的叔叔，懂得体育和投注，通过iMessage联系你。 介绍：大迈克整天关注美职棒（MLB）、美国国家足球联盟（NFL/大学足球）和NBA/WNBA，随时通过iMessage给你发消息，告诉你该下注什么、下注多少、在哪个平台下注。他在七月的战绩是115胜68负，盈利21.</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-15</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-15/</link>
