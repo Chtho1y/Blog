@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-22</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-22/</link>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-22/</guid>
+      <description>1. Wizstar 标语：数字化虚拟形象，它们的动作和表现就像专业演员一样。 介绍：Wizstar 帮助创始人、创作者和制造者打造一个生动、精准的数字化形象，它的外观和动作都与你相似。这个形象可以自然地做手势，与物体互动，并且在你转头或有东西挡住脸时，依然能够保持精准的嘴唇同步。你可以创建产品更新、培训视频、本地化内容和品牌宣传，而无需每次都出现在镜头前。让你的数字形象生动起来，并在不同市场、语言和渠道中扩展影响力。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Wizstar, 数字化身, 专业演员, 创作者, 表达式, 数字代言人, 自然手势, 互动, 精确口型同步, 产品更新, 培训视频, 本地 票数: 🔺318 是否精选：是 发布时间：2026年08月21日 PM03:01 (北京时间)
+2. Supernova 标语：你在Claude和Codex中的所有数据 介绍：Supernova将您创业公司的实时数据与Claude和Codex连接起来，这样任何人都可以提出问题、调查表现，并在他们已经使用的AI工具中进行复杂分析。您可以连接Stripe、HubSpot、PostgreSQL等30多个应用程序，然后无需等待工程师或将所有数据迁移到传统商业智能系统中，就能分析收入、销售线索、客户、使用情况和运营。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：超级新星, 数据连接, Claude, Codex, 实时数据, 初创企业, 性能分析, 复杂分析, AI工具, Stripe, HubSpot, PostgreSQL, 应用连接, 收入分析, 客户分析 票数: 🔺306 是否精选：是 发布时间：2026年08月21日 PM03:01 (北京时间)
+3. Mindcase 标语：在几分钟内从网络上的任何地方提取数据。 介绍：Mindcase 是一个用于提取网页数据的基础设施层，能够以结构化且易于使用的格式提供数据。它专为需要可靠网页数据的开发者和人工智能团队设计，免去管理抓取基础设施的麻烦。用户可以通过流行数据源访问 API，或者根据特定需求定制构建自己的 API，获取网络上的任何信息。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-21</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-21/</link>
