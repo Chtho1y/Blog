@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-23</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-23/</link>
+      <pubDate>Sun, 23 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-23/</guid>
+      <description>1. Toplify 标语：跟踪你应用在全球App Store的排名 介绍：Toplify是一款多服务器服务监测应用，能够全天候监控175个国家的App Store排行榜，让你不错过任何一个里程碑。你可以及时获得新排名和显著变化的提醒。使用它不需要API密钥或App Store Connect的访问权限，只需添加你的应用，Toplify会处理后续的一切。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Toplify, 应用商店排名, 全球监控, 175个国家, 24小时监控, 排名提醒, 重要变化, 无需API密钥, 应用管理, 里程碑跟踪 票数: 🔺332 是否精选：是 发布时间：2026年08月22日 PM03:01 (北京时间)
+2. Open Analytics 标语：现代网络的AI原生谷歌分析替代方案 介绍：Open Analytics 是一个开源、以隐私为首的替代方案，旨在取代谷歌分析，专为人类和人工智能代理设计。它可以通过一个轻量级、无 Cookie 的脚本实时跟踪访客、转化漏斗和收入。你还可以通过 MCP 将分析数据与 AI 工具连接起来。它符合 GDPR 标准，无需用户同意横幅，并且可以自行托管。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：开放分析, AI原生, Google Analytics替代品, 现代网络, 开源, 隐私优先, 实时访客, 转化漏斗, 收入追踪, 轻量级, 无需Cookie, 票数: 🔺232 是否精选：是 发布时间：2026年08月22日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-22</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-22/</link>
