@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-24</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-24/</link>
+      <pubDate>Mon, 24 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-24/</guid>
+      <description>1. Construct Computer 标语：你的AI同事拿到了一台电脑，而你则重新找回了自己的时间。 介绍：为独立创始人和小团队打造的人工智能工作平台。任何MCP（多功能能力包）或技能安装就像下载应用一样简单，智能代理可以创建尚不存在的工具，这些工具由平台进行部署和管理，可以与整个团队共享。任何你希望的代理操作都能转化为可重复使用的工作流程，这样代理们就能减少思考时间，更多地投入到实际操作中。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：构建电脑, AI 劳动力, 独立创始人, 小团队, MCP 安装, 技能安装, 应用程序, 工具构建, 平台管理, 团队共享, 可重用工作流 票数: 🔺321 是否精选：是 发布时间：2026年08月23日 PM03:01 (北京时间)
+2. FetchSandbox MCP 标语：证明你的人工智能集成修复有效的MCP 介绍：你的代理集成修复已经通过了持续集成（CI）测试，但数据仍然有问题。FetchSandbox MCP 可以复现你代码中的实际错误，修复了这个问题，并且证明了修复是有效的。这就像是有了一个明确的凭证，而不是一种感觉。现在有70多个API沙箱，你只需要在Cursor或Claude代码中调整一个配置模块。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：FetchSandbox MCP, AI集成修复, 持续集成, 数据错误, 代码故障, 修复验证, API沙盒, 配置块, Cursor代码, Claude代码 票数: 🔺239 是否精选：是 发布时间：2026年08月23日 PM03:01 (北京时间)
+3. Aximote 标语：你的汽车数据，终于随身带着了！ 介绍：Aximote将您汽车的数据传输到您的iPhone，让每一次出行变得易于理解。您的行程会自动记录，并提供关于油耗、充电情况、费用和驾驶效率的见解。您可以自定义一个仪表盘，显示20多项车辆指标，比较不同的行程和长期趋势，管理多辆汽车，并保持连续的驾驶历史，即使您更换品牌也不受影响。无需额外硬件。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-23</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-23/</link>
