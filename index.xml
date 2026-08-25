@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-25</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-25/</link>
+      <pubDate>Tue, 25 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-25/</guid>
+      <description>1. PaymentKit 标语：在处理器关闭后仍能继续进行的账单处理 介绍：PaymentKit 是一个针对软件即服务（SaaS）和电子商务的多处理器账单平台。它能够在不同的支付处理器之间智能地分配付款，同时独立存储令牌，并确保即使某个商户账户被关闭，订阅的账单依然能够正常进行。启动时无需编写代码，必要时还提供全面的 API 支持。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：PaymentKit, 多处理器计费平台, SaaS, 电子商务, 支付路由, 代币独立存储, 订阅计费, MID关闭, 无需编码, 全功能API 票数: 🔺429 是否精选：是 发布时间：2026年08月24日 PM03:01 (北京时间)
+2. Decawork 标语：管理你公司的内部AI代理和工具 介绍：Decawork 是 IT 团队将员工开发的人工智能代理投入使用的方式，并且可以从一个地方管理所有的代理。员工可以在 Claude Code、Codex 或其他编程工具上创建代理；我们将其整合到公司账户中，并将其作为公司资产进行管理。接下来，IT 团队就像管理员工一样，负责代理的访问权限、监督和退休等事项。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Decawork, 内部AI代理, 工具控制, IT团队, 员工构建, Claude Code, Codex, vibecoding, 公司账户, 公司资产, 管理代理, 访问权限, 监督, 票数: 🔺321 是否精选：是 发布时间：2026年08月24日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-24</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-24/</link>
