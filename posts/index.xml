@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-26</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-26/</link>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-26/</guid>
+      <description>1. akta.pro 标语：面向代理经济的私营公司数据和信号API 介绍：我们提供的私营公司数据，深度是PitchBook的四倍，覆盖面是其两倍，此外还有100多个事件信号和新闻，涵盖公司、行业和各种话题。您可以用这些数据来寻找和审核交易，或者创建外联名单并触发外部联系。这项服务专为金融服务和市场拓展团队设计，采用按需付费的方式。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：akta.pro, 私人公司数据, 信号API, 代理经济, 数据深度, PitchBook, 事件信号, 行业新闻, 公司信息, 交易尽职调查, 市场拓展, 财务服务, 票数: 🔺403 是否精选：是 发布时间：2026年08月25日 PM03:01 (北京时间)
+2. Diet Claude 标语：再也不要被Claude的使用限制所困扰了！ 介绍：在工作中遇到Claude的使用限制真让人烦。Diet Claude提供了一个实时使用计量器，可以显示你已经使用了多少会话时间、剩余时间以及限制何时重置。它通过精简上下文、优化提示和推荐合适的模型来帮助你更好地利用token。而当你用完时，它会把你的对话和上下文转移到另一个大型语言模型上，而不是让你从头开始。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Diet Claude, 使用限制, 实时使用计量器, 会话管理, 优化令牌使用, 上下文修剪, 提示优化, 模型建议, 续接对话, 语言模型, 限制 票数: 🔺389 是否精选：是 发布时间：2026年08月25日 PM03:01 (北京时间)
+3. Agnost AI 标语：捕捉评估遗漏的代理故障 介绍：Agnost AI可以分析用户与您生产的AI代理之间的对话，识别出一些问题，比如：沉默的故障、代理行为的漂移、幻觉（即错误的信息）、用户的挫败感、隐藏的功能需求以及用户流失的信号。它会将这些问题归类为重复出现的模式，展示每个见解背后的具体用户和对话内容，并把这些信息转化为评估和解决方案。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-25</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-25/</link>
