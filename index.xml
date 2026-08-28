@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-28</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-28/</link>
+      <pubDate>Fri, 28 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-28/</guid>
+      <description>1. Skydive 标语：构建可以在你使用的各种工具之间协同工作的云代理。 介绍：构建云端助手，能够在你已经使用的工具中完成真实的多步骤工作。只需描述你想要的结果，Skydive 就能在几分钟内创建一个工作代理。无需编写代码、设计提示或连接工作流程。Skydive 代理可以融入你的工作环境，执行可重复的任务，并随着时间的推移变得更加智能。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：云端代理, 工具整合, 多步骤工作, 无需编码, 快速创建, 自动化工作, 工作流程优化, 智能代理, 提高效率, 持续学习, 任务执行, 用户友好 票数: 🔺406 是否精选：是 发布时间：2026年08月27日 PM03:01 (北京时间)
+2. Enter Pro 标语：一个以人工智能为基础的平台，用于构建和扩展你的应用程序。 介绍：打造一个能够运转业务的系统，不仅仅需要代码。Pro 是一个以人工智能为基础的平台，可以将创意转化为可用的产品。在一个连续的工作空间中，您可以规划、构建、预览、发布并扩展应用程序、网站和定制的 AI 代理。模型、数据库、身份验证、托管、支付、分析和本地化功能都是内置的，让团队能够交付真正适用于业务的软件，而不仅仅是原型。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Enter Pro, AI原生平台, 应用开发, 业务运行, 产品构建, 计划, 构建, 预览, 发布, 扩展, 网站开发, 自定义AI代理, 模型, 数据库 票数: 🔺381 是否精选：是 发布时间：2026年08月27日 PM03:01 (北京时间)
+3. Lenz 标语：独立的多模型事实核查API，用于人工智能工作流程 介绍：Lenz 是一款专为产品设计的 AI 事实核查 API，旨在消除错误信息的产生。它可以从任何文本中提取可验证的陈述，并对每个陈述进行核查：通过搜索独立来源、进行多模型辩论，以及经过审查小组的审核，最终给出一个评分的结论，且每个来源、论点和步骤都可以查看。大多数 AI 工具只提供一个模型的记忆最佳猜测，而 Lenz 确保没有单一模型的盲点影响结论。它可以作为 API 和 MCP 使用，欢迎访问 lenz.</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-27</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-27/</link>
