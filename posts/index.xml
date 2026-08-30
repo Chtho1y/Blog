@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-30</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-30/</link>
+      <pubDate>Sun, 30 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-30/</guid>
+      <description>1. 1752vc Pitch Deck Analyzer 标语：在你发送之前，先了解投资者会怎么说。 介绍：Pitch Deck Analyzer 能在几分钟内为你提供投资者级别的反馈——它的训练基础是超过 25,000 个真实的投资提案和随之而来的投资者决策。你只需上传你的提案，就能获得逐页的资金可行性反馈——系统会根据不同阶段进行校准，检查叙述的一致性，并交叉核对你的主张，找出投资者可能会注意到的矛盾之处。在你发送提案之前，清楚知道你在哪些地方可能失去投资者的信心。这个工具由 1752vc 开发，这是一家每年评估 4,000 多家初创公司的风险投资公司。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：投资者反馈, 演示文稿分析器, 1752vc, 投资决策, 融资能力, 幻灯片反馈, 创业公司, 风险投资, 叙述一致性, 真实性 票数: 🔺311 是否精选：是 发布时间：2026年08月29日 PM03:01 (北京时间)
+2. Hy4 preview 标语：腾讯的770亿开放模型用于长期任务 介绍：Hy4 Preview是腾讯推出的一款770亿参数的MoE模型（其中49亿参数是活跃的，支持1百万字的上下文），专为长期自主任务设计。它能够独立完成编码、游戏开发和复杂文档分析等工作，并在交付之前自行进行测试和修复bug。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Hy4预览, 腾讯770B开放模型, 长期任务, MoE模型, 49B活跃参数, 1M上下文, 自主编码, 游戏开发, 复杂文档分析, 自动测试, 修复 票数: 🔺201 是否精选：是 发布时间：2026年08月29日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-29</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-29/</link>
