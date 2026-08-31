@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-31</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-31/</link>
+      <pubDate>Mon, 31 Aug 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-31/</guid>
+      <description>1. Topview Motion Studio 标语：无需使用After Effects，轻松制作发布视频。 介绍：Motion Studio帮助团队制作精美的应用程序、硬件和新产品发布视频，无需学习After Effects或雇佣动画设计工作室。你只需描述想要传达的信息，上传参考图片，选择视觉风格、时长和画幅比例。Motion Studio结合了人工智能视频模型和专门的动画设计技能，将你的创意快速转化为高质量的产品故事，简单快捷，而且成本远低于传统方式。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Topview Motion Studio, 启动视频制作, 无需学习After Effects, 团队协作, 应用视频, 硬件视频, 新产品视频, 视觉风格选择, AI视频模型, 动态设计 票数: 🔺318 是否精选：是 发布时间：2026年08月30日 PM03:01 (北京时间)
+2. Hyperfocus 标语：一个将目标转化为每日进展的计划工具 介绍：Hyperfocus是一款免费的 macOS 目标优先规划工具。它帮助你选择最重要的几个目标，并围绕这些目标规划每周和每天的安排，通过专注的工作来持续取得进展。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Hyperfocus, 目标规划, macOS, 免费规划工具, 日常进展, 重点成果, 计划周、日, 持续进步, 专注工作 票数: 🔺289 是否精选：是 发布时间：2026年08月30日 PM03:01 (北京时间)
+3. Olostep 标语：将网络数据转化为AI所需的干净数据 介绍：Olostep 提供可扩展的网页数据 API，专门为网络的“第二用户”——人工智能而设计。用户可以轻松将任何网址转换为适合大语言模型（LLM）的 Markdown、JSON 或结构化数据，并利用这些 API 来进行智能搜索工作流程。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-08-30</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-08-30/</link>
