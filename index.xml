@@ -6,8 +6,17 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-02</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-02/</link>
+      <pubDate>Wed, 02 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-02/</guid>
+      <description>1. Kilo Code for JetBrains 标语：为 JetBrains 打造的完全本地化、开源的编码助手 介绍：Kilo Code for JetBrains 是一个完全原生、开源的编码助手，适用于 IntelliJ IDEA、WebStorm、PyCharm、GoLand、Rider、PhpStorm、CLion 和 RubyMine 等所有 JetBrains 开发工具。它旨在支持本地和远程开发，具备隔离工作树中的并行代理，可以在 GitHub 的拉取请求和差异对比中直接查看，并且拥有超过 500 种模型供用户使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Kilo Code, JetBrains, 开源, 编程工具, IntelliJ IDEA, WebStorm, PyCharm, GoLand, Rider, PhpStorm, CLion, RubyMine, 本地开发, 远程开发, 并行 票数: 🔺492 是否精选：是 发布时间：2026年09月01日 PM03:01 (北京时间)
+2. Computable GPU Index (CGI) 标语：首个开源GPU计算价格指数 介绍：可计算GPU指数（CGI）是按每小时每个GPU的美元价格计算的，这个价格来自于一组固定服务提供商的按需租赁费率。该方法在数学上是严谨的，任何人都可以验证并重复每一次计算结果。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-01</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-01/</link>
