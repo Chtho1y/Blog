@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-06</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-06/</link>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-06/</guid>
+      <description>1. dif.sh 标语：Markdown特性标志是你的编程助手为你安装的功能。 介绍：开源特性标志（feature flags）。每个标志都是一个与其控制的代码一起存放的Markdown文件，里面说明了它的功能、存在的原因以及你做出的决策，这一切都像其他变更一样经过审查合并（PR）。你的编码代理可以通过一个命令安装Dif，不需要注册账户，并且可以读取上下文文件，以了解哪些功能已经上线，哪些功能曾经尝试过。A/B测试的内容同样存放在这些文件中，直到你有流量可以测试。你可以将事件发送到自己的分析工具，或者让Dif Cloud读取结果，并将决策写入文件中。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：开源特性标志, Markdown文件, 编码代理, 特性开关, A/B测试, 代码控制, 版本控制, 数据分析, Dif云, 安装命令, 事件发送, 上线管理, 票数: 🔺353 是否精选：是 发布时间：2026年09月05日 PM03:01 (北京时间)
+2. Reflexio 标语：随着时间的推移，行为学习使得人工智能代理变得更为智能。 介绍：Reflexio通过每一次互动不断提升AI代理的表现。当用户纠正代理、某个路径失败或者某些操作特别顺利时，Reflexio会将这些经验转化为代理下次可以重复使用的行为。这样一来，宝贵的经验就不会被埋藏在日志中，而是让你的代理持续学习哪些做法值得重复，哪些要避免——每次学习的过程都是可见、可测试和可逆的。通过这种方式，任务失败率可以降低超过30%，同时节省超过60%的资源使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Reflexio, 行为学习, AI代理, 交互学习, 用户纠正, 经验重用, 持续学习, 任务失败率, 节省资源, 可见的学习, 可测试的学习, 票数: 🔺277 是否精选：是 发布时间：2026年09月05日 PM03:01 (北京时间)
+3. Ponytail 标语：编写新代码是最后的选择。 介绍：Ponytail是一个插件，它的作用是让编程助手在编写代码时尽量减少代码量。每次添加新内容之前，它都会检查这个改动是否必要、是否已经存在，或者是否可以使用标准库或原生API。这样可以实现相同的功能，但用更少的代码来完成。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-05</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-05/</link>
