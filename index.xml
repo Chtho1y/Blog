@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-07</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-07/</link>
+      <pubDate>Mon, 07 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-07/</guid>
+      <description>1. AI Toolbox 3.0 标语：搜索、整理并将所有AI聊天记录导出到一个地方。 介绍：AI Toolbox 是在 ChatGPT、Claude、Gemini 和 Grok 之上缺失的一层功能：它提供文件夹和子文件夹管理、跨所有对话的全文搜索（甚至可以同时搜索四个平台）、一个提示库，支持插入和多步骤操作、批量导出为 Markdown/PDF/JSON 格式、书签功能以及实时上下文监测。一次安装即可覆盖所有四个 AI。它采用本地优先的方式，您的聊天记录会保留在浏览器中。已在150多个国家获得超过40,000名用户的信任，Chrome 网上应用店评分达到4.5颗星。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AI工具箱, AI聊天管理, ChatGPT, Claude, Gemini, Grok, 文件夹, 全文搜索, 提示库, 多步骤链, 批量导出, Markdown, PDF, JSON, 书签, 实 票数: 🔺412 是否精选：是 发布时间：2026年09月06日 PM03:01 (北京时间)
+2. Tadata 标语：在Slack中的AI助手，能够“读懂”团队的氛围。 介绍：Tadata是一个虚拟的AI助手，常驻于你的Slack中。它可以连接到你的各类工具，了解你们公司的运作和你的个人偏好，帮助团队完成各种工作。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Tadata, AI员工, Slack, 人工智能, 团队协作, 工具连接, 公司学习, 偏好设置, 办公助手, 自动化工作 票数: 🔺359 是否精选：是 发布时间：2026年09月06日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-06</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-06/</link>
