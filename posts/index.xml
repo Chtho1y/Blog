@@ -6,8 +6,18 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-08</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-08/</link>
+      <pubDate>Tue, 08 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-08/</guid>
+      <description>1. PR Lens by Coldtea.ai 标语：用全新的视角看代码 介绍：PR Lens 是一种全新的代码观察方式。它能为任何代码库和每个拉取请求绘制动态的架构和数据流图，让你在阅读代码之前就能直观地看到变化。它可以作为 GitHub Action 运行，也可以在命令行工具中使用，或者作为你编码助手的一个技能。该工具是开源的，采用 MIT 许可证。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：PR Lens, Coldtea.ai, 代码可视化, 动态架构, 数据流图, 代码库, 拉取请求, GitHub Action, CLI, 编程助手, 开源, MIT许可证 票数: 🔺330 是否精选：是 发布时间：2026年09月07日 PM03:01 (北京时间)
+2. Scriptly 标语：一款可以通过声音控制的iOS提词器应用 介绍：使用 Scriptly，轻松编写、整理和录制视频。它具备实时语音跟随滚动、当地存储隐私保护以及专业的提词器工具。现在可以在 TestFlight 上下载公开测试版。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Scriptly, iOS提词器应用, 语音控制, 视频录制, 实时语音跟随, 本地存储隐私, 专业提词器工具, TestFlight公测, 轻松写作 票数: 🔺259 是否精选：是 发布时间：2026年09月07日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-07</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-07/</link>
