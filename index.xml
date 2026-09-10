@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-10</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-10/</link>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-10/</guid>
+      <description>1. Mastra Factory 标语：从问题到生产，由代理人负责。 介绍：Mastra Factory 是一个开源、智能代理驱动的软件交付环境。它将持久的编码代理、代码仓库、问题收集、项目规划、实施以及拉取请求审核整合在一个你可以掌控的网页应用中。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Mastra Factory, 开源软件交付环境, 代理驱动, 持久编码代理, 仓库工作区, 问题处理, 规划实施, 拉取请求审核, 网络应用, 软件开发工具 票数: 🔺468 是否精选：是 发布时间：2026年09月09日 PM03:01 (北京时间)
+2. Harden 标语：为人工智能编程代理提供的安全层 介绍：Harden AIF是一款免费的本地安全工具，专门为AI编码代理设计。它的后训练模型会在工具调用执行之前检查请求和会话上下文。它在关键的代理安全基准测试中超过了前沿模型，并且所有的代码库和工具输出都保存在你的机器上，确保了数据的安全性。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Harden, AI编码代理, 安全工具, 本地安全, 模型检查, 工具调用, 请求上下文, 会话上下文, 安全基准, 开源, 代码安全, 本地化, 代理 票数: 🔺387 是否精选：是 发布时间：2026年09月09日 PM03:01 (北京时间)
+3. ChatGPT Images 2.5 标语：更清晰的画面，更流畅的体验，更好的创作掌控。 介绍：ChatGPT Images 2.</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-09</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-09/</link>
