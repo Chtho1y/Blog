@@ -6,8 +6,21 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-11</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-11/</link>
+      <pubDate>Fri, 11 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-11/</guid>
+      <description>1. Typewise Nova 标语：自我构建和改进的人工智能客户体验 介绍：Nova 是一个人工智能助手，可以帮助你创建和提升客户服务团队，而且不需要开发者的参与。简单来说，Nova 的工作流程是这样的：
+首先，它会生成服务代理，进行测试，使用的是之前的客户请求数据，以确保新代理能够有效处理问题。在上线之前，Nova 会向你展示哪些地方可能会出错。
+一旦代理开始运行，Nova 会全天候监控他们的表现，及时提出改进建议，确保服务质量。代理能够处理各种客户请求，包括订单、退款和计划变更，支持通过电子邮件、聊天和 WhatsApp 等多种沟通方式。
+如果有请求未被解决，这部分服务是免费的。这样，客户体验就会得到有效保障。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Typewise Nova, AI客户体验, 自我提升, AI操作员, 无需开发者, 客户处理, 工具连接, 代理构建, 测试历史工单, 质量监控, 提供修复 票数: 🔺335 是否精选：是 发布时间：2026年09月10日 PM03:01 (北京时间)
+2. AI Observability by OpenObserve 标语：OpenTelemetry原生的可观察性，用于代理和大型语言模型（LLMs） 介绍：你的代理费用是40美元，花费了34秒。这是为什么呢？OpenObserve可以追踪每个代理会话，包括模型、工具、服务、数据存储和用户会话，让你清楚地了解时间、金钱和质量的去向。你可以检测循环，进行在线评估，并追踪从大语言模型（LLM）调用到后端和数据库的故障，同时查看生产环境中的日志、追踪信息和指标。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：AI可观察性, OpenObserve, OpenTelemetry, 代理可观察性, LLM, 代理成本, 追踪会话, 模型, 工具, 服务, 数据存储, 用户会话, 时间成本, 票数: 🔺303 是否精选：是 发布时间：2026年09月10日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-10</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-10/</link>
