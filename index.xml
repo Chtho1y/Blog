@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-13</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-13/</link>
+      <pubDate>Sun, 13 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-13/</guid>
+      <description>1. Youkti 标语：找出谁准备好购买，然后告诉你下一步该怎么做。 介绍：Youkti 会记录每个账户、每次对话和每笔交易，并告诉您的销售团队下一步该怎么做：哪个交易出现了问题，哪个沉寂的账户发出了信号，以及明天会议需要准备什么。它专为客户经理、收入运营和外呼代表设计。联系数据、购买信号和意图信息都是免费的，无需信用卡和计费。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Youkti, 销售工具, 客户管理, 购买信号, 销售团队, 账户记忆, 交易管理, 意图识别, RevOps, 外部销售代表, 会议准备, 免费数据 票数: 🔺327 是否精选：是 发布时间：2026年09月12日 PM03:01 (北京时间)
+2. Cortex 标语：将API规范转换为文档、软件开发工具包（SDK）和管理控制面板（MCP）服务器。 介绍：Cortex是一个开源的API知识层，它将OpenAPI、AsyncAPI、GraphQL、gRPC和OpenRPC规范转化为互动文档、支持11种编程语言的类型安全SDK，以及用于AI代理的MCP服务器。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Cortex, API文档, 开源, OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, 互动文档, 类型化SDK, 多语言SDK, MCP服务器, AI代理 票数: 🔺291 是否精选：是 发布时间：2026年09月12日 PM03:01 (北京时间)
+3. QApilot MCP for Android 标语：在你的代码助手中进行Android应用测试 介绍：QApilot MCP 是一个自动化测试工具，可以在真实的 Android 设备和模拟器上执行测试，它通过与 Claude、Cursor 或 Codex 进行交互来完成这一任务。下面是一个简单的测试流程描述，不需要涉及 Appium 代码：</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-12</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-12/</link>
