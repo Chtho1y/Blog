@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-14</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-14/</link>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-14/</guid>
+      <description>1. Resurf 标语：Mac个人背景库 介绍：Resurf是一款个人化应用，专注于你喜欢、关心和正在处理的事情。你可以保存笔记、链接、图片、PDF文档和创意，方便日后查找。通过MCP和CLI，你还可以将这些内容交给AI进行处理。该应用在Mac、iPhone和iPad上原生支持，提供本地存储和私密的iCloud同步功能。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：个人知识库, Mac应用, 内容管理, 笔记保存, 链接整理, 图片存储, PDF管理, 创意记录, AI助手, 本地存储, 私有iCloud同步, iPhone应用, 票数: 🔺280 是否精选：是 发布时间：2026年09月13日 PM03:01 (北京时间)
+2. Perplexity Hybrid Compute 标语：分割人工智能任务：云端用于研究，Mac用于保护隐私 介绍：Hybrid Compute现在在Perplexity Computer的Mac应用程序上正式上线了。它将任务分配到云端和你的Mac电脑上：研究和推理部分由云端最强大的人工智能处理，而涉及你私人文件的部分则留在你的Mac上，由本地AI处理，因此这些文件不会被上传。它支持Apple硅芯片，最低需要24GB内存，目前已经在Pro、Max和Enterprise版本上可用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Perplexity Hybrid Compute, AI任务分割, 云计算, Mac隐私, 研究与推理, 本地AI, Apple硅, 24GB内存, Pro版, Max版, 企业版 票数: 🔺226 是否精选：是 发布时间：2026年09月13日 PM03:01 (北京时间)
+3. ScreenCursor 标语：带自动缩放效果的屏幕录制器 介绍：录制你的屏幕，最终得到一个已经设置好镜头移动的完整视频。每一次点击、拖动和按键都会变成放大效果。无需编辑，所有内容都保留在你的电脑上。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-13</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-13/</link>
