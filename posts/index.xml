@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-16</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-16/</link>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-16/</guid>
+      <description>1. tiun. 标语：针对人工智能开发者的身份验证、计费和支付系统 介绍：一个系统集成了身份验证、支付、客户数据和分析功能。只需一个命令即可安装。你可以在开始构建的当天就发布付费产品。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：tiun, 身份验证, 账单, 支付, AI开发者, 客户数据, 数据分析, 系统集成, 快速启动, 付费产品 票数: 🔺534 是否精选：是 发布时间：2026年09月15日 PM03:01 (北京时间)
+2. Voiskey 标语：在每个应用中都能正常使用的AI语音输入 介绍：Voiskey 从你想表达的意思出发，而不仅仅是你说的内容。随便说出一个想法，它就会根据目的和阅读对象进行调整：和朋友聊天时轻松随意，和同事交流时显得成熟得体，跟人工智能沟通时则更加专业。它的处理速度是打字的五倍，内容经过整理后就能直接发送，同时你依旧保持自己的风格。Voiskey 现在已在 iOS、macOS、Android 和 Windows 上推出，支持超过 100 种语言。你可以免费开始使用。在推出期间加入，便可获得一个月的 Pro 版免费体验。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Voiskey, AI语音输入, 语音识别, 语音打字, 应用程序, 语音转换, 速度更快, 多语言支持, 免费试用, iOS, macOS, Android, 票数: 🔺488 是否精选：是 发布时间：2026年09月15日 PM03:01 (北京时间)
+3. Kilo Code for iOS and Android 标语：开始编写代码代理，管理会话，审核拉取请求。随时随地都可以。 介绍：在你的 iPhone、iPad 或 Android 设备上，运行云端代理，控制 VS Code 和命令行会话，审查 Pull Request，并与代码代理互动。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-15</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-15/</link>
