@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-21</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-21/</link>
+      <pubDate>Mon, 21 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-21/</guid>
+      <description>1. Mycel 标语：带来一个过去的交付成果。Mycel 为未来的每一个交付成果进行草拟。 介绍：Mycel 负责管理您服务业务的所有工作内容，包括客户、交付物、审批和发票。每个项目都在一个独立的环境中运行，这个环境不会保存任何凭证，并且在您批准之前，任何内容都不会发送给客户。价格从每月299美元起，您也可以选择免费自托管。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Mycel, 服务业务, 客户管理, 可交付成果, 审批流程, 发票管理, 可丢弃沙盒, 自我托管, 月费299美元, 业务自动化, 工作流管理, 票数: 🔺330 是否精选：是 发布时间：2026年09月20日 PM03:01 (北京时间)
+2. Minicart 标语：开设你的商店，让人工智能处理繁琐的事务。 介绍：Minicart帮助创作者和转售商轻松启动和运营在线商店，无需学习复杂的电商软件。使用Minicart，你不仅可以拥有自己的商店，还有一个AI团队来协助你管理。Sloane负责你的店面，Milo负责营销策划，而Logan则处理物流和客户回复。你只需通过简单的对话告诉团队你的需求，就能添加产品、更新库存、创建促销活动、发货等等。查看他们的工作，继续发展你的业务，轻松搞定一切。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Minicart, 在线商店, AI团队, 电商软件, 产品管理, 市场营销, 物流管理, 客户回复, 库存更新, 促销活动, 订单发货, 创作者, 制造 票数: 🔺227 是否精选：是 发布时间：2026年09月20日 PM03:01 (北京时间)
+3. Answers by Context.dev 标语：请给出一个研究任务以及您希望返回的JSON格式。 介绍：Context.dev的Answers功能将网络研究简化为一次API调用。你只需定义一个任务和你想要的JSON结构，Answers就会找到相关来源，进行网络研究，并返回带有来源网址的结构化数据。你可以轻松构建数据增强管道、比较工具和研究代理，而无需将搜索、抓取和大语言模型的调用拼接在一起。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-20</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-20/</link>
