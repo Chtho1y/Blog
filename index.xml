@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-23</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-23/</link>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-23/</guid>
+      <description>1. Clueso MCP 标语：通过聊天来创建和编辑视频。 介绍：使用Claude、ChatGPT或任何AI助手制作视频。只需给Clueso一个主题、一个大纲、参考视频或录音，它就能处理整个视频制作过程：从剧本、场景、配音、音乐到剪辑，一切都符合品牌风格。而且所有内容都可以手动或通过聊天进行编辑，非常灵活。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Clueso MCP, 视频制作, 视频编辑, 聊天生成视频, Claude, ChatGPT, AI助手, 故事板, 场景设计, 配音, 音乐, 编辑, 可编辑, 品牌化 票数: 🔺504 是否精选：是 发布时间：2026年09月22日 PM03:01 (北京时间)
+2. WZRD 标语：能够互动的AI原生文档、幻灯片、表单和表格 介绍：WZRD 是为团队和创作者打造的工具，专注于处理文档、幻灯片、表单和表格。你可以上传已有的作品，或者根据提示创建新内容，然后将其转化为用户能够互动的人工智能体验。表单可以通过语音或文字收集答案，表格则会将数字朗读出来，幻灯片则引导人们了解整个故事，而文档则吸引每一位用户。输出的内容保持对话性和互动性。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：WZRD, AI文档, 幻灯片, 表单, 表格, 互动体验, 上传工作, 创作提示, 语音收集, 打字回答, 数字解释, 故事展示, 用户 票数: 🔺317 是否精选：是 发布时间：2026年09月22日 PM03:01 (北京时间)
+3. Anomalo 标语：你的数据总是在说话，别错过它传递的信息。 介绍：你的数据总是在变化。Anomalo Analyst会在你意识到之前，就告诉你哪些信息是重要的。它会主动监控你的Snowflake、Databricks或BigQuery数据，及时发现重要的趋势、异常和变化，并让你用简单的语言提出后续问题进行深入调查。每一个洞察都经过数据验证，Anomalo帮助你区分真正的业务变化和数据错误。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-22</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-22/</link>
