@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-25</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-25/</link>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-25/</guid>
+      <description>1. Scholé Learn by Building 标语：学习不应该只是“点击下一步”那么简单。 介绍：在任何网站上，通过与Scholé一起构建来学习。你可以阅读工具的介绍、观看YouTube上的演示，或者请ChatGPT给你讲解。但真正掌握一项技能，还是需要亲自去动手实践。我们的“随时学习”模式会引导你直接在屏幕上使用真实的工具，适应你的任务并提供视觉提示。你所学到的一切都会更新到你的Scholé知识图谱中，并计算入你的学习进度。我们的理念是：要学得足够扎实，以便能够运用自如。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：学习, 建造, 在线学习, 知识图谱, 实际工具, 互动学习, 视觉提示, 自主学习, 学习模式, 技能提升, 教育科技, Scholé, 课程, 学习 票数: 🔺399 是否精选：是 发布时间：2026年09月24日 PM03:01 (北京时间)
+2. Floot MCP 标语：在Claude或ChatGPT中构建和发布网页与手机应用。 介绍：将Floot连接到Claude或ChatGPT，您就可以在聊天中构建完整的全栈应用程序。Floot为您的AI提供一个现成的工作空间，包括数据库、用户登录、托管服务和一个实时网址——完全无需安装或配置。您现有的Claude或ChatGPT订阅负责处理智能任务，因此Floot不会根据AI的使用量收费。当您准备好后，可以将同一个项目发布到网页、iOS和Android平台，并在同一对话中不断更新。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Floot MCP, 全栈应用, Claude, ChatGPT, 移动应用, 网络应用, AI工作区, 数据库, 用户登录, 主机, 实时URL, 免安装, 免配置, 订阅 票数: 🔺367 是否精选：是 发布时间：2026年09月24日 PM03:01 (北京时间)
+3. NOAN 标语：你AI代理的事实层 介绍：你的公司拥有成千上万的文件，但只有一个真实的版本。NOAN将你们认可的事实，如定价、市场定位、政策、产品、客户等，转化为一个经过验证的、版本化的真实数据源，通过API和MCP进行访问。你可以将任何模型、代理或者应用连接到这个数据源，让它们都使用相同的公司信息，而不是让每个AI对你的文件进行不同的解读。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-24</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-24/</link>
