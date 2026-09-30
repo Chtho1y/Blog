@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-30</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-30/</link>
+      <pubDate>Wed, 30 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-30/</guid>
+      <description>1. iFixAi 标语：对人工智能代理进行独立审计，以揭示其与预期目标的不一致性。 介绍：iFixAi是一家独立审计机构，帮助企业评估他们是否可以信任自己的人工智能代理。与单纯依赖评估和可观察性工具不同，iFixAi的综合审计涵盖了在69个人工智能不一致性类别中进行的250项检查，结合了人工智能红队测试、运营保障，以及哲学、伦理和社会学的视角。它能够识别在测试中出现的失败，解释这些失败对业务的影响，并提供工程师可以用来调查和修复问题的证据。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：iFixAi, 独立审计, AI代理, 不一致性, 评估, 信任, 多方面审计, 检查, AI红队, 运营保证, 哲学, 伦理, 社会 票数: 🔺405 是否精选：是 发布时间：2026年09月29日 PM03:01 (北京时间)
+2. LUCI Desktop 标语：让你的人工智能助手记住你所看到的内容。 介绍：Luci 会在本地保存你的屏幕历史记录和会议记录，这样像 Claude Code、Cursor 和 Codex 这样的智能助手就能帮你找到你忘记收藏的页面，或者回忆起通话中的某个决策。它可以在多个应用之间捕捉上下文，无需为每个应用单独设置连接器。此外，它还提供设备上的转录功能和每日总结，支持 Microsoft Foundry Local，适用于 Mac 和 Windows，且完全免费。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：LUCI桌面, AI助手, 屏幕历史, 会议记录, Claude Code, Cursor, Codex, 页面查找, 决策回顾, 应用上下文, 本地转录, 每日摘要, Microsoft 票数: 🔺355 是否精选：是 发布时间：2026年09月29日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-09-29</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-09-29/</link>
