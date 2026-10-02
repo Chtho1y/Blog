@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-02</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-02/</link>
+      <pubDate>Fri, 02 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-02/</guid>
+      <description>1. Monospace from Directus 标语：每个应用、每个人和每个代理的管理API层 介绍：Monospace 在企业数据和所有依赖这些数据的开发者之间架起了一座桥梁。它可以连接任何数据源，让你的开发团队、业务团队和 AI 代理都能实时访问这些数据，并且可以进行读写操作。所有这一切都在同一套详细的权限模型下进行，数据不会被复制或移动。你最古老的数据库在创建时并没有考虑到 AI 或现代应用的需求，而 Monospace 能够直接从这些数据库生成接口，实时分析数据结构和查询，这样就不需要对数据库进行重建。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Monospace, Directus, API层, 企业数据, 数据源连接, 开发者, 商业团队, AI代理, 读写访问, 权限模型, 数据复制, 数据迁移, 旧数据库, 人工 票数: 🔺439 是否精选：是 发布时间：2026年10月01日 PM03:01 (北京时间)
+2. Yedric.ai 标语：让用户通过自然语言控制你的软件即服务（SaaS）产品。 介绍：用户不应该花时间去学习每个功能的位置。Yedric 为你的软件即服务（SaaS）产品添加了一个可嵌入的人工智能助手，它能将用户的自然语言请求转化为产品已经能够执行的操作。用户只需简单地说出他们想要完成的任务，Yedric 就会处理后续的互动。这样，开发者就可以在不到 30 分钟的时间里，让他们现有的产品具备 AI 原生功能，而无需自己构建和维护一个独立的助手体验。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Yedric.ai, 自然语言, SaaS, 嵌入式AI代理, 用户控制, 功能请求, 产品交互, AI原生, 开发者, 30分钟, 便捷操作, 用户体验 票数: 🔺317 是否精选：是 发布时间：2026年10月01日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-01</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-01/</link>
