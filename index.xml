@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-06</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-06/</link>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-06/</guid>
+      <description>1. Spira Maxima 标语：将剧本转化为病毒式社交媒体视频的视频模型 介绍：Spira Maxima可以将普通文本转化为一段完整的社交视频：只需一次操作，就能得到包括讲解者、时尚的背景素材、字幕和音乐在内的全套内容，发布时无需再编辑。你只需提供一张照片和声音用于你的AI克隆，或者产品图片和录音，系统就会围绕你创建编辑好的视频。它基于社交趋势和表现数据进行训练，因此每个视频都能跟随当前流行的风潮，最大化你的社交影响力。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Spira Maxima, 视频制作, 社交媒体视频, 文本转视频, AI克隆, 视频编辑, 自动化视频, 社交趋势, 表现数据, 影视制作, 视频营销, 内容创作, 音 票数: 🔺435 是否精选：是 发布时间：2026年10月05日 PM03:01 (北京时间)
+2. FastRouter.ai 标语：将请求路由到合适的大语言模型，以优化成本、延迟和质量。 介绍：FastRouter 是一个为开发者和企业团队打造的统一 AI 网关和控制平台，专门用于与大型语言模型（LLMs）进行交互。它通过一个兼容 OpenAI 的 API，将每个请求智能地路由到200多个 LLM中最合适的模型，从而在成本、延迟、质量和可靠性方面进行优化。凭借智能路由、故障切换、可观察性和治理功能，团队可以在不受特定供应商限制或代码更改的情况下扩展 AI 应用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：FastRouter.ai, AI网关, LLM模型, 请求路由, 成本优化, 延迟优化, 质量控制, 企业团队, 开发者工具, OpenAI兼容, 智能路由, 可靠性 票数: 🔺354 是否精选：是 发布时间：2026年10月05日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-05</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-05/</link>
