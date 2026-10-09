@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-09</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-09/</link>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-09/</guid>
+      <description>1. OpenSwarm 标语：一群代理人在你工作的地方聚集在一起。 介绍：别再把AI简单地加在你的电脑上了。OpenSwarm是一款以AI为核心的操作系统，所有的智能代理都能掌控整个机器：应用程序自己创建，浏览器也能自我管理，而一群智能代理则能够协同工作。你的操作系统就像变成了一块无限的画布，而你的工作方式也从一次只做一项任务，转变为能够同时协调多项工作。你只需要告诉它你想要什么，一群智能代理就会在你的指挥下完成工作。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：OpenSwarm, 人工智能操作系统, 智能代理, 自主应用, 自我控制浏览器, 无限画布, 多任务协作, 任务编排, 智能工作, 代理群体 票数: 🔺376 是否精选：是 发布时间：2026年10月08日 PM03:01 (北京时间)
+2. OpenSEO 标语：开源的Semrush替代品 介绍：如果没有优质的数据，你的智能助手只能给出一些笼统的建议。我们通过MCP提供了SEO所需的数据、工具和集成，帮助你的AI助手更有效地工作。常规的SEO是良好地理优化（GEO）的基础，但我们也刚刚推出了一套新的AI可见性功能。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：OpenSEO, 开源, Semrush替代品, SEO数据, AI工具, 集成, SEO建议, MCP, 地理优化, AI可见性功能, SEO基础 票数: 🔺354 是否精选：是 发布时间：2026年10月08日 PM03:01 (北京时间)
+3. Claude Haiku 5.5 标语：Anthropic最新发布的Haiku是迄今为止速度最快、功能最强大的版本。 介绍：Claude Haiku 5.5是Anthropic公司推出的最快、最强大的小型模型，专为处理高需求、成本敏感的任务而设计，比如摘要生成、分类、编写子程序、客户支持和浏览器应用等。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-08</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-08/</link>
