@@ -6,8 +6,17 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-10</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-10/</link>
+      <pubDate>Sat, 10 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-10/</guid>
+      <description>1. Busabase 标语：人工智能代理的一般记录系统 介绍：不同的智能体，统一的平台。Busabase 是一个通用的数据库和工作空间，适用于人类和 AI 智能体。你可以将业务记录、文档、技能和应用程序集中存放，方便下一个任务在此基础上展开。它支持连接 Claude Code、Codex 等工具。用户可以设置访问权限，必要时审查修改内容，并查看变更记录。Busabase 是开源的，提供云端、个人桌面和自托管选项。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Busabase, AI代理, 通用数据库, 工作空间, 业务记录, 文档管理, 技能管理, 应用程序, Claude Code, Codex, 访问权限, 变更审核, 开源, 云服务, 票数: 🔺348 是否精选：是 发布时间：2026年10月09日 PM03:01 (北京时间)
+2. Zernio 标语：产品和代理的市场基础设施 介绍：Zernio 是一个营销基础设施，已有 20 万开发者在其上构建产品。我们处理所有渠道背后的集成、平台审核和维护，全部使用官方 API，这样你就可以立即开始开发。一个 API 可以覆盖 16 个社交平台，支持 7 个广告网络，以及 WhatsApp、iMessage 和你在 Zernio 内购买的电话号码，包括电话和短信。你可以在代码中使用 REST API，或者让你的编程代理通过我们的 MCP 服务器和命令行界面（CLI）执行相同操作。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-09</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-09/</link>
