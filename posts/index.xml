@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-12</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-12/</link>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-12/</guid>
+      <description>1. HireKey 标语：你求职的智能助手，帮你找到科技行业的工作。 介绍：HireKey 是一款为科技求职者量身打造的智能求职助手，旨在帮助他们更具策略性地申请工作和自信地面试。它能帮助你评估自己的角色适配度、定制简历、有效沟通个人经历，并跟踪申请进展。与普通的申请跟踪系统（ATS）工具不同，HireKey 将人工智能与在微软、亚马逊和Stripe等公司的十年招聘经验相结合，还提供一个互动式的AI语音教练，让你可以大声练习面试，实时反馈你的回答，帮助你提升面试表现。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：HireKey, 求职助手, 人工智能, 技术职位, 简历定制, 面试准备, 招聘经验, 应用跟踪, AI语音教练, 实时反馈, 职位匹配, 招 票数: 🔺268 是否精选：是 发布时间：2026年10月11日 PM03:01 (北京时间)
+2. kōdlo 标语：端到端的销售工作空间，提供统一的背景信息。 介绍：kōdlo可以帮助你找到符合理想客户画像（ICP）的潜在客户，并告诉你如何与每个客户建立联系。你可以将产品目录和其他文件上传到知识中心，它的智能助手会将这些内容转化为个性化的消息、优惠、深度搜索和演示文稿。你可以在一个地方跟踪客户数据、与团队协作和管理任务。还可以将Claude Desktop/ChatGPT Work或你的代码代理与kōdlo MCP连接，以便更好地扩展和管理不同的工作场景。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：kōdlo, 销售工作空间, 统一上下文, 潜在客户, ICP, 热身, 产品目录, 知识中心, 个性化消息, 提供, 深度搜索, 演示文 票数: 🔺263 是否精选：是 发布时间：2026年10月11日 PM03:01 (北京时间)
+3. Automations in Perplexity Computer 标语：能够记忆、执行和保持工作流畅的自动化工具 介绍：计算机自动化将重复性的工作转变为可靠的、持续的工作流程。你只需定义一次任务，比如监控信息源、编写报告、更新跟踪器或撰写后续邮件……然后系统会按照预定的时间表或根据触发条件自动执行这些任务。这款工具专为需要持续性而不需频繁监督的专业人士、团队和运营领导者设计，能够记住以往的操作，积累上下文信息，主动采取行动，而不是被动等待指令。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-11</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-11/</link>
