@@ -6,8 +6,17 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-13</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-13/</link>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-13/</guid>
+      <description>1. Google EmbeddingGemma 2 标语：一个开放的轻量级多模态嵌入模型 介绍：EmbeddingGemma 2 是谷歌 DeepMind 发布的一款开放嵌入模型，它能够将文本、代码、图像、视频和音频映射到一个共享空间中，从而让用户可以通过单一查询在这些不同的内容中进行搜索。这款模型拥有 7.4 亿个参数，可以在设备上运行，完整的多模态模型在 Pixel 11 Pro 上大约需要 567MB 的内存（仅文本时需要 191MB）。该模型采用 Apache 2.0 许可证，并可以在 Hugging Face 和 Kaggle 上获取权重。MTEB Code 得分从 68.76 上升到 78.68。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Google EmbeddingGemma 2, 开放的多模态嵌入模型, 嵌入模型, 深度学习, 文本映射, 代码映射, 图像映射, 视频映射, � 票数: 🔺295 是否精选：是 发布时间：2026年10月12日 PM03:01 (北京时间)
+2. ngram 2.0 标语：制作解释视频、屏幕录制和AI虚拟人视频 介绍：将创意、文件和录音转化为解说视频。ngram可以分析上传的视频和屏幕录制，识别关键时刻，从而制作出清晰的产品演示。你可以创建动画解说视频，或者添加一个AI虚拟主播，然后在聊天中进一步优化你的视频。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-12</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-12/</link>
