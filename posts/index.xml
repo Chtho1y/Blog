@@ -6,8 +6,19 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-14</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-14/</link>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-14/</guid>
+      <description>1. Articos MCP 标语：看看模拟买家在你的代理中是如何反应的。 介绍：大多数团队在发布产品后，通常只能寄希望于它能受到欢迎。而Articos MCP让你可以先进行测试。你可以在Claude或ChatGPT中，针对你的标题、市场定位或页面，向模拟的买家展示这些内容，这些买家是基于你真实客户的特征来设定的。这样你就可以在正式发布之前，提前了解他们的反馈。该工具的测试结果与Baymard和Nielsen Norman的人类研究数据进行了验证，准确率高达86%。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Articos MCP, 模拟买家, 客户反馈, 市场验证, Claude, ChatGPT, 产品定位, 标题测试, 用户反应, 人类研究, Baymard, Nielsen Norman, 数据分析, 营销 票数: 🔺328 是否精选：是 发布时间：2026年10月13日 PM03:01 (北京时间)
+2. OpenCode 2.0 标语：开源人工智能编程助手 介绍：OpenCode是一个开源的人工智能编程助手。它可以通过命令行界面、桌面应用程序或网页应用程序使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：OpenCode 2.0, 开源, 人工智能, 编码助手, 终端界面, 桌面应用, 网页应用, 开源软件 票数: 🔺300 是否精选：是 发布时间：2026年10月13日 PM03:01 (北京时间)
+3. Fina Business 标语：适合创始人的灵活 $20/月 QuickBooks 替代方案 介绍：你开了一家公司，而不是一个会计部门。Fina Business为创业者提供了简单易用的商业会计工具，省去了传统工具的复杂性。你可以按照自己的方式追踪商业和个人财务，自动生成发票，接受Stripe支付，管理客户，还能享受到复式记账、损益表和资产负债表等功能。每月只需20美元起，Fina可以根据你公司的实际运作方式进行定制。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-13</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-13/</link>
