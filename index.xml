@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-15</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-15/</link>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-15/</guid>
+      <description>1. Pancake 标语：Vercel for GTM（谷歌标签管理器） 介绍：Pancake 就像是 GTM 的 Vercel。它为你提供了构建任何市场推广想法的基础，无论是来自你喜欢的 AI 代理，比如 Claude 或 Codex。Pancake 包含一个 GTM 大脑、发送基础设施，以及 40 多个数据提供商和数据增强服务，所有这些都可以通过一个 MCP 连接轻松访问。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：煎饼, Vercel, GTM, 市场推广, AI代理, Claude, Codex, GTM大脑, 发送基础设施, 数据提供商, 数据丰富, MCP连接 票数: 🔺557 是否精选：是 发布时间：2026年10月14日 PM03:01 (北京时间)
+2. Inferock 标语：无服务器推理，失败的调用会返还积分。 介绍：在Inferock上注册即可获得免费积分，使用所有可用模型。你可以使用自己的API密钥：运行OpenAI、Claude或Gemini账户，查看调用失败的情况及其费用，并在符合条件的失败调用中获得积分返还。采用无服务器架构：按令牌计费的LLM推理。快来注册获取积分，开始使用吧！ 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Inferock, 无服务器推理, 失败调用返还积分, 免费注册积分, OpenAI, Claude, Gemini, 调用失败, 成本分析, 计费按令牌, LLM推理, 开始使用积分 票数: 🔺393 是否精选：是 发布时间：2026年10月14日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-14</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-14/</link>
