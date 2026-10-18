@@ -6,8 +6,17 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-18</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-18/</link>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-18/</guid>
+      <description>1. NitroStack 标语：在一个地方构建、测试和部署MCP服务器。 介绍：NitroStack 是一个完整的平台，用于构建可投入生产的多云平台（MCP）服务器和人工智能应用。它使用开源的 TypeScript 和 Python 软件开发工具包（SDK）进行开发，您可以在 NitroStack Studio 中以可视化的方式进行测试和调试。同时，通过 NitroStack Workflow 来协调代理工作流程，您可以在 NitroStack Cloud 上进行部署，并通过 NitroStack Chat 提供品牌化的用户体验。身份验证、测试、部署和前端开发都在一个工作流程中完成。此外，NitroStack 还能连接到 ChatGPT、Claude 及其他人工智能客户端，目前已支持超过 80,000 个 MCP 服务器的运行。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：NitroStack, 全栈平台, MCP服务器, AI应用, 开源, TypeScript, Python, SDK, 测试, 调试, NitroStack Studio, 工作流, NitroStack Workflow, 部署, NitroStack Cloud, 票数: 🔺295 是否精选：是 发布时间：2026年10月17日 PM03:01 (北京时间)
+2. Caldera 标语：你的 Obsidian 库就像一个活生生的个人档案和互联的知识花园。 介绍：Caldera 将你的 Obsidian 资料库变成一个自动更新的公开页面，同时也是你在公众面前展示的数字花园。在这个花园里，你可以种下笔记，它们会被标记为幼苗、萌芽或常青树，具体取决于你选择的许可方式。如果你在朋友的花园中链接到某个笔记，反向链接也会出现在他们的页面上。默认情况下是私密的：你的资料库里的内容不会被分享，除非你主动选择，同时联系信息会被移除。它是免费的、开源的，并且可以自我托管。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-17</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-17/</link>
