@@ -6,8 +6,20 @@
     <description>Recent content in Posts on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-25</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-25/</link>
+      <pubDate>Sun, 25 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-25/</guid>
+      <description>1. zCAD AI 标语：AI 3D技术不仅仅是创造形状，而是能制造出真实的零件。 介绍：zCAD.AI 是一个专为设计师、制造者和工程师打造的人工智能平台，能够生成参数化的3D模型。你只需用简单的语言描述一个零件或组件，zCAD.AI 就能生成一个可编辑、基于真实CAD几何形状的3D模型，而不是静态网格。
+你可以通过一个简单的提示，生成完整的组件，零件之间可以自动连接；如果需要进一步调整，可以用简单的语言进行修改，或在浏览器中的CAD编辑器中直接编辑尺寸。此外，你还可以将模型导出为STEP格式，以便在任何CAD工具中使用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：zCAD AI, AI 3D, 参数化三维模型, 设计师, 制造商, 工程师, 实际零件, 编辑模型, CAD几何, 静态网格, 完整装配, 票数: 🔺295 是否精选：是 发布时间：2026年10月24日 PM03:01 (北京时间)
+2. myPip 标语：通过人工智能创建、发布和盈利游戏 介绍：MyPip可以将你的游戏创意变成可玩且可以发布和盈利的游戏。你只需描述你想要构建的内容，AI就会在浏览器中直接为你实现，无需编写代码。你可以创建多人游戏体验，添加应用内购买和广告，并将你的游戏推广到浏览器之外，吸引更多玩家。从最初的创意到最终的发布和盈利，MyPip为任何人提供了成为游戏创作者的工具。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：游戏创作, AI游戏开发, 无需编码, 多人游戏体验, 游戏发布, 游戏变现, 应用内购买, 广告集成, 游戏工具, 创意游戏, 浏览器游戏, 游戏设计, 游戏制作 票数: 🔺252 是否精选：是 发布时间：2026年10月24日 PM03:01 (北京时间)
+3. 1Password for Agents 标语：让人工智能助手为你登录，而无需查看你的密码。 介绍：1Password for Agents 让支持的人工智能助手在登录你的账户时，无需查看你的密码。当助手尝试登录时，它会向 1Password 请求密码。你可以在自己的设备上批准或拒绝这个请求，1Password 则会直接填写密码或一次性验证码。连接助手并不会让对方访问你整个密码库。此功能包含在个人和家庭计划中，目前 Meta Muse 和 Grok Bot 正在逐步推出，并设有候补名单。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-24</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-24/</link>
