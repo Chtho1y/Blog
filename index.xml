@@ -6,8 +6,18 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-29</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-29/</link>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-29/</guid>
+      <description>1. Dedica 标语：检查一下AI代理是否可以访问您的网站。 介绍：Dedica 会模拟人工智能代理使用你的网站，并找出问题所在，然后为你的团队提供解决方案。像 Muse、Instinct 和 GrokBot 等代理现在能够浏览、比较并代表用户注册。Dedica 免费进行 125 项检查，评估他们能否顺利使用你的网站，并为每个问题提供解决建议，方便你交给开发团队处理。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Dedica, AI代理, 网站测试, 代码修复, 网站检查, 免费检查, Muse, Instinct, GrokBot, 网站优化, 用户体验, 自动化代理, 性能评估, 技术支持, 编码 票数: 🔺299 是否精选：是 发布时间：2026年10月28日 PM03:01 (北京时间)
+2. bytemail 标语：原生Mac邮件：每个收件箱，都在你的刘海中，没有追踪器 介绍：Bytemail是一款专为Mac设计的原生邮件应用，使用Swift编写。它能快速整合Gmail、iCloud、Outlook、Yahoo、Fastmail以及任何IMAP账户，给你一个高效的邮件窗口。新邮件和登录验证码会从MacBook的刘海处弹出，撤回发送的功能则像纸飞机一样飞过刘海，桌面小部件则显示未读邮件的数量。追踪像素被屏蔽，类似发件人的邮件会被标记，同时你的邮件不会经过我们的服务器。此外，它还提供了延迟发送、规则设置、一键退订以及专门为Claude和其他AI应用提供的MCP服务器。iPhone的测试版也包括在内。现在提供7天的免费试用。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：bytemail, Mac邮件应用, 原生Mac邮箱, Swift开发, Gmail, iCloud, Outlook, Yahoo, Fastmail, IMAP账户, 快速邮件窗口, 新邮件通知, 登录代码, MacBook缺口, � 票数: 🔺291 是否精选：是 发布时间：2026年10月28日 PM03:01 (北京时间)</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-28</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-28/</link>
