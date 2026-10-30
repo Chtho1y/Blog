@@ -6,8 +6,19 @@
     <description>Recent content in 首页 on INFINITEJOURNEY</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:00:00 +0800</lastBuildDate>
     <atom:link href="https://chtho1y.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-30</title>
+      <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-30/</link>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 +0800</pubDate>
+      <guid>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-30/</guid>
+      <description>1. Empacer 标语：专为小企业主设计的语音助手 介绍：大多数小企业主在使用人工智能工具时都会遇到一个共同的问题：每次聊天时都要花时间重新解释自己的业务。Empacer的设计理念就是为了解决这个问题。设置时只需回答三个问题，之后发出的语音请求就能转化为现成的计划和完成的工作，比如客户回复、社交媒体帖子、发票等。而且，任何内容在发送之前都需要老板的批准。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：Empacer, 小型企业, 语音助手, AI工具, 商业管理, 客户回复, 社交媒体, 发票处理, 自动化, 时间管理, 商业计划, 用户批准, 提高效率 票数: 🔺430 是否精选：是 发布时间：2026年10月29日 PM03:01 (北京时间)
+2. Scape 标语：一个智能邮箱，帮你高效管理邮件 介绍：想象一下，当你打开邮箱时，所有邮件都已经整齐地排列好了，连回复也准备好了等待你审核。Scape 是一款智能邮件客户端，它能够优先处理消息，准备上下文相关的草稿，并帮助你跟踪对话和后续事项。它了解你在邮件、会议、日历和附件中的工作，让你可以花更少的时间去管理沟通，而更多地专注于推进工作。 产品网站: 立即访问 Product Hunt: View on Product Hunt
+关键词：智能邮箱, Scape, 邮件管理, 自动整理, 优先级消息, 上下文草稿, 跟踪对话, 跟进, 工作效率, 邮件客户端, 日历整合, 附件管理 票数: 🔺320 是否精选：是 发布时间：2026年10月29日 PM03:01 (北京时间)
+3. Floot in ChatGPT 标语：在ChatGPT中创建并发布真实应用程序，无需离开这个平台。 介绍：Floot 现在已成为您 ChatGPT 侧边栏中的原生应用。您只需描述想要的内容，就能在聊天中实时预览它的构建过程，并通过真实链接发布。数据库、登录和托管服务都已集成，AI 则基于您的 ChatGPT 计划运行。 产品网站: 立即访问 Product Hunt: View on Product Hunt</description>
+    </item>
     <item>
       <title>[每日更新] ProductHunt热榜产品Top30 | 2026-10-29</title>
       <link>https://chtho1y.github.io/Blog/posts/producthunt-daily-2026-10-29/</link>
